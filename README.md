@@ -7,6 +7,13 @@ Open-source city-scale Melbourne SCATS traffic intelligence platform (2014–202
   <img src="docs/screenshots/18_daily_total_traffic_line.png" width="1000">
 </p>
 
+## Official SCATS Dataset Source
+
+The underlying SCATS traffic signal volume data used throughout this project originates from the Victorian Government Open Data Portal operated by the Department of Transport and Planning.
+
+🔗 Official Dataset:
+https://opendata.transport.vic.gov.au/dataset/traffic-signal-volume-data
+
 This project transforms raw SCATS and TIRTL transport sensor data into reproducible traffic intelligence, including:
 
 Network-wide congestion analysis
