@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+env/
+venv/
+
+# DuckDB
+*.duckdb
+*.wal
+
+# SQLite
+*.sqlite
+*.db
+
+# CSV / data outputs
+*.csv
+*.parquet
+
+# Logs
+*.log
+
+# Temp
+tmp/
+temp/
+
+# IDE
+.vscode/
+
+# OS
+Thumbs.db
+.DS_Store
