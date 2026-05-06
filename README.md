@@ -41,4 +41,8 @@ Outdoor advertising analytics
 Data engineers
 HPC and large-scale analytics enthusiasts
 
+This project is intended to support open transport research,
+reproducible analytics, journalism, and public-interest infrastructure
+intelligence.
+
 Created by Clarke Towson in Melbourne.
