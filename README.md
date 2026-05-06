@@ -1,4 +1,9 @@
 # melbourne-scats-intelligence
+
+<p align="center">
+  <img src="docs/logos/SpotswoodTrailersLogoTransparentSmall.png" width="300">
+</p>
+
 Open-source city-scale Melbourne SCATS traffic intelligence platform (2014–2026) using DuckDB, SQLite, GIS, and high-performance chunked analytics pipelines to transform billions of traffic observations into reproducible congestion, flow, mapping, and infrastructure intelligence.
 
 ## Daily Melbourne Traffic Volume
