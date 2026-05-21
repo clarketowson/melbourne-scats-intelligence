@@ -1,0 +1,18 @@
+{
+  "scats_site":1244,
+  "label":"Koo Wee Rup-Longwarry (Rossiter) \/ Streetation",
+  "months_seen":147,
+  "first_month":"2014-01-01",
+  "last_month":"2026-04-01",
+  "total_volume":54529567,
+  "avg_monthly_volume":370949.4353741496,
+  "max_monthly_volume":594607,
+  "busiest_month":"2014-01-01",
+  "possible_anomaly_months":1,
+  "map_name":"Koo Wee Rup-Longwarry(Rossiter) \/ Streetation",
+  "municipality":"CAR",
+  "latitude":-38.199437,
+  "longitude":145.490572,
+  "traffic_band":"green",
+  "network_rank":3427
+}

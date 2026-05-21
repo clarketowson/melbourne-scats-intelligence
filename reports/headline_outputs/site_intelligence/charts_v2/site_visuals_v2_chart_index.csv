@@ -1,0 +1,10 @@
+filename,description
+01_site_pareto_cumulative_share_v2.png,Coloured cumulative traffic share by site rank
+02_site_rank_decay_total_volume_v2.png,Coloured total volume by site rank
+03_site_rank_decay_log_scale_v2.png,Coloured rank decay on log scale
+04_monthly_network_volume_v2.png,Coloured monthly total SCATS network volume
+05_active_sites_over_time_v2.png,Coloured active SCATS sites over time
+06_percentile_band_traffic_share_v2.png,Coloured traffic share by percentile band
+07_top_n_traffic_share_v2.png,Coloured traffic share captured by top N sites
+08_top_25_sites_total_volume_v2.png,Coloured top 25 SCATS sites by total volume
+09_avg_volume_per_active_site_v2.png,Coloured average monthly volume per active site

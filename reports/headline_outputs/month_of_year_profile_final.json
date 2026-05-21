@@ -1,0 +1,22 @@
+{
+  "metric_name": "month_of_year_profile",
+  "date_range_start": "2014-01-01",
+  "date_range_end": "2026-04-07",
+  "months_total": 148,
+  "months_completed": 148,
+  "is_complete": true,
+  "rows_in_month_of_year_profile_csv": 147,
+  "physical_rows_in_csv": 148,
+  "zero_row_months": [
+    "2018-12"
+  ],
+  "best_month_of_year": 2,
+  "best_month_name": "February",
+  "best_month_avg_daily_volume": 128481098.784153,
+  "lowest_month_of_year": 1,
+  "lowest_month_name": "January",
+  "lowest_month_avg_daily_volume": 114390883.00992556,
+  "total_elapsed_seconds": 123587.253,
+  "generated_at_epoch": 1778286720.812,
+  "month_of_year_profile_csv": "A:\\TrafficAnalytics\\PROJECTS\\reports\\deduped\\month_of_year_profile.csv"
+}

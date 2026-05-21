@@ -1,0 +1,14 @@
+{
+  "metric_name": "busiest_site",
+  "date_range_start": "2014-01-01",
+  "date_range_end": "2026-04-07",
+  "months_total": 148,
+  "months_completed": 148,
+  "is_complete": true,
+  "busiest_site_id": 4415,
+  "busiest_site_name": "PRINCES NR CANNING",
+  "busiest_site_total_volume": 674498771,
+  "total_elapsed_seconds": 149633.057,
+  "generated_at_epoch": 1776922037.669,
+  "monthly_csv": "A:\\TrafficAnalytics\\PROJECTS\\reports\\deduped\\chunked_busiest_site_monthly.csv"
+}

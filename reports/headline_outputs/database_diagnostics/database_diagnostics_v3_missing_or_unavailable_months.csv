@@ -1,0 +1,2 @@
+month_label,year,month,database_sources_present,source_count,detector_day_rows,days_present,distinct_scats_sites_sum,distinct_detectors_sum,distinct_site_detector_pairs_sum,total_volume_24hour_sum,min_count_date,max_count_date,detected,known_unavailable,known_unavailable_note,is_final_partial_month,audit_status
+2018-12,2018,12,,,,,,,,,,,False,True,One monthly ingest source was unavailable and is disclosed transparently.,False,Known unavailable

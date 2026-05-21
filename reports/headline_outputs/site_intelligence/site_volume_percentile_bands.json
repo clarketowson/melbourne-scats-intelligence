@@ -1,0 +1,38 @@
+[
+  {
+    "percentile_band": "Bottom 50%",
+    "sites": 2379,
+    "total_volume": 111900783339,
+    "share_percent": 20.76
+  },
+  {
+    "percentile_band": "Top 1%",
+    "sites": 47,
+    "total_volume": 22185502350,
+    "share_percent": 4.1159
+  },
+  {
+    "percentile_band": "Top 10%",
+    "sites": 238,
+    "total_volume": 60507920422,
+    "share_percent": 11.2255
+  },
+  {
+    "percentile_band": "Top 25%",
+    "sites": 714,
+    "total_volume": 135531295187,
+    "share_percent": 25.144
+  },
+  {
+    "percentile_band": "Top 5%",
+    "sites": 190,
+    "total_volume": 62362865678,
+    "share_percent": 11.5697
+  },
+  {
+    "percentile_band": "Top 50%",
+    "sites": 1190,
+    "total_volume": 146532343263,
+    "share_percent": 27.1849
+  }
+]

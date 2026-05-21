@@ -1,0 +1,14 @@
+database_name,table_schema,table_name,row_count
+scats,main,scats_detector_day,200220982
+scats,main,scats_expected_date,0
+scats,main,scats_missing_dates,180
+scats,main,scats_site,5001
+scats,main,source_file,2724
+scats_continuation,main,scats_detector_day,189625146
+scats_continuation,main,scats_expected_date,1731
+scats_continuation,main,scats_site,5436
+scats_continuation,main,source_file,1726
+scats_recovery,main,scats_detector_day,11276955
+scats_recovery,main,scats_expected_date,2990
+scats_recovery,main,scats_site,5165
+scats_recovery,main,source_file,156

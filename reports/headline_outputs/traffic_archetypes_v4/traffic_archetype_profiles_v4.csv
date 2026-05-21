@@ -1,0 +1,12 @@
+traffic_archetype,colour,description
+Metropolitan Backbone,#7b1fa2,"Highest-scale, structurally important, stable high-volume corridors."
+Reliable Exposure Corridor,#1565c0,High-volume and stable corridors with strong persistent exposure value.
+Mature Urban Arterial,#795548,Large established roads with mature traffic demand and moderate change.
+Balanced Metropolitan Site,#8d6e63,Typical mixed urban traffic sites with no single extreme behaviour.
+Secondary Connector Corridor,#a1887f,Mid-scale connector roads linking local and arterial traffic systems.
+Rising Growth Corridor,#2e7d32,High or mid-scale corridors showing strong long-term growth.
+Emerging Local Growth Site,#43a047,Lower-scale sites with unusually strong growth signals.
+High-Volume Volatile Corridor,#d32f2f,Major sites with both high volume and high month-to-month variability.
+Event / Disruption Sensitive Site,#f57c00,Sites with strong spike behaviour and unusually high volatility.
+Unstable / Variable Site,#c2185b,Sites with high variability but lower overall strategic scale.
+Stable Low-Volume Local Site,#607d8b,"Low-volume sites with stable, predictable local traffic patterns."

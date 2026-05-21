@@ -1,0 +1,2233 @@
+[
+  {
+    "site_id": "2404",
+    "name": "PHE/PARK",
+    "lat": -37.833437,
+    "lng": 144.967764,
+    "traffic": {
+      "total_12yr": 560184622,
+      "annual_avg": 45654818,
+      "daily_avg": 124996,
+      "peak_hour": 12500
+    },
+    "parcel": {
+      "spi": "180\\RP9472",
+      "pfi": "50210583",
+      "lot": "180",
+      "plan": "RP9472",
+      "road": "N"
+    },
+    "links": {
+      "vicplan": "https://mapshare.vic.gov.au/vicplan/",
+      "street_view": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=-37.833437,144.967764"
+    }
+  },
+  {
+    "site_id": "2487",
+    "name": "PHE NR IRVING (LANSDOWNE)",
+    "lat": -37.859989,
+    "lng": 145.007416,
+    "traffic": {
+      "total_12yr": 544715773,
+      "annual_avg": 44394114,
+      "daily_avg": 121544,
+      "peak_hour": 12154
+    },
+    "parcel": {
+      "spi": "12\\RP10466",
+      "pfi": "50038775",
+      "lot": "12",
+      "plan": "RP10466",
+      "road": "N"
+    },
+    "links": {
+      "vicplan": "https://mapshare.vic.gov.au/vicplan/",
+      "street_view": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=-37.859989,145.007416"
+    }
+  },
+  {
+    "site_id": "416",
+    "name": "SPRINGVALE NR LAUGHLIN AVE",
+    "lat": -37.82145,
+    "lng": 145.17544,
+    "traffic": {
+      "total_12yr": 505992688,
+      "annual_avg": 41238198,
+      "daily_avg": 112904,
+      "peak_hour": 11290
+    },
+    "parcel": {
+      "spi": "414\\PS719605",
+      "pfi": "423872343",
+      "lot": "414",
+      "plan": "PS719605",
+      "road": "N"
+    },
+    "links": {
+      "vicplan": "https://mapshare.vic.gov.au/vicplan/",
+      "street_view": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=-37.82145,145.17544"
+    }
+  },
+  {
+    "site_id": "1359",
+    "name": "WARRIGAL/LINKS ESTATE ACCESS",
+    "lat": -37.922492,
+    "lng": 145.082756,
+    "traffic": {
+      "total_12yr": 546970945,
+      "annual_avg": 44577909,
+      "daily_avg": 122048,
+      "peak_hour": 12205
+    },
+    "parcel": {
+      "spi": "1\\PS324635",
+      "pfi": "50080697",
+      "lot": "1",
+      "plan": "PS324635",
+      "road": "N"
+    },
+    "links": {
+      "vicplan": "https://mapshare.vic.gov.au/vicplan/",
+      "street_view": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=-37.922492,145.082756"
+    }
+  },
+  {
+    "site_id": "3386",
+    "name": "HODDLE/ALBERT/ELIZABETH",
+    "lat": -37.811248,
+    "lng": 144.991117,
+    "traffic": {
+      "total_12yr": 543973902,
+      "annual_avg": 44333651,
+      "daily_avg": 121379,
+      "peak_hour": 12138
+    },
+    "parcel": {
+      "spi": "1\\TP888676",
+      "pfi": "1365489",
+      "lot": "1",
+      "plan": "TP888676",
+      "road": "N"
+    },
+    "links": {
+      "vicplan": "https://mapshare.vic.gov.au/vicplan/",
+      "street_view": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=-37.811248,144.991117"
+    }
+  },
+  {
+    "site_id": "2420",
+    "name": "PHE/GRANGE",
+    "lat": -37.881163,
+    "lng": 145.049558,
+    "traffic": {
+      "total_12yr": 424321860,
+      "annual_avg": 34582059,
+      "daily_avg": 94681,
+      "peak_hour": 9468
+    },
+    "parcel": {
+      "spi": "B8\\PS336580",
+      "pfi": "50195035",
+      "lot": "B8",
+      "plan": "PS336580",
+      "road": "N"
+    },
+    "links": {
+      "vicplan": "https://mapshare.vic.gov.au/vicplan/",
+      "street_view": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=-37.881163,145.049558"
+    }
+  },
+  {
+    "site_id": "3380",
+    "name": "EASTERN FWY OFF RAMP/HODDLE",
+    "lat": -37.795997,
+    "lng": 144.99397,
+    "traffic": {
+      "total_12yr": 638170425,
+      "annual_avg": 52010630,
+      "daily_avg": 142397,
+      "peak_hour": 14240
+    },
+    "parcel": {
+      "spi": "3\\TP609629",
+      "pfi": "221454013",
+      "lot": "3",
+      "plan": "TP609629",
+      "road": "N"
+    },
+    "links": {
+      "vicplan": "https://mapshare.vic.gov.au/vicplan/",
+      "street_view": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=-37.795997,144.99397"
+    }
+  },
+  {
+    "site_id": "3060",
+    "name": "BELL/HIGH",
+    "lat": -37.745172,
+    "lng": 145.002817,
+    "traffic": {
+      "total_12yr": 492433092,
+      "annual_avg": 40133096,
+      "daily_avg": 109878,
+      "peak_hour": 10988
+    },
+    "parcel": {
+      "spi": "1\\TP382097",
+      "pfi": "211746041",
+      "lot": "1",
+      "plan": "TP382097",
+      "road": "N"
+    },
+    "links": {
+      "vicplan": "https://mapshare.vic.gov.au/vicplan/",
+      "street_view": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=-37.745172,145.002817"
+    }
+  },
+  {
+    "site_id": "855",
+    "name": "CANTERBURY/HEATHMONT",
+    "lat": -37.829799,
+    "lng": 145.244803,
+    "traffic": {
+      "total_12yr": 497003865,
+      "annual_avg": 40505612,
+      "daily_avg": 110898,
+      "peak_hour": 11090
+    },
+    "parcel": {
+      "spi": "1\\LP38616",
+      "pfi": "2004707",
+      "lot": "1",
+      "plan": "LP38616",
+      "road": "N"
+    },
+    "links": {
+      "vicplan": "https://mapshare.vic.gov.au/vicplan/",
+      "street_view": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=-37.829799,145.244803"
+    }
+  },
+  {
+    "site_id": "415",
+    "name": "SPRINGVALE NR WALKERS/SILVER",
+    "lat": -37.819786,
+    "lng": 145.175764,
+    "traffic": {
+      "total_12yr": 488718913,
+      "annual_avg": 39830392,
+      "daily_avg": 109050,
+      "peak_hour": 10905
+    },
+    "parcel": {
+      "spi": "49\\LP10994",
+      "pfi": "2018749",
+      "lot": "49",
+      "plan": "LP10994",
+      "road": "N"
+    },
+    "links": {
+      "vicplan": "https://mapshare.vic.gov.au/vicplan/",
+      "street_view": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=-37.819786,145.175764"
+    }
+  },
+  {
+    "site_id": "3519",
+    "name": "MT ALEXANDER NR LINCOLN",
+    "lat": -37.744751,
+    "lng": 144.910236,
+    "traffic": {
+      "total_12yr": 513927484,
+      "annual_avg": 41884881,
+      "daily_avg": 114675,
+      "peak_hour": 11468
+    },
+    "parcel": {
+      "spi": "308\\PS529302",
+      "pfi": "203378110",
+      "lot": "308",
+      "plan": "PS529302",
+      "road": "N"
+    },
+    "links": {
+      "vicplan": "https://mapshare.vic.gov.au/vicplan/",
+      "street_view": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=-37.744751,144.910236"
+    }
+  },
+  {
+    "site_id": "3516",
+    "name": "BULLA NR HOLYROOD",
+    "lat": -37.738597,
+    "lng": 144.906609,
+    "traffic": {
+      "total_12yr": 494139005,
+      "annual_avg": 40272128,
+      "daily_avg": 110259,
+      "peak_hour": 11026
+    },
+    "parcel": {
+      "spi": "27\\LP9089",
+      "pfi": "999013",
+      "lot": "27",
+      "plan": "LP9089",
+      "road": "N"
+    },
+    "links": {
+      "vicplan": "https://mapshare.vic.gov.au/vicplan/",
+      "street_view": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=-37.738597,144.906609"
+    }
+  },
+  {
+    "site_id": "414",
+    "name": "SPRINGVALE NR TUNSTALL",
+    "lat": -37.815046,
+    "lng": 145.176542,
+    "traffic": {
+      "total_12yr": 486344942,
+      "annual_avg": 39636915,
+      "daily_avg": 108520,
+      "peak_hour": 10852
+    },
+    "parcel": {
+      "spi": "2\\PS311168",
+      "pfi": "1500265",
+      "lot": "2",
+      "plan": "PS311168",
+      "road": "N"
+    },
+    "links": {
+      "vicplan": "https://mapshare.vic.gov.au/vicplan/",
+      "street_view": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=-37.815046,145.176542"
+    }
+  },
+  {
+    "site_id": "2438",
+    "name": "PHE NR THE AVENUE",
+    "lat": -37.858271,
+    "lng": 144.996902,
+    "traffic": {
+      "total_12yr": 470322516,
+      "annual_avg": 38331093,
+      "daily_avg": 104945,
+      "peak_hour": 10494
+    },
+    "parcel": {
+      "spi": "45\\RP1141",
+      "pfi": "211359326",
+      "lot": "45",
+      "plan": "RP1141",
+      "road": "N"
+    },
+    "links": {
+      "vicplan": "https://mapshare.vic.gov.au/vicplan/",
+      "street_view": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=-37.858271,144.996902"
+    }
+  },
+  {
+    "site_id": "2405",
+    "name": "PHE/ALBERT",
+    "lat": -37.83513,
+    "lng": 144.971089,
+    "traffic": {
+      "total_12yr": 518575823,
+      "annual_avg": 42263718,
+      "daily_avg": 115712,
+      "peak_hour": 11571
+    },
+    "parcel": {
+      "spi": "74\\RP16140",
+      "pfi": "152048437",
+      "lot": "74",
+      "plan": "RP16140",
+      "road": "N"
+    },
+    "links": {
+      "vicplan": "https://mapshare.vic.gov.au/vicplan/",
+      "street_view": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=-37.83513,144.971089"
+    }
+  },
+  {
+    "site_id": "3357",
+    "name": "MRR/GREENSBOROUGH HWY",
+    "lat": -37.695056,
+    "lng": 145.092566,
+    "traffic": {
+      "total_12yr": 495736142,
+      "annual_avg": 40402294,
+      "daily_avg": 110615,
+      "peak_hour": 11062
+    },
+    "parcel": {
+      "spi": "1\\LP86815",
+      "pfi": "907797",
+      "lot": "1",
+      "plan": "LP86815",
+      "road": "N"
+    },
+    "links": {
+      "vicplan": "https://mapshare.vic.gov.au/vicplan/",
+      "street_view": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=-37.695056,145.092566"
+    }
+  },
+  {
+    "site_id": "2403",
+    "name": "PHE/STURT",
+    "lat": -37.830784,
+    "lng": 144.965153,
+    "traffic": {
+      "total_12yr": 456674810,
+      "annual_avg": 37218811,
+      "daily_avg": 101900,
+      "peak_hour": 10190
+    },
+    "parcel": {
+      "spi": "9\\SP21842",
+      "pfi": "50164925",
+      "lot": "9",
+      "plan": "SP21842",
+      "road": "N"
+    },
+    "links": {
+      "vicplan": "https://mapshare.vic.gov.au/vicplan/",
+      "street_view": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=-37.830784,144.965153"
+    }
+  },
+  {
+    "site_id": "2929",
+    "name": "KING ST/FLINDERS ST",
+    "lat": -37.820364,
+    "lng": 144.957558,
+    "traffic": {
+      "total_12yr": 485057518,
+      "annual_avg": 39531990,
+      "daily_avg": 108233,
+      "peak_hour": 10823
+    },
+    "parcel": {
+      "spi": "707\\RP5395",
+      "pfi": "50071346",
+      "lot": "707",
+      "plan": "RP5395",
+      "road": "N"
+    },
+    "links": {
+      "vicplan": "https://mapshare.vic.gov.au/vicplan/",
+      "street_view": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=-37.820364,144.957558"
+    }
+  },
+  {
+    "site_id": "4415",
+    "name": "PRINCES NR CANNING",
+    "lat": -37.792825,
+    "lng": 144.973731,
+    "traffic": {
+      "total_12yr": 674498771,
+      "annual_avg": 54971375,
+      "daily_avg": 150503,
+      "peak_hour": 15050
+    },
+    "parcel": {
+      "spi": "1\\TP110931",
+      "pfi": "1389524",
+      "lot": "1",
+      "plan": "TP110931",
+      "road": "N"
+    },
+    "links": {
+      "vicplan": "https://mapshare.vic.gov.au/vicplan/",
+      "street_view": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=-37.792825,144.973731"
+    }
+  },
+  {
+    "site_id": "3360",
+    "name": "BANKSIA/LWR HEIDELBERG",
+    "lat": -37.75973,
+    "lng": 145.069047,
+    "traffic": {
+      "total_12yr": 452364288,
+      "annual_avg": 36867505,
+      "daily_avg": 100938,
+      "peak_hour": 10094
+    },
+    "parcel": {
+      "spi": "1\\PS812000",
+      "pfi": "431078306",
+      "lot": "1",
+      "plan": "PS812000",
+      "road": "N"
+    },
+    "links": {
+      "vicplan": "https://mapshare.vic.gov.au/vicplan/",
+      "street_view": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=-37.75973,145.069047"
+    }
+  },
+  {
+    "site_id": "3382",
+    "name": "HODDLE/JOHNSTON",
+    "lat": -37.799845,
+    "lng": 144.992987,
+    "traffic": {
+      "total_12yr": 415850171,
+      "annual_avg": 33891619,
+      "daily_avg": 92790,
+      "peak_hour": 9279
+    },
+    "parcel": {
+      "spi": "3\\LP51110",
+      "pfi": "52352765",
+      "lot": "3",
+      "plan": "LP51110",
+      "road": "N"
+    },
+    "links": {
+      "vicplan": "https://mapshare.vic.gov.au/vicplan/",
+      "street_view": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=-37.799845,144.992987"
+    }
+  },
+  {
+    "site_id": "2985",
+    "name": "PHE NR CLOSEBURN",
+    "lat": -37.859189,
+    "lng": 145.003684,
+    "traffic": {
+      "total_12yr": 431212288,
+      "annual_avg": 35143626,
+      "daily_avg": 96218,
+      "peak_hour": 9622
+    },
+    "parcel": {
+      "spi": "4\\RP11526",
+      "pfi": "218212761",
+      "lot": "4",
+      "plan": "RP11526",
+      "road": "N"
+    },
+    "links": {
+      "vicplan": "https://mapshare.vic.gov.au/vicplan/",
+      "street_view": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=-37.859189,145.003684"
+    }
+  },
+  {
+    "site_id": "4902",
+    "name": "MONTAGUE/LORIMER",
+    "lat": -37.825204,
+    "lng": 144.947548,
+    "traffic": {
+      "total_12yr": 325325591,
+      "annual_avg": 26513903,
+      "daily_avg": 72591,
+      "peak_hour": 7259
+    },
+    "parcel": {
+      "spi": "265\\PS428541",
+      "pfi": "203603453",
+      "lot": "265",
+      "plan": "PS428541",
+      "road": "N"
+    },
+    "links": {
+      "vicplan": "https://mapshare.vic.gov.au/vicplan/",
+      "street_view": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=-37.825204,144.947548"
+    }
+  },
+  {
+    "site_id": "3056",
+    "name": "BELL/NICHOLSON/ELIZABETH",
+    "lat": -37.742572,
+    "lng": 144.978066,
+    "traffic": {
+      "total_12yr": 354941351,
+      "annual_avg": 28927575,
+      "daily_avg": 79199,
+      "peak_hour": 7920
+    },
+    "parcel": {
+      "spi": "17\\PS520854",
+      "pfi": "202256945",
+      "lot": "17",
+      "plan": "PS520854",
+      "road": "N"
+    },
+    "links": {
+      "vicplan": "https://mapshare.vic.gov.au/vicplan/",
+      "street_view": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=-37.742572,144.978066"
+    }
+  },
+  {
+    "site_id": "3381",
+    "name": "HODDLE/TRURO",
+    "lat": -37.797937,
+    "lng": 144.993283,
+    "traffic": {
+      "total_12yr": 460540614,
+      "annual_avg": 37533872,
+      "daily_avg": 102762,
+      "peak_hour": 10276
+    },
+    "parcel": {
+      "spi": "1\\PS412532",
+      "pfi": "52354391",
+      "lot": "1",
+      "plan": "PS412532",
+      "road": "N"
+    },
+    "links": {
+      "vicplan": "https://mapshare.vic.gov.au/vicplan/",
+      "street_view": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=-37.797937,144.993283"
+    }
+  },
+  {
+    "site_id": "2100",
+    "name": "EASTERN/NICHOLSON/PRINCES",
+    "lat": -37.793047,
+    "lng": 144.975715,
+    "traffic": {
+      "total_12yr": 404076099,
+      "annual_avg": 32932037,
+      "daily_avg": 90163,
+      "peak_hour": 9016
+    },
+    "parcel": {
+      "spi": "1\\TP683306",
+      "pfi": "1394136",
+      "lot": "1",
+      "plan": "TP683306",
+      "road": "N"
+    },
+    "links": {
+      "vicplan": "https://mapshare.vic.gov.au/vicplan/",
+      "street_view": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=-37.793047,144.975715"
+    }
+  },
+  {
+    "site_id": "3059",
+    "name": "BELL/ST GEORGES",
+    "lat": -37.744603,
+    "lng": 144.997452,
+    "traffic": {
+      "total_12yr": 424979480,
+      "annual_avg": 34635654,
+      "daily_avg": 94827,
+      "peak_hour": 9483
+    },
+    "parcel": {
+      "spi": "1\\TP79184",
+      "pfi": "178058",
+      "lot": "1",
+      "plan": "TP79184",
+      "road": "N"
+    },
+    "links": {
+      "vicplan": "https://mapshare.vic.gov.au/vicplan/",
+      "street_view": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=-37.744603,144.997452"
+    }
+  },
+  {
+    "site_id": "2329",
+    "name": "NEPEAN/WARRIGAL/BALCOMBE",
+    "lat": -37.982174,
+    "lng": 145.071351,
+    "traffic": {
+      "total_12yr": 415125460,
+      "annual_avg": 33832556,
+      "daily_avg": 92628,
+      "peak_hour": 9263
+    },
+    "parcel": {
+      "spi": "605\\PS728658",
+      "pfi": "423039984",
+      "lot": "605",
+      "plan": "PS728658",
+      "road": "N"
+    },
+    "links": {
+      "vicplan": "https://mapshare.vic.gov.au/vicplan/",
+      "street_view": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=-37.982174,145.071351"
+    }
+  },
+  {
+    "site_id": "538",
+    "name": "BURWOOD HWY/STANLEY/FORTESCUE",
+    "lat": -37.855474,
+    "lng": 145.175184,
+    "traffic": {
+      "total_12yr": 428564669,
+      "annual_avg": 34927846,
+      "daily_avg": 95627,
+      "peak_hour": 9563
+    },
+    "parcel": {
+      "spi": "109\\PS814182",
+      "pfi": "431688978",
+      "lot": "109",
+      "plan": "PS814182",
+      "road": "N"
+    },
+    "links": {
+      "vicplan": "https://mapshare.vic.gov.au/vicplan/",
+      "street_view": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=-37.855474,145.175184"
+    }
+  },
+  {
+    "site_id": "849",
+    "name": "CANTERBURY/MITCHAM/BORONIA",
+    "lat": -37.836096,
+    "lng": 145.195312,
+    "traffic": {
+      "total_12yr": 548183949,
+      "annual_avg": 44676768,
+      "daily_avg": 122318,
+      "peak_hour": 12232
+    },
+    "parcel": {
+      "spi": "3\\LP14108",
+      "pfi": "1472158",
+      "lot": "3",
+      "plan": "LP14108",
+      "road": "N"
+    },
+    "links": {
+      "vicplan": "https://mapshare.vic.gov.au/vicplan/",
+      "street_view": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=-37.836096,145.195312"
+    }
+  },
+  {
+    "site_id": "4155",
+    "name": "HIGH NR WALKER",
+    "lat": -37.78381,
+    "lng": 144.996148,
+    "traffic": {
+      "total_12yr": 365437068,
+      "annual_avg": 29782972,
+      "daily_avg": 81541,
+      "peak_hour": 8154
+    },
+    "parcel": {
+      "spi": "3GF\\PS900086",
+      "pfi": "457939174",
+      "lot": "3GF",
+      "plan": "PS900086",
+      "road": "N"
+    },
+    "links": {
+      "vicplan": "https://mapshare.vic.gov.au/vicplan/",
+      "street_view": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=-37.78381,144.996148"
+    }
+  },
+  {
+    "site_id": "2103",
+    "name": "EASTERN HWY/SMITH",
+    "lat": -37.794078,
+    "lng": 144.985112,
+    "traffic": {
+      "total_12yr": 385146382,
+      "annual_avg": 31389273,
+      "daily_avg": 85939,
+      "peak_hour": 8594
+    },
+    "parcel": {
+      "spi": "402\\PS738897",
+      "pfi": "427539828",
+      "lot": "402",
+      "plan": "PS738897",
+      "road": "N"
+    },
+    "links": {
+      "vicplan": "https://mapshare.vic.gov.au/vicplan/",
+      "street_view": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=-37.794078,144.985112"
+    }
+  },
+  {
+    "site_id": "2316",
+    "name": "NEPEAN/NORTH",
+    "lat": -37.899837,
+    "lng": 145.006459,
+    "traffic": {
+      "total_12yr": 432349576,
+      "annual_avg": 35236314,
+      "daily_avg": 96472,
+      "peak_hour": 9647
+    },
+    "parcel": {
+      "spi": "PC376846",
+      "pfi": "428779591",
+      "lot": "nan",
+      "plan": "PC376846",
+      "road": "N"
+    },
+    "links": {
+      "vicplan": "https://mapshare.vic.gov.au/vicplan/",
+      "street_view": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=-37.899837,145.006459"
+    }
+  },
+  {
+    "site_id": "2326",
+    "name": "NEPEAN/BAY/KAREN",
+    "lat": -37.957435,
+    "lng": 145.051922,
+    "traffic": {
+      "total_12yr": 444606362,
+      "annual_avg": 36235237,
+      "daily_avg": 99207,
+      "peak_hour": 9921
+    },
+    "parcel": {
+      "spi": "204A\\PS849889",
+      "pfi": "457095227",
+      "lot": "204A",
+      "plan": "PS849889",
+      "road": "N"
+    },
+    "links": {
+      "vicplan": "https://mapshare.vic.gov.au/vicplan/",
+      "street_view": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=-37.957435,145.051922"
+    }
+  },
+  {
+    "site_id": "3384",
+    "name": "HODDLE/LANGRIDGE",
+    "lat": -37.807161,
+    "lng": 144.991773,
+    "traffic": {
+      "total_12yr": 401283844,
+      "annual_avg": 32704470,
+      "daily_avg": 89540,
+      "peak_hour": 8954
+    },
+    "parcel": {
+      "spi": "1\\TP918559",
+      "pfi": "208505063",
+      "lot": "1",
+      "plan": "TP918559",
+      "road": "N"
+    },
+    "links": {
+      "vicplan": "https://mapshare.vic.gov.au/vicplan/",
+      "street_view": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=-37.807161,144.991773"
+    }
+  },
+  {
+    "site_id": "2337",
+    "name": "NEPEAN/CUMMINS/PATTERSON",
+    "lat": -37.924902,
+    "lng": 145.026256,
+    "traffic": {
+      "total_12yr": 403381671,
+      "annual_avg": 32875442,
+      "daily_avg": 90008,
+      "peak_hour": 9001
+    },
+    "parcel": {
+      "spi": "1\\TP83305",
+      "pfi": "384662",
+      "lot": "1",
+      "plan": "TP83305",
+      "road": "N"
+    },
+    "links": {
+      "vicplan": "https://mapshare.vic.gov.au/vicplan/",
+      "street_view": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=-37.924902,145.026256"
+    }
+  },
+  {
+    "site_id": "2173",
+    "name": "SYDNEY/WRR",
+    "lat": -37.692181,
+    "lng": 144.95865,
+    "traffic": {
+      "total_12yr": 416360476,
+      "annual_avg": 33933209,
+      "daily_avg": 92904,
+      "peak_hour": 9290
+    },
+    "parcel": {
+      "spi": "2\\TP517478",
+      "pfi": "426728090",
+      "lot": "2",
+      "plan": "TP517478",
+      "road": "Y"
+    },
+    "links": {
+      "vicplan": "https://mapshare.vic.gov.au/vicplan/",
+      "street_view": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=-37.692181,144.95865"
+    }
+  },
+  {
+    "site_id": "2701",
+    "name": "MELTON HWY/SUNSHINE",
+    "lat": -37.701628,
+    "lng": 144.800222,
+    "traffic": {
+      "total_12yr": 402877256,
+      "annual_avg": 32834332,
+      "daily_avg": 89896,
+      "peak_hour": 8990
+    },
+    "parcel": {
+      "spi": "1\\PS303639",
+      "pfi": "52466193",
+      "lot": "1",
+      "plan": "PS303639",
+      "road": "N"
+    },
+    "links": {
+      "vicplan": "https://mapshare.vic.gov.au/vicplan/",
+      "street_view": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=-37.701628,144.800222"
+    }
+  },
+  {
+    "site_id": "3383",
+    "name": "HODDLE/GIPPS",
+    "lat": -37.804991,
+    "lng": 144.99213,
+    "traffic": {
+      "total_12yr": 414910027,
+      "annual_avg": 33814998,
+      "daily_avg": 92580,
+      "peak_hour": 9258
+    },
+    "parcel": {
+      "spi": "101\\PS736206",
+      "pfi": "422702112",
+      "lot": "101",
+      "plan": "PS736206",
+      "road": "N"
+    },
+    "links": {
+      "vicplan": "https://mapshare.vic.gov.au/vicplan/",
+      "street_view": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=-37.804991,144.99213"
+    }
+  },
+  {
+    "site_id": "948",
+    "name": "PHE/SPRINGVALE BYPASS/Westall",
+    "lat": -37.924655,
+    "lng": 145.143566,
+    "traffic": {
+      "total_12yr": 409360248,
+      "annual_avg": 33362693,
+      "daily_avg": 91342,
+      "peak_hour": 9134
+    },
+    "parcel": {
+      "spi": "R1\\PS625000",
+      "pfi": "217321525",
+      "lot": "R1",
+      "plan": "PS625000",
+      "road": "Y"
+    },
+    "links": {
+      "vicplan": "https://mapshare.vic.gov.au/vicplan/",
+      "street_view": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=-37.924655,145.143566"
+    }
+  },
+  {
+    "site_id": "2020",
+    "name": "BURWOOD HWY NR MILPERA",
+    "lat": -37.863825,
+    "lng": 145.219784,
+    "traffic": {
+      "total_12yr": 372199007,
+      "annual_avg": 30334067,
+      "daily_avg": 83050,
+      "peak_hour": 8305
+    },
+    "parcel": {
+      "spi": "12\\LP117445",
+      "pfi": "1269770",
+      "lot": "12",
+      "plan": "LP117445",
+      "road": "N"
+    },
+    "links": {
+      "vicplan": "https://mapshare.vic.gov.au/vicplan/",
+      "street_view": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=-37.863825,145.219784"
+    }
+  },
+  {
+    "site_id": "1156",
+    "name": "SOUTH GIPPSLAND HWY BTW STATION/LOCH",
+    "lat": -38.100842,
+    "lng": 145.282694,
+    "traffic": {
+      "total_12yr": 377073282,
+      "annual_avg": 30731319,
+      "daily_avg": 84138,
+      "peak_hour": 8414
+    },
+    "parcel": {
+      "spi": "1\\TP547478",
+      "pfi": "213232153",
+      "lot": "1",
+      "plan": "TP547478",
+      "road": "N"
+    },
+    "links": {
+      "vicplan": "https://mapshare.vic.gov.au/vicplan/",
+      "street_view": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=-38.100842,145.282694"
+    }
+  },
+  {
+    "site_id": "814",
+    "name": "MT DANDENONG NR LILYDALE-MON",
+    "lat": -37.810355,
+    "lng": 145.343284,
+    "traffic": {
+      "total_12yr": 320599397,
+      "annual_avg": 26128720,
+      "daily_avg": 71537,
+      "peak_hour": 7154
+    },
+    "parcel": {
+      "spi": "2\\PS406230",
+      "pfi": "2081910",
+      "lot": "2",
+      "plan": "PS406230",
+      "road": "N"
+    },
+    "links": {
+      "vicplan": "https://mapshare.vic.gov.au/vicplan/",
+      "street_view": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=-37.810355,145.343284"
+    }
+  },
+  {
+    "site_id": "3385",
+    "name": "HODDLE/VICTORIA",
+    "lat": -37.809908,
+    "lng": 144.99132,
+    "traffic": {
+      "total_12yr": 449217059,
+      "annual_avg": 36611007,
+      "daily_avg": 100235,
+      "peak_hour": 10024
+    },
+    "parcel": {
+      "spi": "6\\SP24718",
+      "pfi": "202152407",
+      "lot": "6",
+      "plan": "SP24718",
+      "road": "N"
+    },
+    "links": {
+      "vicplan": "https://mapshare.vic.gov.au/vicplan/",
+      "street_view": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=-37.809908,144.99132"
+    }
+  },
+  {
+    "site_id": "4461",
+    "name": "FLEMINGTON/RACECOURSE/ELLIOT",
+    "lat": -37.789404,
+    "lng": 144.942166,
+    "traffic": {
+      "total_12yr": 372247743,
+      "annual_avg": 30338039,
+      "daily_avg": 83061,
+      "peak_hour": 8306
+    },
+    "parcel": {
+      "spi": "8\\SP26040",
+      "pfi": "2088906",
+      "lot": "8",
+      "plan": "SP26040",
+      "road": "N"
+    },
+    "links": {
+      "vicplan": "https://mapshare.vic.gov.au/vicplan/",
+      "street_view": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=-37.789404,144.942166"
+    }
+  },
+  {
+    "site_id": "2104",
+    "name": "EASTERN HWY/WELLINGTON",
+    "lat": -37.794388,
+    "lng": 144.988164,
+    "traffic": {
+      "total_12yr": 367296762,
+      "annual_avg": 29934536,
+      "daily_avg": 81956,
+      "peak_hour": 8196
+    },
+    "parcel": {
+      "spi": "1\\PS414480",
+      "pfi": "53012786",
+      "lot": "1",
+      "plan": "PS414480",
+      "road": "N"
+    },
+    "links": {
+      "vicplan": "https://mapshare.vic.gov.au/vicplan/",
+      "street_view": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=-37.794388,144.988164"
+    }
+  },
+  {
+    "site_id": "4744",
+    "name": "TOORAK NR SURREY",
+    "lat": -37.839857,
+    "lng": 144.998594,
+    "traffic": {
+      "total_12yr": 290075067,
+      "annual_avg": 23641000,
+      "daily_avg": 64726,
+      "peak_hour": 6473
+    },
+    "parcel": {
+      "spi": "14\\PS332433",
+      "pfi": "50249768",
+      "lot": "14",
+      "plan": "PS332433",
+      "road": "N"
+    },
+    "links": {
+      "vicplan": "https://mapshare.vic.gov.au/vicplan/",
+      "street_view": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=-37.839857,144.998594"
+    }
+  },
+  {
+    "site_id": "2407",
+    "name": "PHE/LORNE (X LAKESIDE)",
+    "lat": -37.850738,
+    "lng": 144.978351,
+    "traffic": {
+      "total_12yr": 375739484,
+      "annual_avg": 30622615,
+      "daily_avg": 83840,
+      "peak_hour": 8384
+    },
+    "parcel": {
+      "spi": "2116\\PP3084D",
+      "pfi": "209821090",
+      "lot": "nan",
+      "plan": "nan",
+      "road": "Y"
+    },
+    "links": {
+      "vicplan": "https://mapshare.vic.gov.au/vicplan/",
+      "street_view": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=-37.850738,144.978351"
+    }
+  },
+  {
+    "site_id": "2336",
+    "name": "NEPEAN/DENDY",
+    "lat": -37.922877,
+    "lng": 145.024464,
+    "traffic": {
+      "total_12yr": 368801497,
+      "annual_avg": 30057172,
+      "daily_avg": 82292,
+      "peak_hour": 8229
+    },
+    "parcel": {
+      "spi": "1\\TP545123",
+      "pfi": "204885340",
+      "lot": "1",
+      "plan": "TP545123",
+      "road": "N"
+    },
+    "links": {
+      "vicplan": "https://mapshare.vic.gov.au/vicplan/",
+      "street_view": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=-37.922877,145.024464"
+    }
+  },
+  {
+    "site_id": "2101",
+    "name": "EASTERN HWY/QUEENS/BRUNSWICK",
+    "lat": -37.793121,
+    "lng": 144.979346,
+    "traffic": {
+      "total_12yr": 497445056,
+      "annual_avg": 40541569,
+      "daily_avg": 110997,
+      "peak_hour": 11100
+    },
+    "parcel": {
+      "spi": "304\\PS710975",
+      "pfi": "221087176",
+      "lot": "304",
+      "plan": "PS710975",
+      "road": "N"
+    },
+    "links": {
+      "vicplan": "https://mapshare.vic.gov.au/vicplan/",
+      "street_view": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=-37.793121,144.979346"
+    }
+  },
+  {
+    "site_id": "2172",
+    "name": "WRR/PASCOE VALE",
+    "lat": -37.694667,
+    "lng": 144.915258,
+    "traffic": {
+      "total_12yr": 375339204,
+      "annual_avg": 30589992,
+      "daily_avg": 83751,
+      "peak_hour": 8375
+    },
+    "parcel": {
+      "spi": "1\\TP972182",
+      "pfi": "213944437",
+      "lot": "1",
+      "plan": "TP972182",
+      "road": "N"
+    },
+    "links": {
+      "vicplan": "https://mapshare.vic.gov.au/vicplan/",
+      "street_view": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=-37.694667,144.915258"
+    }
+  },
+  {
+    "site_id": "5296",
+    "name": "PHW/FEDERATION TRAIL",
+    "lat": -37.819275,
+    "lng": 144.840111,
+    "traffic": {
+      "total_12yr": 381968735,
+      "annual_avg": 31130296,
+      "daily_avg": 85230,
+      "peak_hour": 8523
+    },
+    "parcel": {
+      "spi": "1\\TP447993",
+      "pfi": "52464402",
+      "lot": "1",
+      "plan": "TP447993",
+      "road": "N"
+    },
+    "links": {
+      "vicplan": "https://mapshare.vic.gov.au/vicplan/",
+      "street_view": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=-37.819275,144.840111"
+    }
+  },
+  {
+    "site_id": "2315",
+    "name": "NEPEAN/MARTIN/GARDENVALE",
+    "lat": -37.897608,
+    "lng": 145.005663,
+    "traffic": {
+      "total_12yr": 387977284,
+      "annual_avg": 31619991,
+      "daily_avg": 86571,
+      "peak_hour": 8657
+    },
+    "parcel": {
+      "spi": "8\\RP12638",
+      "pfi": "212023366",
+      "lot": "8",
+      "plan": "RP12638",
+      "road": "N"
+    },
+    "links": {
+      "vicplan": "https://mapshare.vic.gov.au/vicplan/",
+      "street_view": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=-37.897608,145.005663"
+    }
+  },
+  {
+    "site_id": "2498",
+    "name": "PHW NR WALES",
+    "lat": -37.805355,
+    "lng": 144.880191,
+    "traffic": {
+      "total_12yr": 321827244,
+      "annual_avg": 26228789,
+      "daily_avg": 71811,
+      "peak_hour": 7181
+    },
+    "parcel": {
+      "spi": "109\\PS746280",
+      "pfi": "425295211",
+      "lot": "109",
+      "plan": "PS746280",
+      "road": "N"
+    },
+    "links": {
+      "vicplan": "https://mapshare.vic.gov.au/vicplan/",
+      "street_view": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=-37.805355,144.880191"
+    }
+  },
+  {
+    "site_id": "3393",
+    "name": "PUNT/SWAN",
+    "lat": -37.824602,
+    "lng": 144.988855,
+    "traffic": {
+      "total_12yr": 489568230,
+      "annual_avg": 39899611,
+      "daily_avg": 109239,
+      "peak_hour": 10924
+    },
+    "parcel": {
+      "spi": "1\\TP877248",
+      "pfi": "211417461",
+      "lot": "1",
+      "plan": "TP877248",
+      "road": "N"
+    },
+    "links": {
+      "vicplan": "https://mapshare.vic.gov.au/vicplan/",
+      "street_view": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=-37.824602,144.988855"
+    }
+  },
+  {
+    "site_id": "2406",
+    "name": "PHE/QUEENS",
+    "lat": -37.836233,
+    "lng": 144.973047,
+    "traffic": {
+      "total_12yr": 381814908,
+      "annual_avg": 31117759,
+      "daily_avg": 85196,
+      "peak_hour": 8520
+    },
+    "parcel": {
+      "spi": "723\\PS500424",
+      "pfi": "202440310",
+      "lot": "723",
+      "plan": "PS500424",
+      "road": "N"
+    },
+    "links": {
+      "vicplan": "https://mapshare.vic.gov.au/vicplan/",
+      "street_view": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=-37.836233,144.973047"
+    }
+  },
+  {
+    "site_id": "3390",
+    "name": "PUNT/BRIDGE/HODDLE/WELLINGTON",
+    "lat": -37.817555,
+    "lng": 144.990013,
+    "traffic": {
+      "total_12yr": 385989403,
+      "annual_avg": 31457979,
+      "daily_avg": 86127,
+      "peak_hour": 8613
+    },
+    "parcel": {
+      "spi": "30\\PS310669",
+      "pfi": "50189395",
+      "lot": "30",
+      "plan": "PS310669",
+      "road": "N"
+    },
+    "links": {
+      "vicplan": "https://mapshare.vic.gov.au/vicplan/",
+      "street_view": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=-37.817555,144.990013"
+    }
+  },
+  {
+    "site_id": "3389",
+    "name": "HODDLE/FREEMAN",
+    "lat": -37.815331,
+    "lng": 144.990367,
+    "traffic": {
+      "total_12yr": 344377178,
+      "annual_avg": 28066600,
+      "daily_avg": 76842,
+      "peak_hour": 7684
+    },
+    "parcel": {
+      "spi": "12\\SP27785",
+      "pfi": "218847943",
+      "lot": "12",
+      "plan": "SP27785",
+      "road": "N"
+    },
+    "links": {
+      "vicplan": "https://mapshare.vic.gov.au/vicplan/",
+      "street_view": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=-37.815331,144.990367"
+    }
+  },
+  {
+    "site_id": "3681",
+    "name": "MONASH/WARRIGAL",
+    "lat": -37.883239,
+    "lng": 145.090011,
+    "traffic": {
+      "total_12yr": 406633229,
+      "annual_avg": 33140442,
+      "daily_avg": 90734,
+      "peak_hour": 9073
+    },
+    "parcel": {
+      "spi": "1\\TP167498",
+      "pfi": "2011486",
+      "lot": "1",
+      "plan": "TP167498",
+      "road": "N"
+    },
+    "links": {
+      "vicplan": "https://mapshare.vic.gov.au/vicplan/",
+      "street_view": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=-37.883239,145.090011"
+    }
+  },
+  {
+    "site_id": "2421",
+    "name": "PHE/DARLING/KOORNANG",
+    "lat": -37.883888,
+    "lng": 145.058073,
+    "traffic": {
+      "total_12yr": 387026675,
+      "annual_avg": 31542516,
+      "daily_avg": 86359,
+      "peak_hour": 8636
+    },
+    "parcel": {
+      "spi": "11\\RP13438",
+      "pfi": "172702053",
+      "lot": "11",
+      "plan": "RP13438",
+      "road": "N"
+    },
+    "links": {
+      "vicplan": "https://mapshare.vic.gov.au/vicplan/",
+      "street_view": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=-37.883888,145.058073"
+    }
+  },
+  {
+    "site_id": "2320",
+    "name": "NEPEAN/CENTRE",
+    "lat": -37.915897,
+    "lng": 145.018118,
+    "traffic": {
+      "total_12yr": 347501419,
+      "annual_avg": 28321224,
+      "daily_avg": 77539,
+      "peak_hour": 7754
+    },
+    "parcel": {
+      "spi": "5\\PS446951",
+      "pfi": "52960214",
+      "lot": "5",
+      "plan": "PS446951",
+      "road": "N"
+    },
+    "links": {
+      "vicplan": "https://mapshare.vic.gov.au/vicplan/",
+      "street_view": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=-37.915897,145.018118"
+    }
+  },
+  {
+    "site_id": "3706",
+    "name": "WARRIGAL/MIDDLE",
+    "lat": -37.886996,
+    "lng": 145.089382,
+    "traffic": {
+      "total_12yr": 374815046,
+      "annual_avg": 30547274,
+      "daily_avg": 83634,
+      "peak_hour": 8363
+    },
+    "parcel": {
+      "spi": "28\\LP6531",
+      "pfi": "509935",
+      "lot": "28",
+      "plan": "LP6531",
+      "road": "N"
+    },
+    "links": {
+      "vicplan": "https://mapshare.vic.gov.au/vicplan/",
+      "street_view": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=-37.886996,145.089382"
+    }
+  },
+  {
+    "site_id": "2827",
+    "name": "EASTERN FWY/BULLEEN/THOMPSONS",
+    "lat": -37.779531,
+    "lng": 145.078645,
+    "traffic": {
+      "total_12yr": 370582073,
+      "annual_avg": 30202288,
+      "daily_avg": 82689,
+      "peak_hour": 8269
+    },
+    "parcel": {
+      "spi": "CP153108",
+      "pfi": "785824",
+      "lot": "nan",
+      "plan": "CP153108",
+      "road": "N"
+    },
+    "links": {
+      "vicplan": "https://mapshare.vic.gov.au/vicplan/",
+      "street_view": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=-37.779531,145.078645"
+    }
+  },
+  {
+    "site_id": "2302",
+    "name": "NEPEAN/FITZROY/WELLINGTON",
+    "lat": -37.856393,
+    "lng": 144.983185,
+    "traffic": {
+      "total_12yr": 364909593,
+      "annual_avg": 29739983,
+      "daily_avg": 81424,
+      "peak_hour": 8142
+    },
+    "parcel": {
+      "spi": "304\\PS720250",
+      "pfi": "221730017",
+      "lot": "304",
+      "plan": "PS720250",
+      "road": "N"
+    },
+    "links": {
+      "vicplan": "https://mapshare.vic.gov.au/vicplan/",
+      "street_view": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=-37.856393,144.983185"
+    }
+  },
+  {
+    "site_id": "2416",
+    "name": "PHE/NORMANBY/STATION",
+    "lat": -37.868478,
+    "lng": 145.031261,
+    "traffic": {
+      "total_12yr": 391219605,
+      "annual_avg": 31884238,
+      "daily_avg": 87294,
+      "peak_hour": 8729
+    },
+    "parcel": {
+      "spi": "2020\\PP3416A",
+      "pfi": "218463109",
+      "lot": "nan",
+      "plan": "nan",
+      "road": "Y"
+    },
+    "links": {
+      "vicplan": "https://mapshare.vic.gov.au/vicplan/",
+      "street_view": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=-37.868478,145.031261"
+    }
+  },
+  {
+    "site_id": "3671",
+    "name": "ST GEORGES/MERRI/CHARLES",
+    "lat": -37.776519,
+    "lng": 144.98974,
+    "traffic": {
+      "total_12yr": 375708270,
+      "annual_avg": 30620071,
+      "daily_avg": 83833,
+      "peak_hour": 8383
+    },
+    "parcel": {
+      "spi": "1\\PS506229",
+      "pfi": "53082152",
+      "lot": "1",
+      "plan": "PS506229",
+      "road": "N"
+    },
+    "links": {
+      "vicplan": "https://mapshare.vic.gov.au/vicplan/",
+      "street_view": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=-37.776519,144.98974"
+    }
+  },
+  {
+    "site_id": "2422",
+    "name": "PHE/MURRUMBEENA/BELGRAVE",
+    "lat": -37.884552,
+    "lng": 145.067478,
+    "traffic": {
+      "total_12yr": 374935276,
+      "annual_avg": 30557072,
+      "daily_avg": 83661,
+      "peak_hour": 8366
+    },
+    "parcel": {
+      "spi": "3\\TP809519",
+      "pfi": "2010890",
+      "lot": "3",
+      "plan": "TP809519",
+      "road": "N"
+    },
+    "links": {
+      "vicplan": "https://mapshare.vic.gov.au/vicplan/",
+      "street_view": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=-37.884552,145.067478"
+    }
+  },
+  {
+    "site_id": "984",
+    "name": "MAIN/FITZSIMONS",
+    "lat": -37.733108,
+    "lng": 145.13745,
+    "traffic": {
+      "total_12yr": 295708809,
+      "annual_avg": 24100147,
+      "daily_avg": 65983,
+      "peak_hour": 6598
+    },
+    "parcel": {
+      "spi": "PC362411",
+      "pfi": "52574891",
+      "lot": "nan",
+      "plan": "PC362411",
+      "road": "N"
+    },
+    "links": {
+      "vicplan": "https://mapshare.vic.gov.au/vicplan/",
+      "street_view": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=-37.733108,145.13745"
+    }
+  },
+  {
+    "site_id": "3172",
+    "name": "DANDENONG-HASTINGS/THOMPSONS",
+    "lat": -38.077682,
+    "lng": 145.239462,
+    "traffic": {
+      "total_12yr": 338248138,
+      "annual_avg": 27567085,
+      "daily_avg": 75475,
+      "peak_hour": 7548
+    },
+    "parcel": {
+      "spi": "R3\\PS824449",
+      "pfi": "428721209",
+      "lot": "R3",
+      "plan": "PS824449",
+      "road": "Y"
+    },
+    "links": {
+      "vicplan": "https://mapshare.vic.gov.au/vicplan/",
+      "street_view": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=-38.077682,145.239462"
+    }
+  },
+  {
+    "site_id": "2613",
+    "name": "WESTERN HWY/MCINTYRE/ANDERSON",
+    "lat": -37.777059,
+    "lng": 144.82872,
+    "traffic": {
+      "total_12yr": 365991541,
+      "annual_avg": 29828161,
+      "daily_avg": 81665,
+      "peak_hour": 8166
+    },
+    "parcel": {
+      "spi": "12\\PS408769",
+      "pfi": "2080968",
+      "lot": "12",
+      "plan": "PS408769",
+      "road": "N"
+    },
+    "links": {
+      "vicplan": "https://mapshare.vic.gov.au/vicplan/",
+      "street_view": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=-37.777059,144.82872"
+    }
+  },
+  {
+    "site_id": "2003",
+    "name": "BURWOOD HWY NR PLC",
+    "lat": -37.849887,
+    "lng": 145.106529,
+    "traffic": {
+      "total_12yr": 327062560,
+      "annual_avg": 26655465,
+      "daily_avg": 72979,
+      "peak_hour": 7298
+    },
+    "parcel": {
+      "spi": "3\\PS424197",
+      "pfi": "52595615",
+      "lot": "3",
+      "plan": "PS424197",
+      "road": "N"
+    },
+    "links": {
+      "vicplan": "https://mapshare.vic.gov.au/vicplan/",
+      "street_view": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=-37.849887,145.106529"
+    }
+  },
+  {
+    "site_id": "4901",
+    "name": "WESTGATE FWY WB/MONTAGUE",
+    "lat": -37.826556,
+    "lng": 144.945968,
+    "traffic": {
+      "total_12yr": 325605948,
+      "annual_avg": 26536752,
+      "daily_avg": 72654,
+      "peak_hour": 7265
+    },
+    "parcel": {
+      "spi": "14B~103\\PP3084D",
+      "pfi": "221455602",
+      "lot": "nan",
+      "plan": "nan",
+      "road": "N"
+    },
+    "links": {
+      "vicplan": "https://mapshare.vic.gov.au/vicplan/",
+      "street_view": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=-37.826556,144.945968"
+    }
+  },
+  {
+    "site_id": "2411",
+    "name": "PHE/HOTHAM/WILLIAMS",
+    "lat": -37.859184,
+    "lng": 145.001334,
+    "traffic": {
+      "total_12yr": 334148208,
+      "annual_avg": 27232943,
+      "daily_avg": 74560,
+      "peak_hour": 7456
+    },
+    "parcel": {
+      "spi": "3\\RP17592",
+      "pfi": "50209048",
+      "lot": "3",
+      "plan": "RP17592",
+      "road": "N"
+    },
+    "links": {
+      "vicplan": "https://mapshare.vic.gov.au/vicplan/",
+      "street_view": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=-37.859184,145.001334"
+    }
+  },
+  {
+    "site_id": "2108",
+    "name": "EASTERN HWY/GEORGE",
+    "lat": -37.793786,
+    "lng": 144.982394,
+    "traffic": {
+      "total_12yr": 338162854,
+      "annual_avg": 27560135,
+      "daily_avg": 75456,
+      "peak_hour": 7546
+    },
+    "parcel": {
+      "spi": "1\\TP248053",
+      "pfi": "1025085",
+      "lot": "1",
+      "plan": "TP248053",
+      "road": "N"
+    },
+    "links": {
+      "vicplan": "https://mapshare.vic.gov.au/vicplan/",
+      "street_view": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=-37.793786,144.982394"
+    }
+  },
+  {
+    "site_id": "4742",
+    "name": "TOORAK NR OSBORNE",
+    "lat": -37.839045,
+    "lng": 144.992039,
+    "traffic": {
+      "total_12yr": 411127240,
+      "annual_avg": 33506703,
+      "daily_avg": 91736,
+      "peak_hour": 9174
+    },
+    "parcel": {
+      "spi": "1\\TP514665",
+      "pfi": "1557652",
+      "lot": "1",
+      "plan": "TP514665",
+      "road": "N"
+    },
+    "links": {
+      "vicplan": "https://mapshare.vic.gov.au/vicplan/",
+      "street_view": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=-37.839045,144.992039"
+    }
+  },
+  {
+    "site_id": "195",
+    "name": "PHE (LONSDALE)/WALKER",
+    "lat": -37.988178,
+    "lng": 145.214399,
+    "traffic": {
+      "total_12yr": 380350457,
+      "annual_avg": 30998407,
+      "daily_avg": 84869,
+      "peak_hour": 8487
+    },
+    "parcel": {
+      "spi": "4\\SP26183",
+      "pfi": "52921146",
+      "lot": "4",
+      "plan": "SP26183",
+      "road": "N"
+    },
+    "links": {
+      "vicplan": "https://mapshare.vic.gov.au/vicplan/",
+      "street_view": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=-37.988178,145.214399"
+    }
+  },
+  {
+    "site_id": "3075",
+    "name": "BELL NR ALICE",
+    "lat": -37.740389,
+    "lng": 144.957143,
+    "traffic": {
+      "total_12yr": 339736344,
+      "annual_avg": 27688374,
+      "daily_avg": 75807,
+      "peak_hour": 7581
+    },
+    "parcel": {
+      "spi": "1\\TP411996",
+      "pfi": "841811",
+      "lot": "1",
+      "plan": "TP411996",
+      "road": "N"
+    },
+    "links": {
+      "vicplan": "https://mapshare.vic.gov.au/vicplan/",
+      "street_view": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=-37.740389,144.957143"
+    }
+  },
+  {
+    "site_id": "1144",
+    "name": "BORONIA NR AMESBURY & ROXBURGH",
+    "lat": -37.851476,
+    "lng": 145.239713,
+    "traffic": {
+      "total_12yr": 379896684,
+      "annual_avg": 30961425,
+      "daily_avg": 84768,
+      "peak_hour": 8477
+    },
+    "parcel": {
+      "spi": "1\\PS402229",
+      "pfi": "97240",
+      "lot": "1",
+      "plan": "PS402229",
+      "road": "N"
+    },
+    "links": {
+      "vicplan": "https://mapshare.vic.gov.au/vicplan/",
+      "street_view": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=-37.851476,145.239713"
+    }
+  },
+  {
+    "site_id": "2327",
+    "name": "NEPEAN/CHESTERVILLE/CHARMAN",
+    "lat": -37.9633,
+    "lng": 145.056087,
+    "traffic": {
+      "total_12yr": 318729077,
+      "annual_avg": 25976290,
+      "daily_avg": 71119,
+      "peak_hour": 7112
+    },
+    "parcel": {
+      "spi": "2\\LP7865",
+      "pfi": "431163",
+      "lot": "2",
+      "plan": "LP7865",
+      "road": "N"
+    },
+    "links": {
+      "vicplan": "https://mapshare.vic.gov.au/vicplan/",
+      "street_view": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=-37.9633,145.056087"
+    }
+  },
+  {
+    "site_id": "4976",
+    "name": "MELBOURNE/CENTRE",
+    "lat": -37.670639,
+    "lng": 144.853199,
+    "traffic": {
+      "total_12yr": 296140187,
+      "annual_avg": 24135305,
+      "daily_avg": 66079,
+      "peak_hour": 6608
+    },
+    "parcel": {
+      "spi": "21\\TP801448",
+      "pfi": "212222762",
+      "lot": "21",
+      "plan": "TP801448",
+      "road": "N"
+    },
+    "links": {
+      "vicplan": "https://mapshare.vic.gov.au/vicplan/",
+      "street_view": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=-37.670639,144.853199"
+    }
+  },
+  {
+    "site_id": "999",
+    "name": "CANTERBURY NR GREEN HILL",
+    "lat": -37.830471,
+    "lng": 145.263797,
+    "traffic": {
+      "total_12yr": 377759395,
+      "annual_avg": 30787237,
+      "daily_avg": 84291,
+      "peak_hour": 8429
+    },
+    "parcel": {
+      "spi": "RES1\\LP53352",
+      "pfi": "95409",
+      "lot": "RES1",
+      "plan": "LP53352",
+      "road": "N"
+    },
+    "links": {
+      "vicplan": "https://mapshare.vic.gov.au/vicplan/",
+      "street_view": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=-37.830471,145.263797"
+    }
+  },
+  {
+    "site_id": "3361",
+    "name": "BANKSIA/DORA",
+    "lat": -37.760037,
+    "lng": 145.071534,
+    "traffic": {
+      "total_12yr": 333077543,
+      "annual_avg": 27145684,
+      "daily_avg": 74321,
+      "peak_hour": 7432
+    },
+    "parcel": {
+      "spi": "1\\TP129630",
+      "pfi": "2023133",
+      "lot": "1",
+      "plan": "TP129630",
+      "road": "N"
+    },
+    "links": {
+      "vicplan": "https://mapshare.vic.gov.au/vicplan/",
+      "street_view": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=-37.760037,145.071534"
+    }
+  },
+  {
+    "site_id": "2328",
+    "name": "NEPEAN/CENTRE DANDENONG",
+    "lat": -37.965665,
+    "lng": 145.057795,
+    "traffic": {
+      "total_12yr": 315813854,
+      "annual_avg": 25738700,
+      "daily_avg": 70469,
+      "peak_hour": 7047
+    },
+    "parcel": {
+      "spi": "228\\PS722823",
+      "pfi": "428012230",
+      "lot": "228",
+      "plan": "PS722823",
+      "road": "N"
+    },
+    "links": {
+      "vicplan": "https://mapshare.vic.gov.au/vicplan/",
+      "street_view": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=-37.965665,145.057795"
+    }
+  },
+  {
+    "site_id": "2880",
+    "name": "WESTGATE FWY/WILLIAMSTOWN",
+    "lat": -37.825989,
+    "lng": 144.88096,
+    "traffic": {
+      "total_12yr": 314785178,
+      "annual_avg": 25654864,
+      "daily_avg": 70239,
+      "peak_hour": 7024
+    },
+    "parcel": {
+      "spi": "2273\\PP2478",
+      "pfi": "433531110",
+      "lot": "nan",
+      "plan": "nan",
+      "road": "N"
+    },
+    "links": {
+      "vicplan": "https://mapshare.vic.gov.au/vicplan/",
+      "street_view": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=-37.825989,144.88096"
+    }
+  },
+  {
+    "site_id": "2324",
+    "name": "NEPEAN/WICKHAM",
+    "lat": -37.945195,
+    "lng": 145.043238,
+    "traffic": {
+      "total_12yr": 313809965,
+      "annual_avg": 25575384,
+      "daily_avg": 70022,
+      "peak_hour": 7002
+    },
+    "parcel": {
+      "spi": "G01\\PS839726",
+      "pfi": "452749442",
+      "lot": "G01",
+      "plan": "PS839726",
+      "road": "N"
+    },
+    "links": {
+      "vicplan": "https://mapshare.vic.gov.au/vicplan/",
+      "street_view": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=-37.945195,145.043238"
+    }
+  },
+  {
+    "site_id": "2325",
+    "name": "NEPEAN/HIGHETT/ROWANS",
+    "lat": -37.949484,
+    "lng": 145.04626,
+    "traffic": {
+      "total_12yr": 350367083,
+      "annual_avg": 28554774,
+      "daily_avg": 78179,
+      "peak_hour": 7818
+    },
+    "parcel": {
+      "spi": "2\\SP26806",
+      "pfi": "209539800",
+      "lot": "2",
+      "plan": "SP26806",
+      "road": "N"
+    },
+    "links": {
+      "vicplan": "https://mapshare.vic.gov.au/vicplan/",
+      "street_view": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=-37.949484,145.04626"
+    }
+  },
+  {
+    "site_id": "2868",
+    "name": "TULLAMARINE/MICKLEHAM",
+    "lat": -37.690816,
+    "lng": 144.881945,
+    "traffic": {
+      "total_12yr": 383329373,
+      "annual_avg": 31241188,
+      "daily_avg": 85534,
+      "peak_hour": 8553
+    },
+    "parcel": {
+      "spi": "CP157550",
+      "pfi": "52429304",
+      "lot": "nan",
+      "plan": "CP157550",
+      "road": "N"
+    },
+    "links": {
+      "vicplan": "https://mapshare.vic.gov.au/vicplan/",
+      "street_view": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=-37.690816,144.881945"
+    }
+  },
+  {
+    "site_id": "2614",
+    "name": "WESTERN HWY/STATION",
+    "lat": -37.770309,
+    "lng": 144.77471,
+    "traffic": {
+      "total_12yr": 387494577,
+      "annual_avg": 31580650,
+      "daily_avg": 86463,
+      "peak_hour": 8646
+    },
+    "parcel": {
+      "spi": "1\\TP441852",
+      "pfi": "151954180",
+      "lot": "1",
+      "plan": "TP441852",
+      "road": "N"
+    },
+    "links": {
+      "vicplan": "https://mapshare.vic.gov.au/vicplan/",
+      "street_view": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=-37.770309,144.77471"
+    }
+  },
+  {
+    "site_id": "431",
+    "name": "SPRINGVALE/MAGID",
+    "lat": -37.906398,
+    "lng": 145.160899,
+    "traffic": {
+      "total_12yr": 294168943,
+      "annual_avg": 23974649,
+      "daily_avg": 65639,
+      "peak_hour": 6564
+    },
+    "parcel": {
+      "spi": "RES2\\LP119315",
+      "pfi": "2002647",
+      "lot": "RES2",
+      "plan": "LP119315",
+      "road": "N"
+    },
+    "links": {
+      "vicplan": "https://mapshare.vic.gov.au/vicplan/",
+      "street_view": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=-37.906398,145.160899"
+    }
+  },
+  {
+    "site_id": "202",
+    "name": "STUD NR OSWALD",
+    "lat": -37.975957,
+    "lng": 145.222548,
+    "traffic": {
+      "total_12yr": 352422511,
+      "annual_avg": 28722291,
+      "daily_avg": 78637,
+      "peak_hour": 7864
+    },
+    "parcel": {
+      "spi": "413\\SP25116",
+      "pfi": "212038882",
+      "lot": "413",
+      "plan": "SP25116",
+      "road": "N"
+    },
+    "links": {
+      "vicplan": "https://mapshare.vic.gov.au/vicplan/",
+      "street_view": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=-37.975957,145.222548"
+    }
+  },
+  {
+    "site_id": "3701",
+    "name": "WARRIGAL NR DELIA",
+    "lat": -37.919504,
+    "lng": 145.083321,
+    "traffic": {
+      "total_12yr": 342510963,
+      "annual_avg": 27914504,
+      "daily_avg": 76426,
+      "peak_hour": 7643
+    },
+    "parcel": {
+      "spi": "CM1\\PS907911",
+      "pfi": "452628884",
+      "lot": "CM1",
+      "plan": "PS907911",
+      "road": "N"
+    },
+    "links": {
+      "vicplan": "https://mapshare.vic.gov.au/vicplan/",
+      "street_view": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=-37.919504,145.083321"
+    }
+  },
+  {
+    "site_id": "3016",
+    "name": "JACKA/THE ESPLANADE/FITZROY",
+    "lat": -37.862771,
+    "lng": 144.972334,
+    "traffic": {
+      "total_12yr": 329501897,
+      "annual_avg": 26854270,
+      "daily_avg": 73523,
+      "peak_hour": 7352
+    },
+    "parcel": {
+      "spi": "37\\RP2244",
+      "pfi": "215547278",
+      "lot": "37",
+      "plan": "RP2244",
+      "road": "N"
+    },
+    "links": {
+      "vicplan": "https://mapshare.vic.gov.au/vicplan/",
+      "street_view": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=-37.862771,144.972334"
+    }
+  },
+  {
+    "site_id": "3198",
+    "name": "CENTRE/CLAYTON",
+    "lat": -37.928527,
+    "lng": 145.119061,
+    "traffic": {
+      "total_12yr": 363923761,
+      "annual_avg": 29659638,
+      "daily_avg": 81204,
+      "peak_hour": 8120
+    },
+    "parcel": {
+      "spi": "2\\LP44012",
+      "pfi": "454455",
+      "lot": "2",
+      "plan": "LP44012",
+      "road": "N"
+    },
+    "links": {
+      "vicplan": "https://mapshare.vic.gov.au/vicplan/",
+      "street_view": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=-37.928527,145.119061"
+    }
+  },
+  {
+    "site_id": "2408",
+    "name": "PHE/UNION",
+    "lat": -37.853554,
+    "lng": 144.979322,
+    "traffic": {
+      "total_12yr": 350979736,
+      "annual_avg": 28604705,
+      "daily_avg": 78315,
+      "peak_hour": 7832
+    },
+    "parcel": {
+      "spi": "75\\SP25989",
+      "pfi": "216295555",
+      "lot": "75",
+      "plan": "SP25989",
+      "road": "N"
+    },
+    "links": {
+      "vicplan": "https://mapshare.vic.gov.au/vicplan/",
+      "street_view": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=-37.853554,144.979322"
+    }
+  },
+  {
+    "site_id": "4734",
+    "name": "QUEENS/LINK",
+    "lat": -37.849493,
+    "lng": 144.977943,
+    "traffic": {
+      "total_12yr": 342450502,
+      "annual_avg": 27909576,
+      "daily_avg": 76412,
+      "peak_hour": 7641
+    },
+    "parcel": {
+      "spi": "75\\SP22385",
+      "pfi": "213172867",
+      "lot": "75",
+      "plan": "SP22385",
+      "road": "N"
+    },
+    "links": {
+      "vicplan": "https://mapshare.vic.gov.au/vicplan/",
+      "street_view": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=-37.849493,144.977943"
+    }
+  },
+  {
+    "site_id": "2419",
+    "name": "PHE/BURKE/SIR JOHN MONASH",
+    "lat": -37.878155,
+    "lng": 145.047347,
+    "traffic": {
+      "total_12yr": 334144748,
+      "annual_avg": 27232661,
+      "daily_avg": 74559,
+      "peak_hour": 7456
+    },
+    "parcel": {
+      "spi": "1\\PS332238",
+      "pfi": "59914",
+      "lot": "1",
+      "plan": "PS332238",
+      "road": "N"
+    },
+    "links": {
+      "vicplan": "https://mapshare.vic.gov.au/vicplan/",
+      "street_view": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=-37.878155,145.047347"
+    }
+  },
+  {
+    "site_id": "3151",
+    "name": "SPRINGVALE/KEYLANA",
+    "lat": -38.003114,
+    "lng": 145.142277,
+    "traffic": {
+      "total_12yr": 303952073,
+      "annual_avg": 24771970,
+      "daily_avg": 67822,
+      "peak_hour": 6782
+    },
+    "parcel": {
+      "spi": "1\\PS608072",
+      "pfi": "208826412",
+      "lot": "1",
+      "plan": "PS608072",
+      "road": "N"
+    },
+    "links": {
+      "vicplan": "https://mapshare.vic.gov.au/vicplan/",
+      "street_view": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=-38.003114,145.142277"
+    }
+  }
+]

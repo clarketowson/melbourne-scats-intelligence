@@ -1,0 +1,22 @@
+{
+  "metric_name": "day_of_week_profile",
+  "date_range_start": "2014-01-01",
+  "date_range_end": "2026-04-07",
+  "months_total": 148,
+  "months_completed": 148,
+  "is_complete": true,
+  "rows_in_day_of_week_profile_csv": 1029,
+  "physical_rows_in_csv": 1030,
+  "zero_row_months": [
+    "2018-12"
+  ],
+  "best_day_of_week": 5,
+  "best_day_name": "Friday",
+  "best_day_avg_daily_volume": 133041719.28955697,
+  "lowest_day_of_week": 7,
+  "lowest_day_name": "Sunday",
+  "lowest_day_avg_daily_volume": 97305203.80472441,
+  "total_elapsed_seconds": 116896.021,
+  "generated_at_epoch": 1778429715.003,
+  "day_of_week_profile_csv": "A:\\TrafficAnalytics\\PROJECTS\\reports\\deduped\\day_of_week_profile.csv"
+}

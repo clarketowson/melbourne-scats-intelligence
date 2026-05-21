@@ -1,0 +1,20 @@
+{
+  "metric_name": "daily_totals",
+  "date_range_start": "2014-01-01",
+  "date_range_end": "2026-04-07",
+  "months_total": 148,
+  "months_completed": 148,
+  "is_complete": true,
+  "rows_in_daily_csv": 4437,
+  "busiest_day": "2025-12-12",
+  "busiest_day_total_volume": 166208622,
+  "quietest_day": "2025-05-27",
+  "quietest_day_total_volume": 7556689,
+  "grand_total_volume": 539020710239,
+  "zero_row_months": [
+    "2018-12"
+  ],
+  "total_elapsed_seconds": 15796.017,
+  "generated_at_epoch": 1777548838.567,
+  "daily_csv": "A:\\TrafficAnalytics\\PROJECTS\\reports\\deduped\\daily_totals.csv"
+}

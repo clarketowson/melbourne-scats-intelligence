@@ -1,0 +1,17 @@
+{
+  "metric_name": "busiest_time_bin",
+  "date_range_start": "2014-01-01",
+  "date_range_end": "2026-04-07",
+  "months_total": 148,
+  "months_completed": 148,
+  "is_complete": true,
+  "busiest_time_bin": "17:15:00",
+  "busiest_time_bin_total_volume": 10133657484,
+  "busiest_time_bin_distinct_dates": 4437,
+  "busiest_time_bin_avg_daily_volume": 2283898.463827,
+  "ranking_method": "average_daily_volume_per_time_bin",
+  "outlier_handling_note": "Average daily ranking neutralises missed-day / partial-day outlier distortion.",
+  "total_elapsed_seconds": 168428.61,
+  "generated_at_epoch": 1777103492.217,
+  "monthly_csv": "A:\\TrafficAnalytics\\PROJECTS\\reports\\deduped\\chunked_busiest_time_bin_monthly.csv"
+}

@@ -1,0 +1,22 @@
+{
+  "input_files": {
+    "site_rankings": "A:\\TrafficAnalytics\\PROJECTS\\reports\\deduped\\site_intelligence\\site_rankings.csv",
+    "site_month_totals": "A:\\TrafficAnalytics\\PROJECTS\\reports\\deduped\\site_month_totals.csv",
+    "map_data": "A:\\TrafficAnalytics\\PROJECTS\\reports\\deduped\\all_scats_sites_map_data_audit.csv"
+  },
+  "site_count": 4758,
+  "archetype_count": 9,
+  "archetype_colours": {
+    "Metropolitan Backbone": "#7b1fa2",
+    "Reliable Exposure Corridor": "#1565c0",
+    "High-Volume Volatile Corridor": "#d32f2f",
+    "Rising Growth Corridor": "#2e7d32",
+    "Event / Disruption Sensitive Site": "#f57c00",
+    "Emerging Local Growth Site": "#43a047",
+    "Stable Low-Volume Local Site": "#607d8b",
+    "Unstable / Variable Site": "#c2185b",
+    "Mixed Urban Traffic Site": "#8d6e63"
+  },
+  "outputs_dir": "A:\\TrafficAnalytics\\PROJECTS\\reports\\deduped\\traffic_archetypes_v3",
+  "method_note": "CSV-only traffic archetype model with improved chart labelling, present-only legends, diversified OOH view, quadrant annotations, and heatmap value labels."
+}

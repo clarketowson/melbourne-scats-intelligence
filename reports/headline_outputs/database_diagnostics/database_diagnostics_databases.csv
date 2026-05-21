@@ -1,0 +1,4 @@
+database_name,database_path,file_size_gb,inspected_at
+scats,A:\TrafficAnalytics\DATA\SCATS\scats.duckdb,59.3296012878418,2026-05-12T21:12:22
+scats_continuation,A:\TrafficAnalytics\DATA\SCATS\scats_continuation.duckdb,35.5847282409668,2026-05-12T21:12:23
+scats_recovery,A:\TrafficAnalytics\DATA\SCATS\scats_recovery.duckdb,3.037609100341797,2026-05-12T21:12:23

@@ -1,0 +1,2 @@
+month_label,month_start,next_month_start,scats_site,month_site_volume,month_elapsed_seconds,completed_at_epoch,row_type,year,month_num,month_name,rolling_12m_avg,ratio_to_12m_avg
+2026-04,2026-04-01,2026-05-01,1244.0,84064.0,530.408,1777994489.434,site_month_total,2026,4,Apr,352619.5,0.23839861380326385

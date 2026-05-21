@@ -1,0 +1,131 @@
+{
+  "generated_at": "2026-04-30T08:31:06",
+  "chart_count": 17,
+  "gap_handling": "Known data-gap month 2018-12 is retained but plotted as NaN/broken line in monthly charts.",
+  "colour_scheme": {
+    "traffic": "#1f4e79",
+    "traffic_light": "#5b9bd5",
+    "rolling": "#f28e2b",
+    "growth_pos": "#2ca02c",
+    "growth_neg": "#d62728",
+    "disruption": "#c44e52",
+    "am_peak": "#7b5fc9",
+    "pm_peak": "#17a2a8",
+    "off_peak": "#9aa0a6",
+    "seasonality": "#d4a017",
+    "ranking": "#4e79a7",
+    "quiet": "#9e9e9e",
+    "processing": "#6f4e7c",
+    "gap": "#555555"
+  },
+  "traffic_light_heat_scale": "green = lighter/clearer, amber = medium, red = busiest/heaviest",
+  "source_paths": {
+    "monthly_totals": "A:\\TrafficAnalytics\\PROJECTS\\reports\\deduped\\monthly_totals.csv",
+    "total_cleaned_volume": "A:\\TrafficAnalytics\\PROJECTS\\reports\\deduped\\chunked_total_cleaned_volume_monthly.csv",
+    "busiest_day_monthly": "A:\\TrafficAnalytics\\PROJECTS\\reports\\deduped\\chunked_busiest_day_monthly.csv",
+    "busiest_site_monthly": "A:\\TrafficAnalytics\\PROJECTS\\reports\\deduped\\chunked_busiest_site_monthly.csv",
+    "busiest_time_bin_monthly": "A:\\TrafficAnalytics\\PROJECTS\\reports\\deduped\\chunked_busiest_time_bin_monthly.csv",
+    "peak_shares_monthly": "A:\\TrafficAnalytics\\PROJECTS\\reports\\deduped\\chunked_peak_shares_monthly.csv",
+    "headline_metrics": "A:\\TrafficAnalytics\\PROJECTS\\reports\\deduped\\headline_metrics.csv",
+    "distinct_sites": "A:\\TrafficAnalytics\\PROJECTS\\reports\\deduped\\distinct_sites.csv",
+    "site_lookup": "A:\\TrafficAnalytics\\PROJECTS\\reports\\deduped\\busiestSCATSsitesCOORDINATES.csv; A:\\TrafficAnalytics\\PROJECTS\\reports\\deduped\\SCATSSiteListingSpreadsheet.xls"
+  },
+  "charts": [
+    {
+      "file": "01_monthly_total_traffic_line.png",
+      "title": "Monthly total traffic line chart",
+      "source": "monthly_totals",
+      "gap_handling": "2018-12 shown as a broken line and annotated"
+    },
+    {
+      "file": "02_monthly_total_traffic_with_rolling_average.png",
+      "title": "Monthly totals with rolling average",
+      "source": "monthly_totals",
+      "gap_handling": "2018-12 shown as a broken line and annotated"
+    },
+    {
+      "file": "03_yearly_total_traffic_bar.png",
+      "title": "Yearly total traffic bar chart",
+      "source": "monthly_totals",
+      "gap_handling": "2018 yearly total includes the known missing month as raw zero and is annotated"
+    },
+    {
+      "file": "04_yearly_growth_rate_bar.png",
+      "title": "Year-on-year traffic growth",
+      "source": "monthly_totals",
+      "gap_handling": "2018/2019 growth affected by known 2018-12 gap and annotated"
+    },
+    {
+      "file": "05_covid_disruption_and_recovery_monthly.png",
+      "title": "COVID disruption and recovery",
+      "source": "monthly_totals"
+    },
+    {
+      "file": "06_average_month_by_seasonality.png",
+      "title": "Monthly seasonality",
+      "source": "monthly_totals",
+      "gap_handling": "Known data-gap months excluded from monthly averages"
+    },
+    {
+      "file": "07_am_pm_peak_share_over_time.png",
+      "title": "AM and PM peak share over time",
+      "source": "chunked_peak_shares_monthly"
+    },
+    {
+      "file": "08_peak_vs_off_peak_volume_bar.png",
+      "title": "Peak vs off-peak volume",
+      "source": "chunked_peak_shares_monthly"
+    },
+    {
+      "file": "09_average_daily_traffic_by_time_of_day.png",
+      "title": "Average daily traffic by time of day",
+      "source": "chunked_busiest_time_bin_monthly"
+    },
+    {
+      "file": "10_top_10_busiest_time_bins.png",
+      "title": "Top 10 busiest time bins",
+      "source": "chunked_busiest_time_bin_monthly"
+    },
+    {
+      "file": "11_top_10_quietest_time_bins.png",
+      "title": "Top 10 quietest time bins",
+      "source": "chunked_busiest_time_bin_monthly"
+    },
+    {
+      "file": "12_top_10_busiest_days.png",
+      "title": "Top 10 busiest days",
+      "source": "chunked_busiest_day_monthly"
+    },
+    {
+      "file": "13_busiest_day_by_year.png",
+      "title": "Busiest day by year",
+      "source": "chunked_busiest_day_monthly"
+    },
+    {
+      "file": "14_average_daily_volume_by_weekday.png",
+      "title": "Average daily volume by weekday",
+      "source": "chunked_busiest_day_monthly"
+    },
+    {
+      "file": "15_top_20_busiest_scats_sites.png",
+      "title": "Top 20 busiest SCATS sites",
+      "source": "chunked_busiest_site_monthly + site lookup",
+      "site_lookup_matches_top_20": 20,
+      "missing_top_20_names": [],
+      "axis_fix": "V3.9 scans all Excel sheets, applies verified manual overrides for sites 2816 and 3376, preserves integer-only IDs, and applies traffic-light heat colouring across charts"
+    },
+    {
+      "file": "16_busiest_site_monthly_trend.png",
+      "title": "Monthly trend for busiest SCATS site",
+      "source": "chunked_busiest_site_monthly + site lookup",
+      "site_id_format": "integer string",
+      "site_id": "4415",
+      "site_name": "PRINCES NR CANNING"
+    },
+    {
+      "file": "17_processing_time_by_completed_csv.png",
+      "title": "Processing time by completed CSV",
+      "source": "all CSVs with month_elapsed_seconds"
+    }
+  ]
+}

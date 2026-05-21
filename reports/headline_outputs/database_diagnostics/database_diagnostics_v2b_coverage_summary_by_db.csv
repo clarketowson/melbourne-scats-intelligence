@@ -1,0 +1,4 @@
+database_name,min_count_date,max_count_date,detector_day_rows,distinct_scats_sites,distinct_detectors,distinct_site_detector_pairs,distinct_months,distinct_dates,total_volume_24hour_sum
+scats,2014-01-01,2021-07-11,200220982,4350,32,104081,86,2569,294944589810.0
+scats_continuation,2021-07-12,2026-04-07,189625146,4893,32,122082,58,1725,219807270704.0
+scats_recovery,2014-03-02,2022-05-08,11276955,4442,32,106554,22,155,18734061922.0

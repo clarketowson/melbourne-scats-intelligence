@@ -1,0 +1,4 @@
+database_name,duplicate_keys,duplicate_rows_involved,max_rows_for_single_key
+scats,0,,
+scats_continuation,0,,
+scats_recovery,0,,

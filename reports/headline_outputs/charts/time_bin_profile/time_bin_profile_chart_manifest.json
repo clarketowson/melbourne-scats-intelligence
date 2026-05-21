@@ -1,0 +1,33 @@
+{
+  "metric_name": "time_bin_profile",
+  "source_csv": "A:\\TrafficAnalytics\\PROJECTS\\reports\\deduped\\time_bin_profile.csv",
+  "source_json": "A:\\TrafficAnalytics\\PROJECTS\\reports\\deduped\\time_bin_profile_final.json",
+  "output_directory": "A:\\TrafficAnalytics\\PROJECTS\\reports\\deduped\\charts\\time_bin_profile",
+  "date_range_start": "2014-01-01",
+  "date_range_end": "2026-04-07",
+  "months_total": 148,
+  "months_completed": 148,
+  "is_complete": true,
+  "total_days_loaded": 4437,
+  "busiest_time_bin": "17:15",
+  "quietest_time_bin": "03:00",
+  "busiest_time_bin_total_volume": 10133657484,
+  "quietest_time_bin_total_volume": 671574578,
+  "aggregated_96_bins_csv": "A:\\TrafficAnalytics\\PROJECTS\\reports\\deduped\\charts\\time_bin_profile\\time_bin_profile_aggregated_96_bins.csv",
+  "charts": [
+    "A:\\TrafficAnalytics\\PROJECTS\\reports\\deduped\\charts\\time_bin_profile\\time_bin_daily_rhythm_curve.png",
+    "A:\\TrafficAnalytics\\PROJECTS\\reports\\deduped\\charts\\time_bin_profile\\time_bin_daily_rhythm_segmented.png",
+    "A:\\TrafficAnalytics\\PROJECTS\\reports\\deduped\\charts\\time_bin_profile\\time_bin_broad_period_totals.png",
+    "A:\\TrafficAnalytics\\PROJECTS\\reports\\deduped\\charts\\time_bin_profile\\time_bin_top24_busiest_bins.png",
+    "A:\\TrafficAnalytics\\PROJECTS\\reports\\deduped\\charts\\time_bin_profile\\time_bin_top24_quietest_bins.png",
+    "A:\\TrafficAnalytics\\PROJECTS\\reports\\deduped\\charts\\time_bin_profile\\time_bin_peak_vs_quiet_ratio.png"
+  ],
+  "colour_language": {
+    "red": "peak pressure",
+    "orange": "transition / build / decline",
+    "yellow": "business-day plateau",
+    "green": "quiet / low flow",
+    "blue": "structural analysis",
+    "purple": "anomaly / special movement"
+  }
+}

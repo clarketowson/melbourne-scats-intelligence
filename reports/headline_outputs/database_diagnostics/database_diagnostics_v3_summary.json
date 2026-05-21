@@ -1,0 +1,42 @@
+{
+  "metric_name": "database_diagnostics_v3_month_audit",
+  "generated_at": "2026-05-12T21:45:11",
+  "table_name": "scats_detector_day",
+  "audit_start": "2014-01-01",
+  "audit_end": "2026-04-07",
+  "databases_requested": 3,
+  "databases_processed": 3,
+  "expected_months_total": 148,
+  "detected_months_total": 147,
+  "known_unavailable_months": [
+    "2018-12"
+  ],
+  "known_unavailable_count": 1,
+  "missing_unexplained_months_count": 0,
+  "total_elapsed_seconds": 33.318,
+  "errors": [],
+  "timings": [
+    {
+      "database_name": "scats",
+      "query": "monthly_audit_source_scan",
+      "elapsed_seconds": 10.602
+    },
+    {
+      "database_name": "scats_continuation",
+      "query": "monthly_audit_source_scan",
+      "elapsed_seconds": 19.403
+    },
+    {
+      "database_name": "scats_recovery",
+      "query": "monthly_audit_source_scan",
+      "elapsed_seconds": 1.399
+    }
+  ],
+  "outputs": {
+    "month_audit_by_db_csv": "A:\\TrafficAnalytics\\PROJECTS\\reports\\deduped\\database_diagnostics\\database_diagnostics_v3_month_audit_by_db.csv",
+    "month_audit_combined_csv": "A:\\TrafficAnalytics\\PROJECTS\\reports\\deduped\\database_diagnostics\\database_diagnostics_v3_month_audit_combined.csv",
+    "missing_or_unavailable_months_csv": "A:\\TrafficAnalytics\\PROJECTS\\reports\\deduped\\database_diagnostics\\database_diagnostics_v3_missing_or_unavailable_months.csv",
+    "year_audit_csv": "A:\\TrafficAnalytics\\PROJECTS\\reports\\deduped\\database_diagnostics\\database_diagnostics_v3_year_audit.csv",
+    "summary_json": "A:\\TrafficAnalytics\\PROJECTS\\reports\\deduped\\database_diagnostics\\database_diagnostics_v3_summary.json"
+  }
+}

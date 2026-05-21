@@ -1,0 +1,120 @@
+{
+  "metric_name": "database_diagnostics_v2b",
+  "generated_at": "2026-05-12T21:28:30",
+  "table_name": "scats_detector_day",
+  "databases_requested": 3,
+  "databases_processed": 3,
+  "total_elapsed_seconds": 585.1,
+  "combined_coverage": {
+    "combined_detector_day_rows": 401123083,
+    "combined_total_volume_24hour_sum": 533485922436.0,
+    "min_count_date": "2014-01-01 00:00:00",
+    "max_count_date": "2026-04-07 00:00:00",
+    "databases_processed": 3
+  },
+  "errors": [],
+  "timings": [
+    {
+      "database_name": "scats",
+      "query": "overall_coverage",
+      "elapsed_seconds": 2.949
+    },
+    {
+      "database_name": "scats",
+      "query": "monthly_coverage",
+      "elapsed_seconds": 8.32
+    },
+    {
+      "database_name": "scats",
+      "query": "yearly_coverage",
+      "elapsed_seconds": 3.507
+    },
+    {
+      "database_name": "scats",
+      "query": "region_coverage",
+      "elapsed_seconds": 5.872
+    },
+    {
+      "database_name": "scats",
+      "query": "interval_non_null_check",
+      "elapsed_seconds": 44.132
+    },
+    {
+      "database_name": "scats",
+      "query": "source_file_summary",
+      "elapsed_seconds": 1.286
+    },
+    {
+      "database_name": "scats_continuation",
+      "query": "overall_coverage",
+      "elapsed_seconds": 2.81
+    },
+    {
+      "database_name": "scats_continuation",
+      "query": "monthly_coverage",
+      "elapsed_seconds": 45.086
+    },
+    {
+      "database_name": "scats_continuation",
+      "query": "yearly_coverage",
+      "elapsed_seconds": 8.643
+    },
+    {
+      "database_name": "scats_continuation",
+      "query": "region_coverage",
+      "elapsed_seconds": 5.398
+    },
+    {
+      "database_name": "scats_continuation",
+      "query": "interval_non_null_check",
+      "elapsed_seconds": 35.539
+    },
+    {
+      "database_name": "scats_continuation",
+      "query": "source_file_summary",
+      "elapsed_seconds": 189.09
+    },
+    {
+      "database_name": "scats_recovery",
+      "query": "overall_coverage",
+      "elapsed_seconds": 0.747
+    },
+    {
+      "database_name": "scats_recovery",
+      "query": "monthly_coverage",
+      "elapsed_seconds": 3.177
+    },
+    {
+      "database_name": "scats_recovery",
+      "query": "yearly_coverage",
+      "elapsed_seconds": 1.326
+    },
+    {
+      "database_name": "scats_recovery",
+      "query": "region_coverage",
+      "elapsed_seconds": 1.401
+    },
+    {
+      "database_name": "scats_recovery",
+      "query": "interval_non_null_check",
+      "elapsed_seconds": 3.429
+    },
+    {
+      "database_name": "scats_recovery",
+      "query": "source_file_summary",
+      "elapsed_seconds": 2.393
+    }
+  ],
+  "outputs": {
+    "coverage_summary_by_db_csv": "A:\\TrafficAnalytics\\PROJECTS\\reports\\deduped\\database_diagnostics\\database_diagnostics_v2b_coverage_summary_by_db.csv",
+    "monthly_coverage_by_db_csv": "A:\\TrafficAnalytics\\PROJECTS\\reports\\deduped\\database_diagnostics\\database_diagnostics_v2b_monthly_coverage_by_db.csv",
+    "monthly_coverage_combined_csv": "A:\\TrafficAnalytics\\PROJECTS\\reports\\deduped\\database_diagnostics\\database_diagnostics_v2b_monthly_coverage_combined.csv",
+    "yearly_coverage_by_db_csv": "A:\\TrafficAnalytics\\PROJECTS\\reports\\deduped\\database_diagnostics\\database_diagnostics_v2b_yearly_coverage_by_db.csv",
+    "yearly_coverage_combined_csv": "A:\\TrafficAnalytics\\PROJECTS\\reports\\deduped\\database_diagnostics\\database_diagnostics_v2b_yearly_coverage_combined.csv",
+    "region_coverage_by_db_csv": "A:\\TrafficAnalytics\\PROJECTS\\reports\\deduped\\database_diagnostics\\database_diagnostics_v2b_region_coverage_by_db.csv",
+    "interval_non_null_counts_by_db_csv": "A:\\TrafficAnalytics\\PROJECTS\\reports\\deduped\\database_diagnostics\\database_diagnostics_v2b_interval_non_null_counts_by_db.csv",
+    "interval_non_null_counts_long_by_db_csv": "A:\\TrafficAnalytics\\PROJECTS\\reports\\deduped\\database_diagnostics\\database_diagnostics_v2b_interval_non_null_counts_long_by_db.csv",
+    "interval_non_null_counts_combined_csv": "A:\\TrafficAnalytics\\PROJECTS\\reports\\deduped\\database_diagnostics\\database_diagnostics_v2b_interval_non_null_counts_combined.csv",
+    "source_file_summary_by_db_csv": "A:\\TrafficAnalytics\\PROJECTS\\reports\\deduped\\database_diagnostics\\database_diagnostics_v2b_source_file_summary_by_db.csv"
+  }
+}

@@ -1,0 +1,9 @@
+filename,description
+01_coverage_efficiency_curve.png,Traffic captured as cumulative site share increases
+02_marginal_gain_by_rank.png,Marginal traffic contribution of each additional ranked site
+03_marginal_gain_log_scale.png,Marginal gain on log scale
+04_traffic_share_by_strategy_tier.png,Traffic share by strategic tier
+05_site_count_by_strategy_tier.png,Number of sites by strategic tier
+06_efficiency_ratio_by_strategy_tier.png,Traffic efficiency ratio by tier
+07_top_1000_vs_remaining_network.png,Top 1000 vs remaining traffic share
+08_top500_next500_rest_share.png,Top 500 vs next 500 vs rest

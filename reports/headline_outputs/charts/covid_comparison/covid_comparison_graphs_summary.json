@@ -1,0 +1,50 @@
+{
+  "script": "generate_covid_comparison_graphsV1.py",
+  "rows_used": 2292483,
+  "distinct_sites": 4278,
+  "total_volume": 780576232.0,
+  "comparison_periods": [
+    {
+      "comparison_period": "Pre-COVID baseline",
+      "total_volume": 129914729.0,
+      "active_sites": 3723
+    },
+    {
+      "comparison_period": "Lockdown / COVID shock",
+      "total_volume": 86672688.0,
+      "active_sites": 3893
+    },
+    {
+      "comparison_period": "Extended disruption",
+      "total_volume": 131334764.0,
+      "active_sites": 3961
+    },
+    {
+      "comparison_period": "Recovery phase",
+      "total_volume": 132047373.0,
+      "active_sites": 4023
+    },
+    {
+      "comparison_period": "Recent normal",
+      "total_volume": 140653667.0,
+      "active_sites": 4177
+    },
+    {
+      "comparison_period": "Busiest day detected",
+      "total_volume": 159953011.0,
+      "active_sites": 4236
+    }
+  ],
+  "graphs_created": [
+    "01_total_volume_by_period.png",
+    "02_total_volume_recovery_index.png",
+    "03_24_hour_traffic_shape_overlay.png",
+    "04_time_bin_period_heatmap.png",
+    "05_hourly_percent_change_vs_2019_baseline.png",
+    "06_top_30_site_absolute_collapse_2020_vs_2019.png",
+    "07_top_30_site_recovery_growth_2025_vs_2019.png",
+    "08_site_recovery_scatter_2020_vs_2025.png",
+    "09_distinct_active_sites_by_period.png",
+    "10_period_summary_dashboard.png"
+  ]
+}

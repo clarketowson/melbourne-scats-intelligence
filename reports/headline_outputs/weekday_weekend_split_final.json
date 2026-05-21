@@ -1,0 +1,26 @@
+{
+  "metric_name": "weekday_weekend_split",
+  "date_range_start": "2014-01-01",
+  "date_range_end": "2026-04-07",
+  "months_total": 148,
+  "months_completed": 148,
+  "is_complete": true,
+  "physical_rows_in_csv": 148,
+  "zero_row_months": [
+    "2018-12"
+  ],
+  "total_volume": 539020710239,
+  "weekday_volume": 404944112309,
+  "weekend_volume": 134076597930,
+  "weekday_days": 3168,
+  "weekend_days": 1269,
+  "weekday_share": 75.12589119803006,
+  "weekend_share": 24.874108801969943,
+  "weekday_share_formatted": "75.13%",
+  "weekend_share_formatted": "24.87%",
+  "weekday_avg_day_volume": 127823267.77430555,
+  "weekend_avg_day_volume": 105655317.51773049,
+  "total_elapsed_seconds": 115538.278,
+  "generated_at_epoch": 1778149227.953,
+  "weekday_weekend_split_csv": "A:\\TrafficAnalytics\\PROJECTS\\reports\\deduped\\weekday_weekend_split.csv"
+}

@@ -1,0 +1,123 @@
+Run timestamp: 2026-04-12T12:51:33.828347
+Database: A:\TrafficAnalytics\DATA\SCATS\scats.duckdb
+View created: scats_clean (volume_15m >= 0)
+Settings:
+  threads=12
+  memory_limit=28GB
+  temp_directory=A:\TrafficAnalytics\DATA\TEMP
+  preserve_insertion_order=false
+  max_temp_directory_size=300GiB
+
+=== 01_cleaned_row_count ===
+Saved: A:\TrafficAnalytics\PROJECTS\reports\scats_clean_outputs_v2\01_cleaned_row_count.csv
+Elapsed seconds: 87.638
+Columns: cleaned_rows
+(18688727129,)
+
+=== 02_cleaned_total_volume ===
+Saved: A:\TrafficAnalytics\PROJECTS\reports\scats_clean_outputs_v2\02_cleaned_total_volume.csv
+Elapsed seconds: 46.045
+Columns: cleaned_total_volume
+(295222264839,)
+
+=== 03_cleaned_date_range ===
+Saved: A:\TrafficAnalytics\PROJECTS\reports\scats_clean_outputs_v2\03_cleaned_date_range.csv
+Elapsed seconds: 54.414
+Columns: min_date, max_date
+(datetime.date(2014, 1, 1), datetime.date(2021, 7, 11))
+
+=== 04_daily_total_volume ===
+Saved: A:\TrafficAnalytics\PROJECTS\reports\scats_clean_outputs_v2\04_daily_total_volume.csv
+Elapsed seconds: 55.479
+Columns: count_date, total_volume
+(datetime.date(2014, 1, 1), 64443470)
+(datetime.date(2014, 1, 2), 89319498)
+(datetime.date(2014, 1, 3), 95795852)
+(datetime.date(2014, 1, 4), 84584417)
+(datetime.date(2014, 1, 5), 76796379)
+(datetime.date(2014, 1, 6), 98207335)
+(datetime.date(2014, 1, 7), 100034945)
+(datetime.date(2014, 1, 8), 103218047)
+(datetime.date(2014, 1, 9), 105509169)
+(datetime.date(2014, 1, 10), 108218973)
+
+=== 05_top_100_sites_by_total_volume ===
+Saved: A:\TrafficAnalytics\PROJECTS\reports\scats_clean_outputs_v2\05_top_100_sites_by_total_volume.csv
+Elapsed seconds: 95.526
+Columns: scats_site, total_volume
+(4415, 384574564)
+(2404, 333518405)
+(3380, 330246268)
+(2487, 317622238)
+(3386, 316564578)
+(1359, 309553990)
+(849, 304789079)
+(3519, 302839785)
+(2405, 300114116)
+(855, 298298601)
+
+=== 06_top_site_detector_pairs_within_top_100_sites ===
+Saved: A:\TrafficAnalytics\PROJECTS\reports\scats_clean_outputs_v2\06_top_site_detector_pairs_within_top_100_sites.csv
+Elapsed seconds: 187.708
+Columns: scats_site, detector, total_volume
+(4742, 5, 97889503)
+(849, 23, 88505746)
+(849, 24, 77355665)
+(4742, 6, 75977900)
+(3357, 14, 59317478)
+(2899, 11, 59181633)
+(2985, 6, 54989821)
+(2833, 12, 54167957)
+(2985, 5, 53376781)
+(2438, 21, 52552329)
+
+=== 07_site_daily_totals_top_20_sites ===
+Saved: A:\TrafficAnalytics\PROJECTS\reports\scats_clean_outputs_v2\07_site_daily_totals_top_20_sites.csv
+Elapsed seconds: 192.559
+Columns: count_date, scats_site, total_volume
+(datetime.date(2014, 1, 1), 414, 75623)
+(datetime.date(2014, 1, 1), 415, 72647)
+(datetime.date(2014, 1, 1), 416, 79642)
+(datetime.date(2014, 1, 1), 849, 47136)
+(datetime.date(2014, 1, 1), 855, 62847)
+(datetime.date(2014, 1, 1), 1359, 61375)
+(datetime.date(2014, 1, 1), 2101, 70659)
+(datetime.date(2014, 1, 1), 2404, 110440)
+(datetime.date(2014, 1, 1), 2405, 94864)
+(datetime.date(2014, 1, 1), 2438, 78996)
+
+=== 08_time_bin_profile_network ===
+Saved: A:\TrafficAnalytics\PROJECTS\reports\scats_clean_outputs_v2\08_time_bin_profile_network.csv
+Elapsed seconds: 56.882
+Columns: time_bin, total_volume
+('00:00', 956663489)
+('00:15', 857554286)
+('00:30', 751650635)
+('00:45', 664789897)
+('01:00', 604469555)
+('01:15', 551931908)
+('01:30', 509456372)
+('01:45', 469288827)
+('02:00', 443313383)
+('02:15', 419255216)
+
+=== 09_time_bin_profile_top_20_sites ===
+Saved: A:\TrafficAnalytics\PROJECTS\reports\scats_clean_outputs_v2\09_time_bin_profile_top_20_sites.csv
+Elapsed seconds: 169.721
+Columns: scats_site, time_bin, total_volume
+(414, '00:00', 1137633)
+(414, '00:15', 1047244)
+(414, '00:30', 898760)
+(414, '00:45', 781131)
+(414, '01:00', 683020)
+(414, '01:15', 619340)
+(414, '01:30', 560510)
+(414, '01:45', 501817)
+(414, '02:00', 475388)
+(414, '02:15', 446550)
+
+=== 10_negative_data_summary_reference ===
+Saved: A:\TrafficAnalytics\PROJECTS\reports\scats_clean_outputs_v2\10_negative_data_summary_reference.csv
+Elapsed seconds: 72.200
+Columns: raw_rows, negative_rows, non_negative_rows, raw_total_volume, cleaned_total_volume
+(19221214272, 495496224, 18688727129, -175154489955, 295222264839)

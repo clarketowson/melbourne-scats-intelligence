@@ -1,0 +1,13 @@
+{
+  "metric_name": "monthly_totals",
+  "date_range_start": "2014-01-01",
+  "date_range_end": "2026-04-07",
+  "months_total": 148,
+  "months_completed": 148,
+  "is_complete": true,
+  "rows_in_monthly_csv": 148,
+  "grand_total_volume": 539020710239,
+  "total_elapsed_seconds": 16326.969,
+  "generated_at_epoch": 1777493512.003,
+  "monthly_csv": "A:\\TrafficAnalytics\\PROJECTS\\reports\\deduped\\monthly_totals.csv"
+}

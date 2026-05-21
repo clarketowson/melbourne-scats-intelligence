@@ -1,0 +1,21 @@
+{
+  "metric_name": "site_month_totals",
+  "date_range_start": "2014-01-01",
+  "date_range_end": "2026-04-07",
+  "months_total": 148,
+  "months_completed": 148,
+  "is_complete": true,
+  "rows_in_site_month_totals_csv": 595054,
+  "physical_rows_in_csv": 595055,
+  "distinct_sites": 4758,
+  "top_site_id": 4415,
+  "top_site_name": "PRINCES NR CANNING",
+  "top_site_total_volume": 674498771,
+  "grand_total_volume": 539020710239,
+  "zero_row_months": [
+    "2018-12"
+  ],
+  "total_elapsed_seconds": 117341.46,
+  "generated_at_epoch": 1777994492.571,
+  "site_month_totals_csv": "A:\\TrafficAnalytics\\PROJECTS\\reports\\deduped\\site_month_totals.csv"
+}

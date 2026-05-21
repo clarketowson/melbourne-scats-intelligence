@@ -1,0 +1,11 @@
+{
+    "generated_at":  "2026-04-29 07:40:08",
+    "source_tables":  [
+                          "main.scats_clean",
+                          "cont.scats_clean",
+                          "rec.scats_clean"
+                      ],
+    "distinct_sites":  4907,
+    "source_column":  "scats_site",
+    "metric_name":  "distinct_sites"
+}

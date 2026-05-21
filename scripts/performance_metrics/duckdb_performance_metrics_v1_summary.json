@@ -1,0 +1,29 @@
+{
+  "metric_name": "duckdb_performance_metrics_v1",
+  "generated_at": "2026-05-16T08:17:28",
+  "table_name": "scats_detector_day",
+  "databases_requested": 3,
+  "databases_found": 3,
+  "memory_limit": "40GB",
+  "threads": 10,
+  "temp_directory": "A:\\TrafficAnalytics\\DATA\\TEMP",
+  "processing_mode": "Chunked monthly unified clean process with direct DuckDB analytical benchmarks",
+  "total_elapsed_seconds": 587.026,
+  "queries_attempted": 18,
+  "queries_successful": 18,
+  "queries_failed": 0,
+  "average_query_runtime_seconds": 17.476,
+  "largest_query_runtime_seconds": 190.112,
+  "largest_query_name": "duplicate_detector_day_key_scan",
+  "largest_query_database": "scats_continuation",
+  "total_database_size_gb": 97.952,
+  "total_temp_delta_gb": 0.0,
+  "largest_single_query_temp_delta_gb": 0.0,
+  "max_process_memory_after_mb": 36254.0,
+  "errors": [],
+  "outputs": {
+    "query_timings_csv": "A:\\TrafficAnalytics\\PROJECTS\\reports\\deduped\\performance_metrics\\duckdb_performance_metrics_v1_query_timings.csv",
+    "database_sizes_csv": "A:\\TrafficAnalytics\\PROJECTS\\reports\\deduped\\performance_metrics\\duckdb_performance_metrics_v1_database_sizes.csv",
+    "summary_json": "A:\\TrafficAnalytics\\PROJECTS\\reports\\deduped\\performance_metrics\\duckdb_performance_metrics_v1_summary.json"
+  }
+}

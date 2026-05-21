@@ -1,0 +1,14 @@
+database_name,table_schema,table_name
+scats,main,scats_detector_day
+scats,main,scats_expected_date
+scats,main,scats_missing_dates
+scats,main,scats_site
+scats,main,source_file
+scats_continuation,main,scats_detector_day
+scats_continuation,main,scats_expected_date
+scats_continuation,main,scats_site
+scats_continuation,main,source_file
+scats_recovery,main,scats_detector_day
+scats_recovery,main,scats_expected_date
+scats_recovery,main,scats_site
+scats_recovery,main,source_file

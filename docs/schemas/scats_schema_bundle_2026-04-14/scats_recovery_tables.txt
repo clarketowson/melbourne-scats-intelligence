@@ -1,0 +1,9 @@
+┌─────────────────────┐
+│        name         │
+│       varchar       │
+├─────────────────────┤
+│ scats_detector_day  │
+│ scats_expected_date │
+│ scats_site          │
+│ source_file         │
+└─────────────────────┘

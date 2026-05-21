@@ -1,0 +1,4 @@
+database_name,site_detector_pairs,avg_active_days,median_active_days,max_active_days,min_active_days,detector_day_rows,total_volume_24hour_sum
+scats,104081,1923.7034809427273,2566.0,2568,1,200220982.0,294944589810.0
+scats_continuation,122082,1553.2604806605395,1724.0,1725,1,189625146.0,219807270704.0
+scats_recovery,106554,105.8332394842052,155.0,155,1,11276955.0,18734061922.0

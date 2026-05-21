@@ -1,0 +1,21 @@
+{
+  "metric_name": "time_bin_profile",
+  "date_range_start": "2014-01-01",
+  "date_range_end": "2026-04-07",
+  "months_total": 148,
+  "months_completed": 148,
+  "is_complete": true,
+  "rows_in_time_bin_profile_csv": 14112,
+  "busiest_time_bin": "17:15",
+  "busiest_time_bin_total_volume": 10133657484,
+  "busiest_time_bin_average_daily_volume": 2283898.46382691,
+  "quietest_time_bin": "03:00",
+  "quietest_time_bin_total_volume": 671574578,
+  "total_days_loaded": 4437,
+  "zero_row_months": [
+    "2018-12"
+  ],
+  "total_elapsed_seconds": 159181.356,
+  "generated_at_epoch": 1777856880.433,
+  "time_bin_profile_csv": "A:\\TrafficAnalytics\\PROJECTS\\reports\\deduped\\time_bin_profile.csv"
+}

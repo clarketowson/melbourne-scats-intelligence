@@ -1,0 +1,4 @@
+database_name,database_path,file_size_gb,exists
+scats,A:\TrafficAnalytics\DATA\SCATS\scats.duckdb,59.3296012878418,True
+scats_continuation,A:\TrafficAnalytics\DATA\SCATS\scats_continuation.duckdb,35.5847282409668,True
+scats_recovery,A:\TrafficAnalytics\DATA\SCATS\scats_recovery.duckdb,3.037609100341797,True

@@ -1,0 +1,14 @@
+file,metric_name,date_range_start,date_range_end,months_total,months_completed,is_complete,total_elapsed_seconds,total_elapsed_hours,generated_at_epoch,zero_row_months
+chunked_total_cleaned_volume_final.json,total_cleaned_volume,2014-01-01,2026-04-07,148,148,True,14410.783,4.002995277777778,1776710133.396,
+daily_totals_final.json,daily_totals,2014-01-01,2026-04-07,148,148,True,15796.017,4.3877825,1777548838.567,2018-12
+monthly_totals_final.json,monthly_totals,2014-01-01,2026-04-07,148,148,True,16326.969,4.535269166666667,1777493512.003,
+chunked_busiest_day_final.json,busiest_day,2014-01-01,2026-04-07,148,148,True,113285.317,31.46814361111111,1777408060.709,
+weekday_weekend_split_final.json,weekday_weekend_split,2014-01-01,2026-04-07,148,148,True,115538.278,32.093966111111115,1778149227.953,2018-12
+day_of_week_profile_final.json,day_of_week_profile,2014-01-01,2026-04-07,148,148,True,116896.021,32.47111694444444,1778429715.003,2018-12
+site_totals_final.json,site_totals,2014-01-01,2026-04-07,148,148,True,117312.597,32.5868325,1777680145.339,2018-12
+site_month_totals_final.json,site_month_totals,2014-01-01,2026-04-07,148,148,True,117341.46,32.59485,1777994492.571,2018-12
+month_of_year_profile_final.json,month_of_year_profile,2014-01-01,2026-04-07,148,148,True,123587.253,34.329792499999996,1778286720.812,2018-12
+chunked_busiest_site_final.json,busiest_site,2014-01-01,2026-04-07,148,148,True,149633.057,41.56473805555556,1776922037.669,
+time_bin_profile_final.json,time_bin_profile,2014-01-01,2026-04-07,148,148,True,159181.356,44.217043333333336,1777856880.433,2018-12
+chunked_peak_shares_final.json,peak_shares,2014-01-01,2026-04-07,148,148,True,164087.379,45.57982749999999,1777280050.393,
+chunked_busiest_time_bin_final.json,busiest_time_bin,2014-01-01,2026-04-07,148,148,True,168428.61,46.785725,1777103492.217,

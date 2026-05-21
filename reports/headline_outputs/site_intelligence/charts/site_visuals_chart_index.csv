@@ -1,0 +1,10 @@
+filename,description
+01_site_pareto_cumulative_share.png,Cumulative traffic share by site rank
+02_site_rank_decay_total_volume.png,Total volume by site rank
+03_site_rank_decay_log_scale.png,Rank decay on log scale
+04_monthly_network_volume.png,Monthly total SCATS network volume
+05_active_sites_over_time.png,Active SCATS sites over time
+06_percentile_band_traffic_share.png,Traffic share by percentile band
+07_top_n_traffic_share.png,Traffic share captured by top N sites
+08_top_25_sites_total_volume.png,Top 25 SCATS sites by total volume
+09_avg_volume_per_active_site.png,Average monthly volume per active site

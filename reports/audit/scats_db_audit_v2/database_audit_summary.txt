@@ -1,0 +1,287 @@
+Run timestamp: 2026-04-14T10:16:34.264627
+Database: A:\TrafficAnalytics\DATA\SCATS\scats.duckdb
+
+Purpose: SCATS database integrity audit after continuation ingest.
+Settings:
+  threads=8
+  memory_limit=20GB
+  temp_directory=A:\TrafficAnalytics\DATA\TEMP
+  preserve_insertion_order=false
+  max_temp_directory_size=300GiB
+
+=== 01_tables ===
+Saved: A:\TrafficAnalytics\PROJECTS\reports\scats_db_audit_v2\01_tables.csv
+Elapsed seconds: 0.009
+Columns: table_name
+('scats_15min_long',)
+('scats_clean',)
+('scats_detector_day',)
+('scats_expected_date',)
+('scats_missing_dates',)
+('scats_site',)
+('source_file',)
+
+=== 02_row_counts_by_table ===
+Saved: A:\TrafficAnalytics\PROJECTS\reports\scats_db_audit_v2\02_row_counts_by_table.csv
+Elapsed seconds: 5.621
+Columns: table_name, row_count
+('scats_15min_long', 19221214272)
+('scats_detector_day', 200220982)
+('scats_expected_date', 0)
+('scats_missing_dates', 180)
+('scats_site', 5001)
+('source_file', 2724)
+
+=== 03_main_date_range ===
+Saved: A:\TrafficAnalytics\PROJECTS\reports\scats_db_audit_v2\03_main_date_range.csv
+Elapsed seconds: 7.653
+Columns: min_date, max_date, distinct_dates
+(datetime.date(2014, 1, 1), datetime.date(2021, 7, 11), 2569)
+
+=== 04_main_distinct_sites_detectors ===
+Saved: A:\TrafficAnalytics\PROJECTS\reports\scats_db_audit_v2\04_main_distinct_sites_detectors.csv
+Elapsed seconds: 116.768
+Columns: distinct_sites_in_main, distinct_detector_codes, distinct_source_files_in_main
+(4350, 32, 2566)
+
+=== 05_null_check_main ===
+Saved: A:\TrafficAnalytics\PROJECTS\reports\scats_db_audit_v2\05_null_check_main.csv
+Elapsed seconds: 130.596
+Columns: null_scats_site, null_count_date, null_detector, null_interval_index, null_time_bin, null_volume_15m, null_source_file_id
+(0, 0, 0, 0, 0, 36990919, 0)
+
+=== 06_duplicate_row_excess_estimate ===
+FAILED after 1156.708 seconds
+IO Error: Could not write file "A:\TrafficAnalytics\DATA\TEMP\duckdb_temp_storage_DEFAULT-5.tmp" (error in WriteFile): There is not enough space on the disk.
+
+
+=== 07_duplicate_groups_sample ===
+FAILED after 1064.797 seconds
+IO Error: Could not write file "A:\TrafficAnalytics\DATA\TEMP\duckdb_temp_storage_DEFAULT-2.tmp" (error in WriteFile): There is not enough space on the disk.
+
+
+=== 08_interval_index_range ===
+Saved: A:\TrafficAnalytics\PROJECTS\reports\scats_db_audit_v2\08_interval_index_range.csv
+Elapsed seconds: 7.355
+Columns: min_interval_index, max_interval_index, distinct_interval_indexes
+(0, 95, 96)
+
+=== 09_bad_interval_index_rows ===
+Saved: A:\TrafficAnalytics\PROJECTS\reports\scats_db_audit_v2\09_bad_interval_index_rows.csv
+Elapsed seconds: 0.222
+Columns: bad_interval_rows
+(200220982,)
+
+=== 10_time_bin_coverage ===
+Saved: A:\TrafficAnalytics\PROJECTS\reports\scats_db_audit_v2\10_time_bin_coverage.csv
+Elapsed seconds: 591.702
+Columns: distinct_time_bins, min_time_bin, max_time_bin
+(96, '00:00', '23:45')
+
+=== 11_time_bin_values ===
+Saved: A:\TrafficAnalytics\PROJECTS\reports\scats_db_audit_v2\11_time_bin_values.csv
+Elapsed seconds: 18.790
+Columns: time_bin, rows
+('00:00', 200220982)
+('00:15', 200220982)
+('00:30', 200220982)
+('00:45', 200220982)
+('01:00', 200220982)
+('01:15', 200220982)
+('01:30', 200220982)
+('01:45', 200220982)
+('02:00', 200220982)
+('02:15', 200220982)
+('02:30', 200220982)
+('02:45', 200220982)
+('03:00', 200220982)
+('03:15', 200220982)
+('03:30', 200220982)
+
+=== 12_volume_distribution ===
+Saved: A:\TrafficAnalytics\PROJECTS\reports\scats_db_audit_v2\12_volume_distribution.csv
+Elapsed seconds: 149.123
+Columns: min_volume, max_volume, negative_rows, zero_rows, positive_rows
+(-3068, 1265, 495496224, 10815469673, 7873257456)
+
+=== 13_negative_value_frequency_top_20 ===
+Saved: A:\TrafficAnalytics\PROJECTS\reports\scats_db_audit_v2\13_negative_value_frequency_top_20.csv
+Elapsed seconds: 81.986
+Columns: volume_15m, rows
+(-1022, 352732476)
+(-1023, 104251411)
+(-1, 36359653)
+(-2044, 589102)
+(-1021, 105063)
+(-2046, 91578)
+(-1020, 73170)
+(-1019, 53317)
+(-1018, 45605)
+(-1017, 38730)
+(-2043, 35105)
+(-1016, 34759)
+(-1015, 31125)
+(-1014, 28916)
+(-2045, 28762)
+
+=== 14_daily_row_counts ===
+Saved: A:\TrafficAnalytics\PROJECTS\reports\scats_db_audit_v2\14_daily_row_counts.csv
+Elapsed seconds: 97.949
+Columns: count_date, rows, negative_rows
+(datetime.date(2014, 1, 1), 6778176, 141534)
+(datetime.date(2014, 1, 2), 6778368, 136507)
+(datetime.date(2014, 1, 3), 6776448, 134409)
+(datetime.date(2014, 1, 4), 6783456, 137540)
+(datetime.date(2014, 1, 5), 6814176, 144873)
+(datetime.date(2014, 1, 6), 6782400, 135335)
+(datetime.date(2014, 1, 7), 6781920, 133477)
+(datetime.date(2014, 1, 8), 6781920, 135011)
+(datetime.date(2014, 1, 9), 6779328, 139403)
+(datetime.date(2014, 1, 10), 6781824, 138423)
+(datetime.date(2014, 1, 11), 6779328, 135933)
+(datetime.date(2014, 1, 12), 6820800, 134399)
+(datetime.date(2014, 1, 13), 6778176, 138139)
+(datetime.date(2014, 1, 14), 6782784, 157687)
+(datetime.date(2014, 1, 15), 6783456, 166328)
+
+=== 15_daily_row_count_lowest_30 ===
+Saved: A:\TrafficAnalytics\PROJECTS\reports\scats_db_audit_v2\15_daily_row_count_lowest_30.csv
+Elapsed seconds: 101.441
+Columns: count_date, rows, negative_rows
+(datetime.date(2015, 12, 19), 738720, 17150)
+(datetime.date(2015, 12, 31), 2447904, 36436)
+(datetime.date(2015, 11, 30), 3786720, 106045)
+(datetime.date(2015, 6, 3), 6301920, 131626)
+(datetime.date(2015, 7, 24), 6348096, 120524)
+(datetime.date(2015, 7, 31), 6351648, 121416)
+(datetime.date(2015, 1, 8), 6379776, 166591)
+(datetime.date(2015, 9, 11), 6410400, 134223)
+(datetime.date(2014, 10, 7), 6436608, 136577)
+(datetime.date(2015, 5, 29), 6447264, 158000)
+(datetime.date(2014, 10, 28), 6449376, 161406)
+(datetime.date(2015, 5, 22), 6495072, 139167)
+(datetime.date(2015, 6, 5), 6497088, 401620)
+(datetime.date(2017, 1, 2), 6503808, 144578)
+(datetime.date(2017, 1, 22), 6512928, 142895)
+
+=== 16_daily_row_count_highest_30 ===
+Saved: A:\TrafficAnalytics\PROJECTS\reports\scats_db_audit_v2\16_daily_row_count_highest_30.csv
+Elapsed seconds: 99.854
+Columns: count_date, rows, negative_rows
+(datetime.date(2021, 7, 9), 9799680, 334814)
+(datetime.date(2021, 7, 10), 9799680, 337101)
+(datetime.date(2021, 7, 11), 9799680, 336523)
+(datetime.date(2021, 7, 2), 9795744, 332710)
+(datetime.date(2021, 7, 3), 9795744, 335400)
+(datetime.date(2021, 7, 4), 9795744, 332937)
+(datetime.date(2021, 7, 5), 9795744, 337386)
+(datetime.date(2021, 7, 6), 9794304, 334370)
+(datetime.date(2021, 7, 7), 9794304, 335496)
+(datetime.date(2021, 7, 1), 9793440, 326816)
+(datetime.date(2021, 6, 28), 9791136, 343525)
+(datetime.date(2021, 6, 25), 9788832, 360502)
+(datetime.date(2021, 6, 26), 9788832, 354531)
+(datetime.date(2021, 6, 23), 9786528, 351779)
+(datetime.date(2021, 6, 22), 9781920, 361482)
+
+=== 17_missing_dates_table ===
+FAILED after 0.050 seconds
+Binder Error: Referenced column "count_date" not found in FROM clause!
+Candidate bindings: "d"
+
+LINE 6:         ORDER BY count_date
+                         ^
+
+=== 18_expected_dates_vs_actual ===
+Saved: A:\TrafficAnalytics\PROJECTS\reports\scats_db_audit_v2\18_expected_dates_vs_actual.csv
+Elapsed seconds: 42.814
+Columns: expected_dates, actual_dates, missing_dates
+(0, 2569, 180)
+
+=== 19_orphan_sites_in_main ===
+Saved: A:\TrafficAnalytics\PROJECTS\reports\scats_db_audit_v2\19_orphan_sites_in_main.csv
+Elapsed seconds: 180.530
+Columns: orphan_sites
+(152,)
+
+=== 20_orphan_source_files_in_main ===
+Saved: A:\TrafficAnalytics\PROJECTS\reports\scats_db_audit_v2\20_orphan_source_files_in_main.csv
+Elapsed seconds: 131.957
+Columns: orphan_source_files
+(0,)
+
+=== 21_main_sites_not_in_metadata_top_50 ===
+Saved: A:\TrafficAnalytics\PROJECTS\reports\scats_db_audit_v2\21_main_sites_not_in_metadata_top_50.csv
+Elapsed seconds: 169.396
+Columns: scats_site
+(1,)
+(2,)
+(116,)
+(193,)
+(388,)
+(393,)
+(406,)
+(443,)
+(517,)
+(526,)
+(534,)
+(552,)
+(553,)
+(673,)
+(683,)
+
+=== 22_source_file_usage_top_50 ===
+Saved: A:\TrafficAnalytics\PROJECTS\reports\scats_db_audit_v2\22_source_file_usage_top_50.csv
+Elapsed seconds: 30.268
+Columns: source_file_id, rows
+(60, 13304064)
+(2137, 9837504)
+(2712, 9799680)
+(2711, 9799680)
+(2713, 9799680)
+(2706, 9795744)
+(2704, 9795744)
+(2705, 9795744)
+(2707, 9795744)
+(2709, 9794304)
+(2708, 9794304)
+(2703, 9793440)
+(2700, 9791136)
+(2697, 9788832)
+(2698, 9788832)
+
+=== 23_detector_day_date_range ===
+Saved: A:\TrafficAnalytics\PROJECTS\reports\scats_db_audit_v2\23_detector_day_date_range.csv
+Elapsed seconds: 0.589
+Columns: min_date, max_date, rows
+(datetime.date(2014, 1, 1), datetime.date(2021, 7, 11), 200220982)
+
+=== 24_detector_day_duplicate_excess_estimate ===
+Saved: A:\TrafficAnalytics\PROJECTS\reports\scats_db_audit_v2\24_detector_day_duplicate_excess_estimate.csv
+Elapsed seconds: 539.193
+Columns: total_rows, distinct_composite_keys, duplicate_row_excess
+(200220982, 200220982, 0)
+
+=== 25_detector_day_nulls ===
+Saved: A:\TrafficAnalytics\PROJECTS\reports\scats_db_audit_v2\25_detector_day_nulls.csv
+Elapsed seconds: 0.760
+Columns: null_scats_site, null_count_date, null_detector
+(0, 0, 0)
+
+=== 26_summary_signal ===
+Saved: A:\TrafficAnalytics\PROJECTS\reports\scats_db_audit_v2\26_summary_signal.csv
+Elapsed seconds: 257.637
+Columns: total_rows, distinct_dates, distinct_sites, non_negative_rows, negative_rows
+(19221214272, 2569, 4350, 18688727129, 495496224)
+
+=== audit_verdict ===
+Verdict generation failed:
+IO Error: Could not write file "A:\TrafficAnalytics\DATA\TEMP\duckdb_temp_storage_DEFAULT-3.tmp" (error in WriteFile): There is not enough space on the disk.
+
+
+Recommended next manual checks:
+- Review 15_daily_row_count_lowest_30.csv for likely partial-ingest or failed-date days.
+- Review 13_negative_value_frequency_top_20.csv to confirm sentinel values remain expected.
+- Review 17_missing_dates_table.csv against known failed CSV files.
+- Review 21_main_sites_not_in_metadata_top_50.csv if orphan site count is non-zero.
+- Review 07_duplicate_groups_sample.csv only if duplicate_row_excess is above zero.

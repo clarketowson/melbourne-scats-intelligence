@@ -1,0 +1,23 @@
+{
+  "metric_name": "second_wave_scats_charts_colour_v1",
+  "charts_created": [
+    "A:\\TrafficAnalytics\\PROJECTS\\reports\\deduped\\charts\\25_daily_calendar_heatmap.png",
+    "A:\\TrafficAnalytics\\PROJECTS\\reports\\deduped\\charts\\26_monthly_year_heatmap.png",
+    "A:\\TrafficAnalytics\\PROJECTS\\reports\\deduped\\charts\\27_weekday_weekend_evolution.png",
+    "A:\\TrafficAnalytics\\PROJECTS\\reports\\deduped\\charts\\28_average_traffic_by_weekday.png",
+    "A:\\TrafficAnalytics\\PROJECTS\\reports\\deduped\\charts\\29_day_of_year_seasonality.png",
+    "A:\\TrafficAnalytics\\PROJECTS\\reports\\deduped\\charts\\30_yearly_daily_percentile_bands.png",
+    "A:\\TrafficAnalytics\\PROJECTS\\reports\\deduped\\charts\\31_monthly_yoy_growth_rate.png",
+    "A:\\TrafficAnalytics\\PROJECTS\\reports\\deduped\\charts\\32_top_20_busiest_weeks.png"
+  ],
+  "charts_skipped": [
+    "33_network_time_of_day_profile",
+    "34_peak_window_share_bar"
+  ],
+  "daily_rows_used": 4437,
+  "daily_date_range_start": "2014-01-01",
+  "daily_date_range_end": "2026-04-07",
+  "daily_total_volume": 539020710239,
+  "monthly_source_present": true,
+  "time_bin_source_present": false
+}

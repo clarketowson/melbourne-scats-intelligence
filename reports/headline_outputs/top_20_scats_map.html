@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<title>Top 20 Busiest SCATS Sites Map</title>
+
+<style>
+
+#map {
+    width: 100%;
+    height: 700px;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<h2>Top 20 Busiest SCATS Sites — Interactive Map</h2>
+
+<div id="map"></div>
+
+<script>
+
+function getColor(heat) {
+
+    if (heat === "red") return "#e53935";
+    if (heat === "orange") return "#fb8c00";
+    if (heat === "yellow") return "#fdd835";
+    return "#43a047";
+
+}
+
+function initMap() {
+
+    let map = new google.maps.Map(
+        document.getElementById("map"),
+        {
+            zoom: 11,
+            center: { lat: -37.8136, lng: 144.9631 }
+        }
+    );
+
+    fetch("top_20_scats_map_data.json")
+    .then(response => response.json())
+    .then(data => {
+
+        let maxVolume =
+            Math.max(...data.map(d => d.total));
+
+        data.forEach(site => {
+
+            let color =
+                getColor(site.traffic_heat);
+
+            let radius =
+                200 + (site.total / maxVolume) * 800;
+
+            let circle =
+                new google.maps.Circle({
+
+                    strokeColor: color,
+                    fillColor: color,
+                    fillOpacity: 0.6,
+                    strokeWeight: 1,
+
+                    map: map,
+
+                    center: {
+                        lat: site.lat,
+                        lng: site.lng
+                    },
+
+                    radius: radius
+                });
+
+            let info =
+                new google.maps.InfoWindow({
+
+                content: `
+                    <b>#${site.rank} — ${site.name}</b><br>
+                    SCATS Site ${site.site_id}<br>
+                    Traffic: ${site.total_millions} million vehicles<br>
+                    <a href="${site.google_maps_url}"
+                       target="_blank">
+                       View in Google Maps
+                    </a>
+                `
+            });
+
+            circle.addListener("click", () => {
+
+                info.setPosition(circle.getCenter());
+                info.open(map);
+
+            });
+
+        });
+
+    });
+
+}
+
+</script>
+
+<!-- Replace YOUR_API_KEY -->
+
+<script async
+src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&callback=initMap">
+</script>
+
+</body>
+</html>

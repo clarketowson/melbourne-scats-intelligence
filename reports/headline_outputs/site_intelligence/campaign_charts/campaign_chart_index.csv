@@ -1,0 +1,8 @@
+filename,description
+01_portfolio_size_vs_traffic_captured.png,Traffic captured as portfolio size increases
+02_campaign_coverage_efficiency.png,Campaign site share vs traffic share efficiency
+03_incremental_traffic_gain_by_step.png,Incremental traffic gained by each portfolio expansion step
+04_diminishing_returns_avg_gain_per_site.png,Average added gain per added site
+05_portfolio_efficiency_ratio.png,Portfolio efficiency ratio
+06_traffic_captured_by_portfolio_size.png,Traffic captured by selected portfolio sizes
+07_remaining_traffic_after_portfolio_selection.png,Remaining traffic after top-site selection

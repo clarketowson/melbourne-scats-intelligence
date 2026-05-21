@@ -1,0 +1,7 @@
+database_name,view_schema,view_name
+scats,main,scats_15min_long
+scats,main,scats_clean
+scats_continuation,main,scats_15min_long
+scats_continuation,main,scats_clean
+scats_recovery,main,scats_15min_long
+scats_recovery,main,scats_clean

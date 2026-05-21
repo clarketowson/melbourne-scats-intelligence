@@ -1,0 +1,22 @@
+{
+  "metric_name": "peak_shares",
+  "date_range_start": "2014-01-01",
+  "date_range_end": "2026-04-07",
+  "months_total": 148,
+  "months_completed": 148,
+  "is_complete": true,
+  "total_volume": 539020710239,
+  "am_window_start": "07:00",
+  "am_window_end_exclusive": "10:00",
+  "pm_window_start": "16:00",
+  "pm_window_end_exclusive": "19:00",
+  "am_volume": 91161505910,
+  "pm_volume": 110696055470,
+  "am_peak_share": 16.91243103990926,
+  "pm_peak_share": 20.536512487788777,
+  "am_peak_share_formatted": "16.91%",
+  "pm_peak_share_formatted": "20.54%",
+  "total_elapsed_seconds": 164087.379,
+  "generated_at_epoch": 1777280050.393,
+  "monthly_csv": "A:\\TrafficAnalytics\\PROJECTS\\reports\\deduped\\chunked_peak_shares_monthly.csv"
+}

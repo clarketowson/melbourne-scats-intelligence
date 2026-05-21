@@ -1,0 +1,737 @@
+[
+  {
+    "month_label": "2014-01",
+    "total_volume": 3135106330,
+    "active_sites": 3405
+  },
+  {
+    "month_label": "2014-02",
+    "total_volume": 3163908323,
+    "active_sites": 3409
+  },
+  {
+    "month_label": "2014-03",
+    "total_volume": 3465584673,
+    "active_sites": 3423
+  },
+  {
+    "month_label": "2014-04",
+    "total_volume": 3185110879,
+    "active_sites": 3429
+  },
+  {
+    "month_label": "2014-05",
+    "total_volume": 3493864171,
+    "active_sites": 3468
+  },
+  {
+    "month_label": "2014-06",
+    "total_volume": 3205298805,
+    "active_sites": 3463
+  },
+  {
+    "month_label": "2014-07",
+    "total_volume": 3380496755,
+    "active_sites": 3454
+  },
+  {
+    "month_label": "2014-08",
+    "total_volume": 3438065829,
+    "active_sites": 3484
+  },
+  {
+    "month_label": "2014-09",
+    "total_volume": 3341624965,
+    "active_sites": 3473
+  },
+  {
+    "month_label": "2014-10",
+    "total_volume": 3560279625,
+    "active_sites": 3490
+  },
+  {
+    "month_label": "2014-11",
+    "total_volume": 3408259338,
+    "active_sites": 3471
+  },
+  {
+    "month_label": "2014-12",
+    "total_volume": 3452827742,
+    "active_sites": 3493
+  },
+  {
+    "month_label": "2015-01",
+    "total_volume": 3176402739,
+    "active_sites": 3465
+  },
+  {
+    "month_label": "2015-02",
+    "total_volume": 3232040831,
+    "active_sites": 3503
+  },
+  {
+    "month_label": "2015-03",
+    "total_volume": 3436425583,
+    "active_sites": 3479
+  },
+  {
+    "month_label": "2015-04",
+    "total_volume": 3316264247,
+    "active_sites": 3503
+  },
+  {
+    "month_label": "2015-05",
+    "total_volume": 3523217182,
+    "active_sites": 3520
+  },
+  {
+    "month_label": "2015-06",
+    "total_volume": 3314160485,
+    "active_sites": 3524
+  },
+  {
+    "month_label": "2015-07",
+    "total_volume": 3457636675,
+    "active_sites": 3525
+  },
+  {
+    "month_label": "2015-08",
+    "total_volume": 3497577936,
+    "active_sites": 3540
+  },
+  {
+    "month_label": "2015-09",
+    "total_volume": 3428209933,
+    "active_sites": 3553
+  },
+  {
+    "month_label": "2015-10",
+    "total_volume": 3599947921,
+    "active_sites": 3552
+  },
+  {
+    "month_label": "2015-11",
+    "total_volume": 3439546450,
+    "active_sites": 3578
+  },
+  {
+    "month_label": "2015-12",
+    "total_volume": 3520512452,
+    "active_sites": 3604
+  },
+  {
+    "month_label": "2016-01",
+    "total_volume": 3229608651,
+    "active_sites": 3578
+  },
+  {
+    "month_label": "2016-02",
+    "total_volume": 3453808302,
+    "active_sites": 3605
+  },
+  {
+    "month_label": "2016-03",
+    "total_volume": 3553086995,
+    "active_sites": 3612
+  },
+  {
+    "month_label": "2016-04",
+    "total_volume": 3496621416,
+    "active_sites": 3623
+  },
+  {
+    "month_label": "2016-05",
+    "total_volume": 3639479964,
+    "active_sites": 3694
+  },
+  {
+    "month_label": "2016-06",
+    "total_volume": 3436802887,
+    "active_sites": 3700
+  },
+  {
+    "month_label": "2016-07",
+    "total_volume": 3582237904,
+    "active_sites": 3724
+  },
+  {
+    "month_label": "2016-08",
+    "total_volume": 3686630618,
+    "active_sites": 3702
+  },
+  {
+    "month_label": "2016-09",
+    "total_volume": 3514136708,
+    "active_sites": 3711
+  },
+  {
+    "month_label": "2016-10",
+    "total_volume": 3681720111,
+    "active_sites": 3722
+  },
+  {
+    "month_label": "2016-11",
+    "total_volume": 3682971216,
+    "active_sites": 3726
+  },
+  {
+    "month_label": "2016-12",
+    "total_volume": 3648283824,
+    "active_sites": 3725
+  },
+  {
+    "month_label": "2017-01",
+    "total_volume": 3376836301,
+    "active_sites": 3731
+  },
+  {
+    "month_label": "2017-02",
+    "total_volume": 3431302811,
+    "active_sites": 3747
+  },
+  {
+    "month_label": "2017-03",
+    "total_volume": 3821955946,
+    "active_sites": 3742
+  },
+  {
+    "month_label": "2017-04",
+    "total_volume": 3408210727,
+    "active_sites": 3757
+  },
+  {
+    "month_label": "2017-05",
+    "total_volume": 3756242112,
+    "active_sites": 3755
+  },
+  {
+    "month_label": "2017-06",
+    "total_volume": 3540040727,
+    "active_sites": 3774
+  },
+  {
+    "month_label": "2017-07",
+    "total_volume": 3473856532,
+    "active_sites": 3758
+  },
+  {
+    "month_label": "2017-08",
+    "total_volume": 3731810338,
+    "active_sites": 3781
+  },
+  {
+    "month_label": "2017-09",
+    "total_volume": 3543109329,
+    "active_sites": 3798
+  },
+  {
+    "month_label": "2017-10",
+    "total_volume": 3772673180,
+    "active_sites": 3801
+  },
+  {
+    "month_label": "2017-11",
+    "total_volume": 3725865164,
+    "active_sites": 3821
+  },
+  {
+    "month_label": "2017-12",
+    "total_volume": 3679149260,
+    "active_sites": 3830
+  },
+  {
+    "month_label": "2018-01",
+    "total_volume": 3447376750,
+    "active_sites": 3829
+  },
+  {
+    "month_label": "2018-02",
+    "total_volume": 3519395584,
+    "active_sites": 3827
+  },
+  {
+    "month_label": "2018-03",
+    "total_volume": 3796169426,
+    "active_sites": 3827
+  },
+  {
+    "month_label": "2018-04",
+    "total_volume": 3543308072,
+    "active_sites": 3830
+  },
+  {
+    "month_label": "2018-05",
+    "total_volume": 3786980758,
+    "active_sites": 3839
+  },
+  {
+    "month_label": "2018-06",
+    "total_volume": 3544747568,
+    "active_sites": 3851
+  },
+  {
+    "month_label": "2018-07",
+    "total_volume": 3647632727,
+    "active_sites": 3862
+  },
+  {
+    "month_label": "2018-08",
+    "total_volume": 3796160085,
+    "active_sites": 3851
+  },
+  {
+    "month_label": "2018-09",
+    "total_volume": 3542539283,
+    "active_sites": 3857
+  },
+  {
+    "month_label": "2018-10",
+    "total_volume": 3843850831,
+    "active_sites": 3895
+  },
+  {
+    "month_label": "2018-11",
+    "total_volume": 3745217547,
+    "active_sites": 3887
+  },
+  {
+    "month_label": "2019-01",
+    "total_volume": 3481934922,
+    "active_sites": 3929
+  },
+  {
+    "month_label": "2019-02",
+    "total_volume": 3537567800,
+    "active_sites": 3926
+  },
+  {
+    "month_label": "2019-03",
+    "total_volume": 3867309544,
+    "active_sites": 3944
+  },
+  {
+    "month_label": "2019-04",
+    "total_volume": 3562539050,
+    "active_sites": 3956
+  },
+  {
+    "month_label": "2019-05",
+    "total_volume": 3896132153,
+    "active_sites": 3965
+  },
+  {
+    "month_label": "2019-06",
+    "total_volume": 3606479411,
+    "active_sites": 3973
+  },
+  {
+    "month_label": "2019-07",
+    "total_volume": 3827688501,
+    "active_sites": 4069
+  },
+  {
+    "month_label": "2019-08",
+    "total_volume": 4038680009,
+    "active_sites": 4075
+  },
+  {
+    "month_label": "2019-09",
+    "total_volume": 3794136310,
+    "active_sites": 4077
+  },
+  {
+    "month_label": "2019-10",
+    "total_volume": 4124136444,
+    "active_sites": 4079
+  },
+  {
+    "month_label": "2019-11",
+    "total_volume": 3971414689,
+    "active_sites": 4084
+  },
+  {
+    "month_label": "2019-12",
+    "total_volume": 3766444731,
+    "active_sites": 4094
+  },
+  {
+    "month_label": "2020-01",
+    "total_volume": 3723205203,
+    "active_sites": 4103
+  },
+  {
+    "month_label": "2020-02",
+    "total_volume": 3835818599,
+    "active_sites": 4108
+  },
+  {
+    "month_label": "2020-03",
+    "total_volume": 3544940848,
+    "active_sites": 4110
+  },
+  {
+    "month_label": "2020-04",
+    "total_volume": 2226937680,
+    "active_sites": 4118
+  },
+  {
+    "month_label": "2020-05",
+    "total_volume": 2973651861,
+    "active_sites": 4127
+  },
+  {
+    "month_label": "2020-06",
+    "total_volume": 3190267210,
+    "active_sites": 4132
+  },
+  {
+    "month_label": "2020-07",
+    "total_volume": 2892506105,
+    "active_sites": 4143
+  },
+  {
+    "month_label": "2020-08",
+    "total_volume": 2027518150,
+    "active_sites": 4143
+  },
+  {
+    "month_label": "2020-09",
+    "total_volume": 2187779825,
+    "active_sites": 4145
+  },
+  {
+    "month_label": "2020-10",
+    "total_volume": 2921382593,
+    "active_sites": 4161
+  },
+  {
+    "month_label": "2020-11",
+    "total_volume": 3624014539,
+    "active_sites": 4172
+  },
+  {
+    "month_label": "2020-12",
+    "total_volume": 3856204558,
+    "active_sites": 4184
+  },
+  {
+    "month_label": "2021-01",
+    "total_volume": 3549955669,
+    "active_sites": 4182
+  },
+  {
+    "month_label": "2021-02",
+    "total_volume": 3351830231,
+    "active_sites": 4179
+  },
+  {
+    "month_label": "2021-03",
+    "total_volume": 4019550991,
+    "active_sites": 4185
+  },
+  {
+    "month_label": "2021-04",
+    "total_volume": 3756998819,
+    "active_sites": 4187
+  },
+  {
+    "month_label": "2021-05",
+    "total_volume": 3792348398,
+    "active_sites": 4192
+  },
+  {
+    "month_label": "2021-06",
+    "total_volume": 3261718590,
+    "active_sites": 4198
+  },
+  {
+    "month_label": "2021-07",
+    "total_volume": 3381040033,
+    "active_sites": 4215
+  },
+  {
+    "month_label": "2021-08",
+    "total_volume": 2818955482,
+    "active_sites": 4208
+  },
+  {
+    "month_label": "2021-09",
+    "total_volume": 2669449713,
+    "active_sites": 4203
+  },
+  {
+    "month_label": "2021-10",
+    "total_volume": 3230438042,
+    "active_sites": 4381
+  },
+  {
+    "month_label": "2021-11",
+    "total_volume": 3896741703,
+    "active_sites": 4250
+  },
+  {
+    "month_label": "2021-12",
+    "total_volume": 3985684361,
+    "active_sites": 4261
+  },
+  {
+    "month_label": "2022-01",
+    "total_volume": 3432673413,
+    "active_sites": 4265
+  },
+  {
+    "month_label": "2022-02",
+    "total_volume": 3668870576,
+    "active_sites": 4377
+  },
+  {
+    "month_label": "2022-03",
+    "total_volume": 4036974342,
+    "active_sites": 4269
+  },
+  {
+    "month_label": "2022-04",
+    "total_volume": 3678409428,
+    "active_sites": 4277
+  },
+  {
+    "month_label": "2022-05",
+    "total_volume": 3980255590,
+    "active_sites": 4281
+  },
+  {
+    "month_label": "2022-06",
+    "total_volume": 3783769243,
+    "active_sites": 4290
+  },
+  {
+    "month_label": "2022-07",
+    "total_volume": 3873079595,
+    "active_sites": 4296
+  },
+  {
+    "month_label": "2022-08",
+    "total_volume": 4010574428,
+    "active_sites": 4301
+  },
+  {
+    "month_label": "2022-09",
+    "total_volume": 3825024795,
+    "active_sites": 4310
+  },
+  {
+    "month_label": "2022-10",
+    "total_volume": 4054063434,
+    "active_sites": 4436
+  },
+  {
+    "month_label": "2022-11",
+    "total_volume": 4007093695,
+    "active_sites": 4326
+  },
+  {
+    "month_label": "2022-12",
+    "total_volume": 3903774145,
+    "active_sites": 4338
+  },
+  {
+    "month_label": "2023-01",
+    "total_volume": 3729479465,
+    "active_sites": 4338
+  },
+  {
+    "month_label": "2023-02",
+    "total_volume": 3792856272,
+    "active_sites": 4349
+  },
+  {
+    "month_label": "2023-03",
+    "total_volume": 4205558948,
+    "active_sites": 4355
+  },
+  {
+    "month_label": "2023-04",
+    "total_volume": 3765168137,
+    "active_sites": 4364
+  },
+  {
+    "month_label": "2023-05",
+    "total_volume": 4146691721,
+    "active_sites": 4375
+  },
+  {
+    "month_label": "2023-06",
+    "total_volume": 3903344414,
+    "active_sites": 4379
+  },
+  {
+    "month_label": "2023-07",
+    "total_volume": 3896326692,
+    "active_sites": 4387
+  },
+  {
+    "month_label": "2023-08",
+    "total_volume": 4145936552,
+    "active_sites": 4398
+  },
+  {
+    "month_label": "2023-09",
+    "total_volume": 3940445529,
+    "active_sites": 4403
+  },
+  {
+    "month_label": "2023-10",
+    "total_volume": 4194260387,
+    "active_sites": 4553
+  },
+  {
+    "month_label": "2023-11",
+    "total_volume": 4121872208,
+    "active_sites": 4423
+  },
+  {
+    "month_label": "2023-12",
+    "total_volume": 4032779267,
+    "active_sites": 4431
+  },
+  {
+    "month_label": "2024-01",
+    "total_volume": 3804896566,
+    "active_sites": 4431
+  },
+  {
+    "month_label": "2024-02",
+    "total_volume": 4061556304,
+    "active_sites": 4434
+  },
+  {
+    "month_label": "2024-03",
+    "total_volume": 4206790326,
+    "active_sites": 4441
+  },
+  {
+    "month_label": "2024-04",
+    "total_volume": 3982212468,
+    "active_sites": 4446
+  },
+  {
+    "month_label": "2024-05",
+    "total_volume": 4296752485,
+    "active_sites": 4452
+  },
+  {
+    "month_label": "2024-06",
+    "total_volume": 3972755318,
+    "active_sites": 4458
+  },
+  {
+    "month_label": "2024-07",
+    "total_volume": 4141492150,
+    "active_sites": 4460
+  },
+  {
+    "month_label": "2024-08",
+    "total_volume": 4285525933,
+    "active_sites": 4475
+  },
+  {
+    "month_label": "2024-09",
+    "total_volume": 3878586898,
+    "active_sites": 4482
+  },
+  {
+    "month_label": "2024-10",
+    "total_volume": 4395226918,
+    "active_sites": 4492
+  },
+  {
+    "month_label": "2024-11",
+    "total_volume": 4247618310,
+    "active_sites": 4498
+  },
+  {
+    "month_label": "2024-12",
+    "total_volume": 4204504222,
+    "active_sites": 4503
+  },
+  {
+    "month_label": "2025-01",
+    "total_volume": 3948992470,
+    "active_sites": 4506
+  },
+  {
+    "month_label": "2025-02",
+    "total_volume": 3847820366,
+    "active_sites": 4512
+  },
+  {
+    "month_label": "2025-03",
+    "total_volume": 4384498446,
+    "active_sites": 4520
+  },
+  {
+    "month_label": "2025-04",
+    "total_volume": 4042970331,
+    "active_sites": 4524
+  },
+  {
+    "month_label": "2025-05",
+    "total_volume": 4304234239,
+    "active_sites": 4537
+  },
+  {
+    "month_label": "2025-06",
+    "total_volume": 4105237117,
+    "active_sites": 4544
+  },
+  {
+    "month_label": "2025-07",
+    "total_volume": 4285801250,
+    "active_sites": 4547
+  },
+  {
+    "month_label": "2025-08",
+    "total_volume": 4387186136,
+    "active_sites": 4551
+  },
+  {
+    "month_label": "2025-09",
+    "total_volume": 4188281575,
+    "active_sites": 4571
+  },
+  {
+    "month_label": "2025-10",
+    "total_volume": 4513402918,
+    "active_sites": 4573
+  },
+  {
+    "month_label": "2025-11",
+    "total_volume": 4306927842,
+    "active_sites": 4581
+  },
+  {
+    "month_label": "2025-12",
+    "total_volume": 4207171812,
+    "active_sites": 4586
+  },
+  {
+    "month_label": "2026-01",
+    "total_volume": 4063057374,
+    "active_sites": 4589
+  },
+  {
+    "month_label": "2026-02",
+    "total_volume": 4127306156,
+    "active_sites": 4593
+  },
+  {
+    "month_label": "2026-03",
+    "total_volume": 4414536971,
+    "active_sites": 4594
+  },
+  {
+    "month_label": "2026-04",
+    "total_volume": 840492772,
+    "active_sites": 4595
+  }
+]

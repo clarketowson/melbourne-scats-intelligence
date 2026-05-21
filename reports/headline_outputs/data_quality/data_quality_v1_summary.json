@@ -1,0 +1,117 @@
+{
+  "metric_name": "data_quality_dedup_evidence_v1",
+  "generated_at": "2026-05-12T22:08:49",
+  "table_name": "scats_detector_day",
+  "databases_requested": 3,
+  "databases_processed": 3,
+  "total_elapsed_seconds": 775.385,
+  "errors": [],
+  "timings": [
+    {
+      "database_name": "scats",
+      "query": "database_contribution_summary",
+      "elapsed_seconds": 2.783
+    },
+    {
+      "database_name": "scats",
+      "query": "interval_quality_scan",
+      "elapsed_seconds": 91.546
+    },
+    {
+      "database_name": "scats",
+      "query": "duplicate_detector_day_key_summary",
+      "elapsed_seconds": 14.319
+    },
+    {
+      "database_name": "scats",
+      "query": "monthly_quality_summary",
+      "elapsed_seconds": 27.066
+    },
+    {
+      "database_name": "scats",
+      "query": "site_detector_stability_summary",
+      "elapsed_seconds": 30.009
+    },
+    {
+      "database_name": "scats_continuation",
+      "query": "database_contribution_summary",
+      "elapsed_seconds": 3.128
+    },
+    {
+      "database_name": "scats_continuation",
+      "query": "interval_quality_scan",
+      "elapsed_seconds": 80.943
+    },
+    {
+      "database_name": "scats_continuation",
+      "query": "duplicate_detector_day_key_summary",
+      "elapsed_seconds": 80.491
+    },
+    {
+      "database_name": "scats_continuation",
+      "query": "monthly_quality_summary",
+      "elapsed_seconds": 150.433
+    },
+    {
+      "database_name": "scats_continuation",
+      "query": "site_detector_stability_summary",
+      "elapsed_seconds": 79.777
+    },
+    {
+      "database_name": "scats_recovery",
+      "query": "database_contribution_summary",
+      "elapsed_seconds": 0.585
+    },
+    {
+      "database_name": "scats_recovery",
+      "query": "interval_quality_scan",
+      "elapsed_seconds": 5.316
+    },
+    {
+      "database_name": "scats_recovery",
+      "query": "duplicate_detector_day_key_summary",
+      "elapsed_seconds": 2.992
+    },
+    {
+      "database_name": "scats_recovery",
+      "query": "monthly_quality_summary",
+      "elapsed_seconds": 12.522
+    },
+    {
+      "database_name": "scats_recovery",
+      "query": "site_detector_stability_summary",
+      "elapsed_seconds": 11.675
+    }
+  ],
+  "combined_database_summary": {
+    "detector_day_rows": 401123083,
+    "total_volume_24hour_sum": 533485922436.0,
+    "min_count_date": "2014-01-01 00:00:00",
+    "max_count_date": "2026-04-07 00:00:00",
+    "databases_processed": 3
+  },
+  "combined_duplicate_summary": {
+    "duplicate_keys": 0,
+    "duplicate_rows_involved": 0,
+    "max_rows_for_single_key": 0
+  },
+  "combined_interval_quality_summary": {
+    "total_null_interval_cells": 37532313,
+    "total_negative_interval_cells": 1205268529,
+    "total_sentinel_interval_cells": 704560054,
+    "max_interval_null_pct": 0.6327239933120243,
+    "max_interval_negative_pct": 3.894604252539376,
+    "max_interval_sentinel_pct": 3.8270725972176707
+  },
+  "outputs": {
+    "database_contribution_summary_csv": "A:\\TrafficAnalytics\\PROJECTS\\reports\\deduped\\data_quality\\data_quality_v1_database_contribution_summary.csv",
+    "interval_quality_wide_by_db_csv": "A:\\TrafficAnalytics\\PROJECTS\\reports\\deduped\\data_quality\\data_quality_v1_interval_quality_wide_by_db.csv",
+    "interval_quality_long_by_db_csv": "A:\\TrafficAnalytics\\PROJECTS\\reports\\deduped\\data_quality\\data_quality_v1_interval_quality_long_by_db.csv",
+    "interval_quality_combined_csv": "A:\\TrafficAnalytics\\PROJECTS\\reports\\deduped\\data_quality\\data_quality_v1_interval_quality_combined.csv",
+    "duplicate_detector_day_keys_by_db_csv": "A:\\TrafficAnalytics\\PROJECTS\\reports\\deduped\\data_quality\\data_quality_v1_duplicate_detector_day_keys_by_db.csv",
+    "monthly_quality_by_db_csv": "A:\\TrafficAnalytics\\PROJECTS\\reports\\deduped\\data_quality\\data_quality_v1_monthly_quality_by_db.csv",
+    "monthly_quality_combined_csv": "A:\\TrafficAnalytics\\PROJECTS\\reports\\deduped\\data_quality\\data_quality_v1_monthly_quality_combined.csv",
+    "site_detector_stability_by_db_csv": "A:\\TrafficAnalytics\\PROJECTS\\reports\\deduped\\data_quality\\data_quality_v1_site_detector_stability_by_db.csv",
+    "summary_json": "A:\\TrafficAnalytics\\PROJECTS\\reports\\deduped\\data_quality\\data_quality_v1_summary.json"
+  }
+}

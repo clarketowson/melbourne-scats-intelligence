@@ -1,0 +1,89 @@
+{
+  "generated_at_epoch": 1777410750.189,
+  "generated_at_readable": "2026-04-29 07:12:30",
+  "merge_script_version": "V3",
+  "strict_complete_mode": true,
+  "all_sources_present": true,
+  "all_sources_complete": true,
+  "missing_sources": [],
+  "incomplete_sources": [],
+  "unreadable_sources": [],
+  "source_status": {
+    "total_cleaned_volume": {
+      "name": "total_cleaned_volume",
+      "path": "A:\\TrafficAnalytics\\PROJECTS\\reports\\deduped\\chunked_total_cleaned_volume_final.json",
+      "exists": true,
+      "is_complete": true,
+      "months_total": 148,
+      "months_completed": 148,
+      "state": "complete",
+      "problem": null
+    },
+    "busiest_site": {
+      "name": "busiest_site",
+      "path": "A:\\TrafficAnalytics\\PROJECTS\\reports\\deduped\\chunked_busiest_site_final.json",
+      "exists": true,
+      "is_complete": true,
+      "months_total": 148,
+      "months_completed": 148,
+      "state": "complete",
+      "problem": null
+    },
+    "busiest_day": {
+      "name": "busiest_day",
+      "path": "A:\\TrafficAnalytics\\PROJECTS\\reports\\deduped\\chunked_busiest_day_final.json",
+      "exists": true,
+      "is_complete": true,
+      "months_total": 148,
+      "months_completed": 148,
+      "state": "complete",
+      "problem": null
+    },
+    "busiest_time_bin": {
+      "name": "busiest_time_bin",
+      "path": "A:\\TrafficAnalytics\\PROJECTS\\reports\\deduped\\chunked_busiest_time_bin_final.json",
+      "exists": true,
+      "is_complete": true,
+      "months_total": 148,
+      "months_completed": 148,
+      "state": "complete",
+      "problem": null
+    },
+    "peak_shares": {
+      "name": "peak_shares",
+      "path": "A:\\TrafficAnalytics\\PROJECTS\\reports\\deduped\\chunked_peak_shares_final.json",
+      "exists": true,
+      "is_complete": true,
+      "months_total": 148,
+      "months_completed": 148,
+      "state": "complete",
+      "problem": null
+    }
+  },
+  "headline_metrics": {
+    "cleaned_rows": 37877397311,
+    "distinct_sites": null,
+    "date_range_start": "2014-01-01",
+    "date_range_end": "2026-04-07",
+    "total_cleaned_volume": 539020710239,
+    "busiest_site_id": 4415,
+    "busiest_site_name": "PRINCES NR CANNING",
+    "busiest_time_bin": "17:15:00",
+    "busiest_day": "2025-12-12",
+    "am_peak_share": 16.91243103990926,
+    "pm_peak_share": 20.536512487788777
+  },
+  "formatted": {
+    "cleaned_rows": "37,877,397,311",
+    "distinct_sites": "N/A",
+    "date_range_start": "2014-01-01",
+    "date_range_end": "2026-04-07",
+    "total_cleaned_volume": "539,020,710,239",
+    "busiest_site_id": "4415",
+    "busiest_site_name": "PRINCES NR CANNING",
+    "busiest_time_bin": "17:15:00",
+    "busiest_day": "2025-12-12",
+    "am_peak_share": "16.91%",
+    "pm_peak_share": "20.54%"
+  }
+}

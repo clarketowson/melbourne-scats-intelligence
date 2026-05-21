@@ -1,0 +1,20 @@
+{
+  "metric_name": "database_diagnostics_v1",
+  "generated_at": "2026-05-12T21:12:23",
+  "total_elapsed_seconds": 1.214,
+  "databases_requested": 3,
+  "databases_found": 3,
+  "total_database_file_size_gb": 97.952,
+  "base_tables_found": 13,
+  "views_found": 6,
+  "columns_found": 424,
+  "rowcount_records": 13,
+  "errors": [],
+  "outputs": {
+    "databases_csv": "A:\\TrafficAnalytics\\PROJECTS\\reports\\deduped\\database_diagnostics\\database_diagnostics_databases.csv",
+    "tables_csv": "A:\\TrafficAnalytics\\PROJECTS\\reports\\deduped\\database_diagnostics\\database_diagnostics_tables.csv",
+    "views_csv": "A:\\TrafficAnalytics\\PROJECTS\\reports\\deduped\\database_diagnostics\\database_diagnostics_views.csv",
+    "columns_csv": "A:\\TrafficAnalytics\\PROJECTS\\reports\\deduped\\database_diagnostics\\database_diagnostics_columns.csv",
+    "rowcounts_csv": "A:\\TrafficAnalytics\\PROJECTS\\reports\\deduped\\database_diagnostics\\database_diagnostics_rowcounts.csv"
+  }
+}

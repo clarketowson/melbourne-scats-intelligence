@@ -1,0 +1,29 @@
+{
+  "metric_name": "daily_totals_charts_colour_v2_2_annotated",
+  "input_csv": "A:\\TrafficAnalytics\\PROJECTS\\reports\\deduped\\daily_totals.csv",
+  "input_final_json": "A:\\TrafficAnalytics\\PROJECTS\\reports\\deduped\\daily_totals_final.json",
+  "charts_dir": "A:\\TrafficAnalytics\\PROJECTS\\reports\\deduped\\charts",
+  "charts_created": [
+    "A:\\TrafficAnalytics\\PROJECTS\\reports\\deduped\\charts\\18_daily_total_traffic_line.png",
+    "A:\\TrafficAnalytics\\PROJECTS\\reports\\deduped\\charts\\19_daily_total_traffic_7day_rolling.png",
+    "A:\\TrafficAnalytics\\PROJECTS\\reports\\deduped\\charts\\20_daily_total_traffic_30day_rolling.png",
+    "A:\\TrafficAnalytics\\PROJECTS\\reports\\deduped\\charts\\21_top_50_busiest_days.png",
+    "A:\\TrafficAnalytics\\PROJECTS\\reports\\deduped\\charts\\22_bottom_50_quietest_days.png",
+    "A:\\TrafficAnalytics\\PROJECTS\\reports\\deduped\\charts\\23_daily_totals_by_year_boxplot.png",
+    "A:\\TrafficAnalytics\\PROJECTS\\reports\\deduped\\charts\\24_largest_single_day_changes.png"
+  ],
+  "daily_rows_used": 4437,
+  "date_range_start": "2014-01-01",
+  "date_range_end": "2026-04-07",
+  "grand_total_volume": 539020710239,
+  "average_daily_volume": 121483144,
+  "median_daily_volume": 124567849,
+  "busiest_day": "2025-12-12",
+  "busiest_day_total_volume": 166208622,
+  "quietest_day": "2025-05-27",
+  "quietest_day_total_volume": 7556689,
+  "biggest_single_day_rise_date": "2025-05-28",
+  "biggest_single_day_rise": 140279062,
+  "biggest_single_day_fall_date": "2025-05-27",
+  "biggest_single_day_fall": -132637986
+}

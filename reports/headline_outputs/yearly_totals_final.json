@@ -1,0 +1,20 @@
+{
+  "metric_name": "yearly_totals",
+  "date_range_start": "2014-01-01",
+  "date_range_end": "2026-04-07",
+  "months_total": 148,
+  "months_completed": 148,
+  "is_complete": true,
+  "rows_in_yearly_totals_csv": 147,
+  "physical_rows_in_csv": 148,
+  "zero_row_months": [
+    "2018-12"
+  ],
+  "best_year": 2025,
+  "best_year_avg_daily_volume": 139180508.26997244,
+  "lowest_year": 2020,
+  "lowest_year_avg_daily_volume": 102221622.01933701,
+  "total_elapsed_seconds": 118793.738,
+  "generated_at_epoch": 1778581054.38,
+  "yearly_totals_csv": "A:\\TrafficAnalytics\\PROJECTS\\reports\\deduped\\yearly_totals.csv"
+}

@@ -1,0 +1,43 @@
+{
+  "input_months_completed": 147,
+  "expected_months": 148,
+  "is_final_expected_complete": false,
+  "first_month": "2014-01",
+  "last_month": "2026-04",
+  "total_sites": 4758,
+  "grand_total_volume": 539020710239,
+  "top_site": {
+    "rank": 1,
+    "scats_site": 4415,
+    "site_name": null,
+    "total_volume": 674498771,
+    "percent_of_network": 0.125134
+  },
+  "traffic_concentration": {
+    "top_10_share_percent": 1.038,
+    "top_25_share_percent": 2.3895,
+    "top_50_share_percent": 4.3399,
+    "top_100_share_percent": 7.7813,
+    "top_500_share_percent": 27.9685
+  },
+  "generated_outputs": [
+    "site_rankings.csv",
+    "site_rankings.json",
+    "top_10_sites.csv",
+    "top_10_sites.json",
+    "top_25_sites.csv",
+    "top_25_sites.json",
+    "top_50_sites.csv",
+    "top_50_sites.json",
+    "top_100_sites.csv",
+    "top_100_sites.json",
+    "top_500_sites.csv",
+    "top_500_sites.json",
+    "top_1000_sites.csv",
+    "top_1000_sites.json",
+    "site_totals_monthly_network_trend.csv",
+    "site_totals_monthly_network_trend.json",
+    "site_volume_percentile_bands.csv",
+    "site_volume_percentile_bands.json"
+  ]
+}

@@ -1,0 +1,295 @@
+capability,relative_path,filename,rows_estimate,size_mb
+traffic volume analytics,all_scats_sites_map_data_audit.csv,all_scats_sites_map_data_audit.csv,4653,1.169
+SCATS site-level analytics,all_scats_sites_map_data_audit.csv,all_scats_sites_map_data_audit.csv,4653,1.169
+mapping / GIS analysis,all_scats_sites_map_data_audit.csv,all_scats_sites_map_data_audit.csv,4653,1.169
+SCATS site-level analytics,busiestSCATSsitesCOORDINATES.csv,busiestSCATSsitesCOORDINATES.csv,97,0.004
+mapping / GIS analysis,busiestSCATSsitesCOORDINATES.csv,busiestSCATSsitesCOORDINATES.csv,97,0.004
+traffic volume analytics,charts\busiest_day_by_year.csv,busiest_day_by_year.csv,13,0.001
+monthly / seasonal analytics,charts\busiest_day_by_year.csv,busiest_day_by_year.csv,13,0.001
+yearly trend analytics,charts\busiest_day_by_year.csv,busiest_day_by_year.csv,13,0.001
+traffic volume analytics,charts\monthly_seasonality_average.csv,monthly_seasonality_average.csv,12,0.0
+monthly / seasonal analytics,charts\monthly_seasonality_average.csv,monthly_seasonality_average.csv,12,0.0
+yearly trend analytics,charts\monthly_seasonality_average.csv,monthly_seasonality_average.csv,12,0.0
+traffic volume analytics,charts\monthly_totals_cleaned_for_charts.csv,monthly_totals_cleaned_for_charts.csv,148,0.009
+monthly / seasonal analytics,charts\monthly_totals_cleaned_for_charts.csv,monthly_totals_cleaned_for_charts.csv,148,0.009
+yearly trend analytics,charts\monthly_totals_cleaned_for_charts.csv,monthly_totals_cleaned_for_charts.csv,148,0.009
+traffic volume analytics,charts\processing_time_summary.csv,processing_time_summary.csv,6,0.0
+15-minute / time-of-day analytics,charts\processing_time_summary.csv,processing_time_summary.csv,6,0.0
+traffic volume analytics,charts\site_totals_from_monthly.csv,site_totals_from_monthly.csv,4758,0.101
+SCATS site-level analytics,charts\site_totals_from_monthly.csv,site_totals_from_monthly.csv,4758,0.101
+mapping / GIS analysis,charts\site_totals_from_monthly.csv,site_totals_from_monthly.csv,4758,0.101
+traffic volume analytics,charts\time_bin_profile\time_bin_profile_aggregated_96_bins.csv,time_bin_profile_aggregated_96_bins.csv,96,0.006
+15-minute / time-of-day analytics,charts\time_bin_profile\time_bin_profile_aggregated_96_bins.csv,time_bin_profile_aggregated_96_bins.csv,96,0.006
+traffic volume analytics,charts\time_bin_profile_aggregated.csv,time_bin_profile_aggregated.csv,96,0.004
+15-minute / time-of-day analytics,charts\time_bin_profile_aggregated.csv,time_bin_profile_aggregated.csv,96,0.004
+traffic volume analytics,charts\top_20_busiest_scats_sites_named.csv,top_20_busiest_scats_sites_named.csv,20,0.001
+SCATS site-level analytics,charts\top_20_busiest_scats_sites_named.csv,top_20_busiest_scats_sites_named.csv,20,0.001
+mapping / GIS analysis,charts\top_20_busiest_scats_sites_named.csv,top_20_busiest_scats_sites_named.csv,20,0.001
+traffic volume analytics,charts\top_50_busiest_days.csv,top_50_busiest_days.csv,50,0.002
+day-of-week / weekday-weekend analytics,charts\top_50_busiest_days.csv,top_50_busiest_days.csv,50,0.002
+traffic volume analytics,charts\yearly_growth_from_monthly.csv,yearly_growth_from_monthly.csv,12,0.0
+yearly trend analytics,charts\yearly_growth_from_monthly.csv,yearly_growth_from_monthly.csv,12,0.0
+traffic volume analytics,charts\yearly_totals_from_monthly.csv,yearly_totals_from_monthly.csv,13,0.0
+yearly trend analytics,charts\yearly_totals_from_monthly.csv,yearly_totals_from_monthly.csv,13,0.0
+traffic volume analytics,chunked_busiest_day_monthly.csv,chunked_busiest_day_monthly.csv,4438,0.316
+monthly / seasonal analytics,chunked_busiest_day_monthly.csv,chunked_busiest_day_monthly.csv,4438,0.316
+traffic volume analytics,chunked_busiest_site_monthly.csv,chunked_busiest_site_monthly.csv,595055,37.677
+monthly / seasonal analytics,chunked_busiest_site_monthly.csv,chunked_busiest_site_monthly.csv,595055,37.677
+SCATS site-level analytics,chunked_busiest_site_monthly.csv,chunked_busiest_site_monthly.csv,595055,37.677
+site-by-month trend analysis,chunked_busiest_site_monthly.csv,chunked_busiest_site_monthly.csv,595055,37.677
+"growth, volatility, concentration and ranking analysis",chunked_busiest_site_monthly.csv,chunked_busiest_site_monthly.csv,595055,37.677
+traffic volume analytics,chunked_busiest_time_bin_monthly.csv,chunked_busiest_time_bin_monthly.csv,14113,1.157
+15-minute / time-of-day analytics,chunked_busiest_time_bin_monthly.csv,chunked_busiest_time_bin_monthly.csv,14113,1.157
+monthly / seasonal analytics,chunked_busiest_time_bin_monthly.csv,chunked_busiest_time_bin_monthly.csv,14113,1.157
+traffic volume analytics,chunked_peak_shares_monthly.csv,chunked_peak_shares_monthly.csv,148,0.015
+monthly / seasonal analytics,chunked_peak_shares_monthly.csv,chunked_peak_shares_monthly.csv,148,0.015
+traffic volume analytics,chunked_total_cleaned_volume_monthly.csv,chunked_total_cleaned_volume_monthly.csv,148,0.009
+monthly / seasonal analytics,chunked_total_cleaned_volume_monthly.csv,chunked_total_cleaned_volume_monthly.csv,148,0.009
+traffic volume analytics,daily_totals.csv,daily_totals.csv,4438,0.314
+monthly / seasonal analytics,daily_totals.csv,daily_totals.csv,4438,0.314
+traffic volume analytics,day_of_week_charts\day_of_week_final_summary.csv,day_of_week_final_summary.csv,7,0.0
+day-of-week / weekday-weekend analytics,day_of_week_charts\day_of_week_final_summary.csv,day_of_week_final_summary.csv,7,0.0
+traffic volume analytics,day_of_week_charts_v2\v2_day_summary.csv,v2_day_summary.csv,7,0.0
+day-of-week / weekday-weekend analytics,day_of_week_charts_v2\v2_day_summary.csv,v2_day_summary.csv,7,0.0
+traffic volume analytics,day_of_week_charts_v2\v2_yearly_day_metrics.csv,v2_yearly_day_metrics.csv,13,0.002
+day-of-week / weekday-weekend analytics,day_of_week_charts_v2\v2_yearly_day_metrics.csv,v2_yearly_day_metrics.csv,13,0.002
+yearly trend analytics,day_of_week_charts_v2\v2_yearly_day_metrics.csv,v2_yearly_day_metrics.csv,13,0.002
+traffic volume analytics,day_of_week_profile.csv,day_of_week_profile.csv,1030,0.114
+day-of-week / weekday-weekend analytics,day_of_week_profile.csv,day_of_week_profile.csv,1030,0.114
+monthly / seasonal analytics,day_of_week_profile.csv,day_of_week_profile.csv,1030,0.114
+traffic volume analytics,didntwork\chunked_total_cleaned_volume_monthly.csv,chunked_total_cleaned_volume_monthly.csv,23,0.002
+monthly / seasonal analytics,didntwork\chunked_total_cleaned_volume_monthly.csv,chunked_total_cleaned_volume_monthly.csv,23,0.002
+traffic volume analytics,didntworkagainagain\chunked_busiest_site_monthly.csv,chunked_busiest_site_monthly.csv,10309,0.64
+monthly / seasonal analytics,didntworkagainagain\chunked_busiest_site_monthly.csv,chunked_busiest_site_monthly.csv,10309,0.64
+SCATS site-level analytics,didntworkagainagain\chunked_busiest_site_monthly.csv,chunked_busiest_site_monthly.csv,10309,0.64
+site-by-month trend analysis,didntworkagainagain\chunked_busiest_site_monthly.csv,chunked_busiest_site_monthly.csv,10309,0.64
+"growth, volatility, concentration and ranking analysis",didntworkagainagain\chunked_busiest_site_monthly.csv,chunked_busiest_site_monthly.csv,10309,0.64
+traffic volume analytics,didntworkagan\chunked_total_cleaned_volume_monthly.csv,chunked_total_cleaned_volume_monthly.csv,1,0.0
+monthly / seasonal analytics,didntworkagan\chunked_total_cleaned_volume_monthly.csv,chunked_total_cleaned_volume_monthly.csv,1,0.0
+SCATS site-level analytics,distinct_sites.csv,distinct_sites.csv,1,0.0
+traffic volume analytics,high_impact_charts\commercial_value_ranking_top25.csv,commercial_value_ranking_top25.csv,25,0.004
+SCATS site-level analytics,high_impact_charts\commercial_value_ranking_top25.csv,commercial_value_ranking_top25.csv,25,0.004
+traffic volume analytics,high_impact_charts\declining_sites_top20.csv,declining_sites_top20.csv,20,0.002
+SCATS site-level analytics,high_impact_charts\declining_sites_top20.csv,declining_sites_top20.csv,20,0.002
+traffic volume analytics,high_impact_charts\month_of_year_profile_from_monthly_totals.csv,month_of_year_profile_from_monthly_totals.csv,12,0.0
+monthly / seasonal analytics,high_impact_charts\month_of_year_profile_from_monthly_totals.csv,month_of_year_profile_from_monthly_totals.csv,12,0.0
+traffic volume analytics,high_impact_charts\network_stability_index.csv,network_stability_index.csv,147,0.01
+SCATS site-level analytics,high_impact_charts\network_stability_index.csv,network_stability_index.csv,147,0.01
+traffic volume analytics,high_impact_charts\rising_sites_top20.csv,rising_sites_top20.csv,20,0.002
+SCATS site-level analytics,high_impact_charts\rising_sites_top20.csv,rising_sites_top20.csv,20,0.002
+traffic volume analytics,high_impact_charts\shock_detection_timeline.csv,shock_detection_timeline.csv,147,0.011
+traffic volume analytics,high_impact_charts\site_lifecycle_cluster_assignments.csv,site_lifecycle_cluster_assignments.csv,4539,0.615
+SCATS site-level analytics,high_impact_charts\site_lifecycle_cluster_assignments.csv,site_lifecycle_cluster_assignments.csv,4539,0.615
+traffic volume analytics,high_impact_charts\site_lifecycle_cluster_summary.csv,site_lifecycle_cluster_summary.csv,4,0.0
+SCATS site-level analytics,high_impact_charts\site_lifecycle_cluster_summary.csv,site_lifecycle_cluster_summary.csv,4,0.0
+traffic volume analytics,high_impact_charts\traffic_concentration_curve.csv,traffic_concentration_curve.csv,4758,0.425
+SCATS site-level analytics,high_impact_charts\traffic_concentration_curve.csv,traffic_concentration_curve.csv,4758,0.425
+SCATS site-level analytics,high_impact_charts\traffic_concentration_milestones.csv,traffic_concentration_milestones.csv,4,0.0
+traffic volume analytics,high_impact_charts\traffic_momentum_index.csv,traffic_momentum_index.csv,147,0.008
+traffic volume analytics,high_impact_charts\weekday_profile.csv,weekday_profile.csv,7,0.0
+day-of-week / weekday-weekend analytics,high_impact_charts\weekday_profile.csv,weekday_profile.csv,7,0.0
+traffic volume analytics,in progress tests\chunked_busiest_day_monthly.csv,chunked_busiest_day_monthly.csv,2916,0.207
+monthly / seasonal analytics,in progress tests\chunked_busiest_day_monthly.csv,chunked_busiest_day_monthly.csv,2916,0.207
+traffic volume analytics,in progress tests\chunked_busiest_site_monthly.csv,chunked_busiest_site_monthly.csv,271963,17.132
+monthly / seasonal analytics,in progress tests\chunked_busiest_site_monthly.csv,chunked_busiest_site_monthly.csv,271963,17.132
+SCATS site-level analytics,in progress tests\chunked_busiest_site_monthly.csv,chunked_busiest_site_monthly.csv,271963,17.132
+site-by-month trend analysis,in progress tests\chunked_busiest_site_monthly.csv,chunked_busiest_site_monthly.csv,271963,17.132
+"growth, volatility, concentration and ranking analysis",in progress tests\chunked_busiest_site_monthly.csv,chunked_busiest_site_monthly.csv,271963,17.132
+traffic volume analytics,in progress tests\chunked_busiest_time_bin_monthly.csv,chunked_busiest_time_bin_monthly.csv,11617,0.952
+15-minute / time-of-day analytics,in progress tests\chunked_busiest_time_bin_monthly.csv,chunked_busiest_time_bin_monthly.csv,11617,0.952
+monthly / seasonal analytics,in progress tests\chunked_busiest_time_bin_monthly.csv,chunked_busiest_time_bin_monthly.csv,11617,0.952
+traffic volume analytics,in progress tests\day_of_week_profile.csv,day_of_week_profile.csv,561,0.062
+day-of-week / weekday-weekend analytics,in progress tests\day_of_week_profile.csv,day_of_week_profile.csv,561,0.062
+monthly / seasonal analytics,in progress tests\day_of_week_profile.csv,day_of_week_profile.csv,561,0.062
+traffic volume analytics,in progress tests\month_of_year_profile.csv,month_of_year_profile.csv,90,0.011
+monthly / seasonal analytics,in progress tests\month_of_year_profile.csv,month_of_year_profile.csv,90,0.011
+yearly trend analytics,in progress tests\month_of_year_profile.csv,month_of_year_profile.csv,90,0.011
+traffic volume analytics,in progress tests\site_month_totals.csv,site_month_totals.csv,486312,38.411
+monthly / seasonal analytics,in progress tests\site_month_totals.csv,site_month_totals.csv,486312,38.411
+SCATS site-level analytics,in progress tests\site_month_totals.csv,site_month_totals.csv,486312,38.411
+site-by-month trend analysis,in progress tests\site_month_totals.csv,site_month_totals.csv,486312,38.411
+"growth, volatility, concentration and ranking analysis",in progress tests\site_month_totals.csv,site_month_totals.csv,486312,38.411
+traffic volume analytics,in progress tests\site_totals.csv,site_totals.csv,549347,40.208
+monthly / seasonal analytics,in progress tests\site_totals.csv,site_totals.csv,549347,40.208
+SCATS site-level analytics,in progress tests\site_totals.csv,site_totals.csv,549347,40.208
+site-by-month trend analysis,in progress tests\site_totals.csv,site_totals.csv,549347,40.208
+"growth, volatility, concentration and ranking analysis",in progress tests\site_totals.csv,site_totals.csv,549347,40.208
+traffic volume analytics,in progress tests\time_bin_profile.csv,time_bin_profile.csv,10273,0.852
+15-minute / time-of-day analytics,in progress tests\time_bin_profile.csv,time_bin_profile.csv,10273,0.852
+monthly / seasonal analytics,in progress tests\time_bin_profile.csv,time_bin_profile.csv,10273,0.852
+traffic volume analytics,in progress tests\weekday_weekend_split.csv,weekday_weekend_split.csv,105,0.012
+day-of-week / weekday-weekend analytics,in progress tests\weekday_weekend_split.csv,weekday_weekend_split.csv,105,0.012
+monthly / seasonal analytics,in progress tests\weekday_weekend_split.csv,weekday_weekend_split.csv,105,0.012
+traffic volume analytics,kepler_animation_exports\_chunks_covid_comparison_days_v4\chunk_00_2019-05-15_pre_covid_baseline.csv,chunk_00_2019-05-15_pre_covid_baseline.csv,355724,62.408
+15-minute / time-of-day analytics,kepler_animation_exports\_chunks_covid_comparison_days_v4\chunk_00_2019-05-15_pre_covid_baseline.csv,chunk_00_2019-05-15_pre_covid_baseline.csv,355724,62.408
+SCATS site-level analytics,kepler_animation_exports\_chunks_covid_comparison_days_v4\chunk_00_2019-05-15_pre_covid_baseline.csv,chunk_00_2019-05-15_pre_covid_baseline.csv,355724,62.408
+mapping / GIS analysis,kepler_animation_exports\_chunks_covid_comparison_days_v4\chunk_00_2019-05-15_pre_covid_baseline.csv,chunk_00_2019-05-15_pre_covid_baseline.csv,355724,62.408
+traffic volume analytics,kepler_animation_exports\_chunks_covid_comparison_days_v4\chunk_01_2020-08-05_lockdown___covid_shock.csv,chunk_01_2020-08-05_lockdown___covid_shock.csv,370742,66.51
+15-minute / time-of-day analytics,kepler_animation_exports\_chunks_covid_comparison_days_v4\chunk_01_2020-08-05_lockdown___covid_shock.csv,chunk_01_2020-08-05_lockdown___covid_shock.csv,370742,66.51
+SCATS site-level analytics,kepler_animation_exports\_chunks_covid_comparison_days_v4\chunk_01_2020-08-05_lockdown___covid_shock.csv,chunk_01_2020-08-05_lockdown___covid_shock.csv,370742,66.51
+mapping / GIS analysis,kepler_animation_exports\_chunks_covid_comparison_days_v4\chunk_01_2020-08-05_lockdown___covid_shock.csv,chunk_01_2020-08-05_lockdown___covid_shock.csv,370742,66.51
+traffic volume analytics,kepler_animation_exports\_chunks_covid_comparison_days_v4\chunk_02_2021-08-05_extended_disruption.csv,chunk_02_2021-08-05_extended_disruption.csv,378372,66.853
+15-minute / time-of-day analytics,kepler_animation_exports\_chunks_covid_comparison_days_v4\chunk_02_2021-08-05_extended_disruption.csv,chunk_02_2021-08-05_extended_disruption.csv,378372,66.853
+SCATS site-level analytics,kepler_animation_exports\_chunks_covid_comparison_days_v4\chunk_02_2021-08-05_extended_disruption.csv,chunk_02_2021-08-05_extended_disruption.csv,378372,66.853
+mapping / GIS analysis,kepler_animation_exports\_chunks_covid_comparison_days_v4\chunk_02_2021-08-05_extended_disruption.csv,chunk_02_2021-08-05_extended_disruption.csv,378372,66.853
+traffic volume analytics,kepler_animation_exports\_chunks_covid_comparison_days_v4\chunk_03_2022-05-18_recovery_phase.csv,chunk_03_2022-05-18_recovery_phase.csv,384127,66.119
+15-minute / time-of-day analytics,kepler_animation_exports\_chunks_covid_comparison_days_v4\chunk_03_2022-05-18_recovery_phase.csv,chunk_03_2022-05-18_recovery_phase.csv,384127,66.119
+SCATS site-level analytics,kepler_animation_exports\_chunks_covid_comparison_days_v4\chunk_03_2022-05-18_recovery_phase.csv,chunk_03_2022-05-18_recovery_phase.csv,384127,66.119
+mapping / GIS analysis,kepler_animation_exports\_chunks_covid_comparison_days_v4\chunk_03_2022-05-18_recovery_phase.csv,chunk_03_2022-05-18_recovery_phase.csv,384127,66.119
+traffic volume analytics,kepler_animation_exports\_chunks_covid_comparison_days_v4\chunk_04_2024-05-15_recent_normal.csv,chunk_04_2024-05-15_recent_normal.csv,398740,68.371
+15-minute / time-of-day analytics,kepler_animation_exports\_chunks_covid_comparison_days_v4\chunk_04_2024-05-15_recent_normal.csv,chunk_04_2024-05-15_recent_normal.csv,398740,68.371
+SCATS site-level analytics,kepler_animation_exports\_chunks_covid_comparison_days_v4\chunk_04_2024-05-15_recent_normal.csv,chunk_04_2024-05-15_recent_normal.csv,398740,68.371
+mapping / GIS analysis,kepler_animation_exports\_chunks_covid_comparison_days_v4\chunk_04_2024-05-15_recent_normal.csv,chunk_04_2024-05-15_recent_normal.csv,398740,68.371
+traffic volume analytics,kepler_animation_exports\_chunks_covid_comparison_days_v4\chunk_05_2025-12-12_busiest_day_detected.csv,chunk_05_2025-12-12_busiest_day_detected.csv,404778,72.151
+15-minute / time-of-day analytics,kepler_animation_exports\_chunks_covid_comparison_days_v4\chunk_05_2025-12-12_busiest_day_detected.csv,chunk_05_2025-12-12_busiest_day_detected.csv,404778,72.151
+SCATS site-level analytics,kepler_animation_exports\_chunks_covid_comparison_days_v4\chunk_05_2025-12-12_busiest_day_detected.csv,chunk_05_2025-12-12_busiest_day_detected.csv,404778,72.151
+mapping / GIS analysis,kepler_animation_exports\_chunks_covid_comparison_days_v4\chunk_05_2025-12-12_busiest_day_detected.csv,chunk_05_2025-12-12_busiest_day_detected.csv,404778,72.151
+traffic volume analytics,kepler_animation_exports\kepler_am_pm_comparison_2024-05-15.csv,kepler_am_pm_comparison_2024-05-15.csv,99976,17.79
+15-minute / time-of-day analytics,kepler_animation_exports\kepler_am_pm_comparison_2024-05-15.csv,kepler_am_pm_comparison_2024-05-15.csv,99976,17.79
+SCATS site-level analytics,kepler_animation_exports\kepler_am_pm_comparison_2024-05-15.csv,kepler_am_pm_comparison_2024-05-15.csv,99976,17.79
+mapping / GIS analysis,kepler_animation_exports\kepler_am_pm_comparison_2024-05-15.csv,kepler_am_pm_comparison_2024-05-15.csv,99976,17.79
+traffic volume analytics,kepler_animation_exports\kepler_city_pulse_7days_2024-05-13_to_2024-05-19.csv,kepler_city_pulse_7days_2024-05-13_to_2024-05-19.csv,2791814,404.543
+15-minute / time-of-day analytics,kepler_animation_exports\kepler_city_pulse_7days_2024-05-13_to_2024-05-19.csv,kepler_city_pulse_7days_2024-05-13_to_2024-05-19.csv,2791814,404.543
+day-of-week / weekday-weekend analytics,kepler_animation_exports\kepler_city_pulse_7days_2024-05-13_to_2024-05-19.csv,kepler_city_pulse_7days_2024-05-13_to_2024-05-19.csv,2791814,404.543
+SCATS site-level analytics,kepler_animation_exports\kepler_city_pulse_7days_2024-05-13_to_2024-05-19.csv,kepler_city_pulse_7days_2024-05-13_to_2024-05-19.csv,2791814,404.543
+weekly day-time pulse analysis,kepler_animation_exports\kepler_city_pulse_7days_2024-05-13_to_2024-05-19.csv,kepler_city_pulse_7days_2024-05-13_to_2024-05-19.csv,2791814,404.543
+mapping / GIS analysis,kepler_animation_exports\kepler_city_pulse_7days_2024-05-13_to_2024-05-19.csv,kepler_city_pulse_7days_2024-05-13_to_2024-05-19.csv,2791814,404.543
+busiest/quietest recurring day-time windows,kepler_animation_exports\kepler_city_pulse_7days_2024-05-13_to_2024-05-19.csv,kepler_city_pulse_7days_2024-05-13_to_2024-05-19.csv,2791814,404.543
+traffic volume analytics,kepler_animation_exports\kepler_covid_collapse_recovery_comparison_days.csv,kepler_covid_collapse_recovery_comparison_days.csv,2292483,402.09
+15-minute / time-of-day analytics,kepler_animation_exports\kepler_covid_collapse_recovery_comparison_days.csv,kepler_covid_collapse_recovery_comparison_days.csv,2292483,402.09
+SCATS site-level analytics,kepler_animation_exports\kepler_covid_collapse_recovery_comparison_days.csv,kepler_covid_collapse_recovery_comparison_days.csv,2292483,402.09
+mapping / GIS analysis,kepler_animation_exports\kepler_covid_collapse_recovery_comparison_days.csv,kepler_covid_collapse_recovery_comparison_days.csv,2292483,402.09
+traffic volume analytics,kepler_animation_exports\kepler_never_sleeps_2024-05-13_to_2024-05-19_0000_0500.csv,kepler_never_sleeps_2024-05-13_to_2024-05-19_0000_0500.csv,576826,95.8
+15-minute / time-of-day analytics,kepler_animation_exports\kepler_never_sleeps_2024-05-13_to_2024-05-19_0000_0500.csv,kepler_never_sleeps_2024-05-13_to_2024-05-19_0000_0500.csv,576826,95.8
+day-of-week / weekday-weekend analytics,kepler_animation_exports\kepler_never_sleeps_2024-05-13_to_2024-05-19_0000_0500.csv,kepler_never_sleeps_2024-05-13_to_2024-05-19_0000_0500.csv,576826,95.8
+SCATS site-level analytics,kepler_animation_exports\kepler_never_sleeps_2024-05-13_to_2024-05-19_0000_0500.csv,kepler_never_sleeps_2024-05-13_to_2024-05-19_0000_0500.csv,576826,95.8
+weekly day-time pulse analysis,kepler_animation_exports\kepler_never_sleeps_2024-05-13_to_2024-05-19_0000_0500.csv,kepler_never_sleeps_2024-05-13_to_2024-05-19_0000_0500.csv,576826,95.8
+mapping / GIS analysis,kepler_animation_exports\kepler_never_sleeps_2024-05-13_to_2024-05-19_0000_0500.csv,kepler_never_sleeps_2024-05-13_to_2024-05-19_0000_0500.csv,576826,95.8
+busiest/quietest recurring day-time windows,kepler_animation_exports\kepler_never_sleeps_2024-05-13_to_2024-05-19_0000_0500.csv,kepler_never_sleeps_2024-05-13_to_2024-05-19_0000_0500.csv,576826,95.8
+traffic volume analytics,kepler_animation_exports\kepler_seasonal_top100_monthly_pulse.csv,kepler_seasonal_top100_monthly_pulse.csv,14552,2.418
+monthly / seasonal analytics,kepler_animation_exports\kepler_seasonal_top100_monthly_pulse.csv,kepler_seasonal_top100_monthly_pulse.csv,14552,2.418
+yearly trend analytics,kepler_animation_exports\kepler_seasonal_top100_monthly_pulse.csv,kepler_seasonal_top100_monthly_pulse.csv,14552,2.418
+SCATS site-level analytics,kepler_animation_exports\kepler_seasonal_top100_monthly_pulse.csv,kepler_seasonal_top100_monthly_pulse.csv,14552,2.418
+site-by-month trend analysis,kepler_animation_exports\kepler_seasonal_top100_monthly_pulse.csv,kepler_seasonal_top100_monthly_pulse.csv,14552,2.418
+mapping / GIS analysis,kepler_animation_exports\kepler_seasonal_top100_monthly_pulse.csv,kepler_seasonal_top100_monthly_pulse.csv,14552,2.418
+"growth, volatility, concentration and ranking analysis",kepler_animation_exports\kepler_seasonal_top100_monthly_pulse.csv,kepler_seasonal_top100_monthly_pulse.csv,14552,2.418
+traffic volume analytics,kepler_animation_exports\kepler_top100_ooh_reveal.csv,kepler_top100_ooh_reveal.csv,97,0.018
+15-minute / time-of-day analytics,kepler_animation_exports\kepler_top100_ooh_reveal.csv,kepler_top100_ooh_reveal.csv,97,0.018
+SCATS site-level analytics,kepler_animation_exports\kepler_top100_ooh_reveal.csv,kepler_top100_ooh_reveal.csv,97,0.018
+mapping / GIS analysis,kepler_animation_exports\kepler_top100_ooh_reveal.csv,kepler_top100_ooh_reveal.csv,97,0.018
+parcel / OOH opportunity intelligence,kepler_animation_exports\kepler_top100_ooh_reveal.csv,kepler_top100_ooh_reveal.csv,97,0.018
+traffic volume analytics,kepler_city_pulse\kepler_city_pulse_2024-05-13_to_2024-05-19.csv,kepler_city_pulse_2024-05-13_to_2024-05-19.csv,2791814,404.543
+15-minute / time-of-day analytics,kepler_city_pulse\kepler_city_pulse_2024-05-13_to_2024-05-19.csv,kepler_city_pulse_2024-05-13_to_2024-05-19.csv,2791814,404.543
+day-of-week / weekday-weekend analytics,kepler_city_pulse\kepler_city_pulse_2024-05-13_to_2024-05-19.csv,kepler_city_pulse_2024-05-13_to_2024-05-19.csv,2791814,404.543
+SCATS site-level analytics,kepler_city_pulse\kepler_city_pulse_2024-05-13_to_2024-05-19.csv,kepler_city_pulse_2024-05-13_to_2024-05-19.csv,2791814,404.543
+weekly day-time pulse analysis,kepler_city_pulse\kepler_city_pulse_2024-05-13_to_2024-05-19.csv,kepler_city_pulse_2024-05-13_to_2024-05-19.csv,2791814,404.543
+mapping / GIS analysis,kepler_city_pulse\kepler_city_pulse_2024-05-13_to_2024-05-19.csv,kepler_city_pulse_2024-05-13_to_2024-05-19.csv,2791814,404.543
+busiest/quietest recurring day-time windows,kepler_city_pulse\kepler_city_pulse_2024-05-13_to_2024-05-19.csv,kepler_city_pulse_2024-05-13_to_2024-05-19.csv,2791814,404.543
+traffic volume analytics,kepler_city_pulse\kepler_city_pulse_2024-05-15.csv,kepler_city_pulse_2024-05-15.csv,398740,50.498
+15-minute / time-of-day analytics,kepler_city_pulse\kepler_city_pulse_2024-05-15.csv,kepler_city_pulse_2024-05-15.csv,398740,50.498
+SCATS site-level analytics,kepler_city_pulse\kepler_city_pulse_2024-05-15.csv,kepler_city_pulse_2024-05-15.csv,398740,50.498
+mapping / GIS analysis,kepler_city_pulse\kepler_city_pulse_2024-05-15.csv,kepler_city_pulse_2024-05-15.csv,398740,50.498
+traffic volume analytics,month_of_year_profile.csv,month_of_year_profile.csv,148,0.017
+monthly / seasonal analytics,month_of_year_profile.csv,month_of_year_profile.csv,148,0.017
+yearly trend analytics,month_of_year_profile.csv,month_of_year_profile.csv,148,0.017
+traffic volume analytics,monthly_totals.csv,monthly_totals.csv,148,0.009
+monthly / seasonal analytics,monthly_totals.csv,monthly_totals.csv,148,0.009
+traffic volume analytics,processing_time\processing_time_summary_all_json.csv,processing_time_summary_all_json.csv,13,0.002
+15-minute / time-of-day analytics,processing_time\processing_time_summary_all_json.csv,processing_time_summary_all_json.csv,13,0.002
+traffic volume analytics,site_intelligence\campaign_charts\campaign_portfolio_simulation_summary.csv,campaign_portfolio_simulation_summary.csv,14,0.002
+SCATS site-level analytics,site_intelligence\campaign_charts\campaign_portfolio_simulation_summary.csv,campaign_portfolio_simulation_summary.csv,14,0.002
+SCATS site-level analytics,site_intelligence\concentration_charts\city_level_concentration_summary.csv,city_level_concentration_summary.csv,13,0.001
+traffic volume analytics,site_intelligence\concentration_charts\rank_group_density_summary.csv,rank_group_density_summary.csv,6,0.0
+SCATS site-level analytics,site_intelligence\concentration_charts\rank_group_density_summary.csv,rank_group_density_summary.csv,6,0.0
+SCATS site-level analytics,site_intelligence\concentration_charts\traffic_threshold_sites_required.csv,traffic_threshold_sites_required.csv,6,0.0
+SCATS site-level analytics,site_intelligence\revenue_charts\revenue_simulation_summary.csv,revenue_simulation_summary.csv,10,0.001
+traffic volume analytics,site_intelligence\revenue_charts_v2\portfolio_base_summary.csv,portfolio_base_summary.csv,10,0.0
+SCATS site-level analytics,site_intelligence\revenue_charts_v2\portfolio_base_summary.csv,portfolio_base_summary.csv,10,0.0
+traffic volume analytics,site_intelligence\revenue_charts_v2\revenue_simulation_v2_scenarios.csv,revenue_simulation_v2_scenarios.csv,200,0.023
+SCATS site-level analytics,site_intelligence\revenue_charts_v2\revenue_simulation_v2_scenarios.csv,revenue_simulation_v2_scenarios.csv,200,0.023
+traffic volume analytics,site_intelligence\revenue_charts_v2\tier_based_revenue_summary.csv,tier_based_revenue_summary.csv,5,0.0
+SCATS site-level analytics,site_intelligence\revenue_charts_v2\tier_based_revenue_summary.csv,tier_based_revenue_summary.csv,5,0.0
+traffic volume analytics,site_intelligence\site_rankings.csv,site_rankings.csv,4758,0.513
+SCATS site-level analytics,site_intelligence\site_rankings.csv,site_rankings.csv,4758,0.513
+mapping / GIS analysis,site_intelligence\site_rankings.csv,site_rankings.csv,4758,0.513
+traffic volume analytics,site_intelligence\site_totals_monthly_network_trend.csv,site_totals_monthly_network_trend.csv,147,0.004
+monthly / seasonal analytics,site_intelligence\site_totals_monthly_network_trend.csv,site_totals_monthly_network_trend.csv,147,0.004
+SCATS site-level analytics,site_intelligence\site_totals_monthly_network_trend.csv,site_totals_monthly_network_trend.csv,147,0.004
+site-by-month trend analysis,site_intelligence\site_totals_monthly_network_trend.csv,site_totals_monthly_network_trend.csv,147,0.004
+"growth, volatility, concentration and ranking analysis",site_intelligence\site_totals_monthly_network_trend.csv,site_totals_monthly_network_trend.csv,147,0.004
+traffic volume analytics,site_intelligence\site_volume_percentile_bands.csv,site_volume_percentile_bands.csv,6,0.0
+SCATS site-level analytics,site_intelligence\site_volume_percentile_bands.csv,site_volume_percentile_bands.csv,6,0.0
+traffic volume analytics,site_intelligence\strategy_charts\site_strategy_tier_summary.csv,site_strategy_tier_summary.csv,5,0.001
+SCATS site-level analytics,site_intelligence\strategy_charts\site_strategy_tier_summary.csv,site_strategy_tier_summary.csv,5,0.001
+traffic volume analytics,site_intelligence\top_1000_sites.csv,top_1000_sites.csv,1000,0.109
+SCATS site-level analytics,site_intelligence\top_1000_sites.csv,top_1000_sites.csv,1000,0.109
+mapping / GIS analysis,site_intelligence\top_1000_sites.csv,top_1000_sites.csv,1000,0.109
+traffic volume analytics,site_intelligence\top_100_sites.csv,top_100_sites.csv,100,0.011
+SCATS site-level analytics,site_intelligence\top_100_sites.csv,top_100_sites.csv,100,0.011
+mapping / GIS analysis,site_intelligence\top_100_sites.csv,top_100_sites.csv,100,0.011
+traffic volume analytics,site_intelligence\top_10_sites.csv,top_10_sites.csv,10,0.001
+SCATS site-level analytics,site_intelligence\top_10_sites.csv,top_10_sites.csv,10,0.001
+mapping / GIS analysis,site_intelligence\top_10_sites.csv,top_10_sites.csv,10,0.001
+traffic volume analytics,site_intelligence\top_25_sites.csv,top_25_sites.csv,25,0.003
+SCATS site-level analytics,site_intelligence\top_25_sites.csv,top_25_sites.csv,25,0.003
+mapping / GIS analysis,site_intelligence\top_25_sites.csv,top_25_sites.csv,25,0.003
+traffic volume analytics,site_intelligence\top_500_sites.csv,top_500_sites.csv,500,0.054
+SCATS site-level analytics,site_intelligence\top_500_sites.csv,top_500_sites.csv,500,0.054
+mapping / GIS analysis,site_intelligence\top_500_sites.csv,top_500_sites.csv,500,0.054
+traffic volume analytics,site_intelligence\top_50_sites.csv,top_50_sites.csv,50,0.005
+SCATS site-level analytics,site_intelligence\top_50_sites.csv,top_50_sites.csv,50,0.005
+mapping / GIS analysis,site_intelligence\top_50_sites.csv,top_50_sites.csv,50,0.005
+traffic volume analytics,site_month_charts\fastest_growing_sites_last12_vs_first12.csv,fastest_growing_sites_last12_vs_first12.csv,20,0.002
+SCATS site-level analytics,site_month_charts\fastest_growing_sites_last12_vs_first12.csv,fastest_growing_sites_last12_vs_first12.csv,20,0.002
+traffic volume analytics,site_month_charts\most_volatile_sites_by_monthly_cv.csv,most_volatile_sites_by_monthly_cv.csv,20,0.002
+SCATS site-level analytics,site_month_charts\most_volatile_sites_by_monthly_cv.csv,most_volatile_sites_by_monthly_cv.csv,20,0.002
+traffic volume analytics,site_month_charts\network_monthly_totals_from_site_month.csv,network_monthly_totals_from_site_month.csv,146,0.003
+traffic volume analytics,site_month_charts\top_sites_by_total_volume_from_site_month.csv,top_sites_by_total_volume_from_site_month.csv,10,0.0
+SCATS site-level analytics,site_month_charts\top_sites_by_total_volume_from_site_month.csv,top_sites_by_total_volume_from_site_month.csv,10,0.0
+traffic volume analytics,site_month_totals.csv,site_month_totals.csv,595055,47.008
+monthly / seasonal analytics,site_month_totals.csv,site_month_totals.csv,595055,47.008
+SCATS site-level analytics,site_month_totals.csv,site_month_totals.csv,595055,47.008
+site-by-month trend analysis,site_month_totals.csv,site_month_totals.csv,595055,47.008
+"growth, volatility, concentration and ranking analysis",site_month_totals.csv,site_month_totals.csv,595055,47.008
+traffic volume analytics,site_totals.csv,site_totals.csv,595127,43.558
+monthly / seasonal analytics,site_totals.csv,site_totals.csv,595127,43.558
+SCATS site-level analytics,site_totals.csv,site_totals.csv,595127,43.558
+site-by-month trend analysis,site_totals.csv,site_totals.csv,595127,43.558
+"growth, volatility, concentration and ranking analysis",site_totals.csv,site_totals.csv,595127,43.558
+traffic volume analytics,time_bin_profile.csv,time_bin_profile.csv,14113,1.173
+15-minute / time-of-day analytics,time_bin_profile.csv,time_bin_profile.csv,14113,1.173
+monthly / seasonal analytics,time_bin_profile.csv,time_bin_profile.csv,14113,1.173
+SCATS site-level analytics,top100_scats_coordinates.csv,top100_scats_coordinates.csv,97,0.004
+mapping / GIS analysis,top100_scats_coordinates.csv,top100_scats_coordinates.csv,97,0.004
+traffic volume analytics,top100_scats_vicmap_ooh.csv,top100_scats_vicmap_ooh.csv,97,0.071
+15-minute / time-of-day analytics,top100_scats_vicmap_ooh.csv,top100_scats_vicmap_ooh.csv,97,0.071
+SCATS site-level analytics,top100_scats_vicmap_ooh.csv,top100_scats_vicmap_ooh.csv,97,0.071
+mapping / GIS analysis,top100_scats_vicmap_ooh.csv,top100_scats_vicmap_ooh.csv,97,0.071
+parcel / OOH opportunity intelligence,top100_scats_vicmap_ooh.csv,top100_scats_vicmap_ooh.csv,97,0.071
+traffic volume analytics,top100_scats_vicmap_ooh_with_totals.csv,top100_scats_vicmap_ooh_with_totals.csv,97,0.1
+15-minute / time-of-day analytics,top100_scats_vicmap_ooh_with_totals.csv,top100_scats_vicmap_ooh_with_totals.csv,97,0.1
+SCATS site-level analytics,top100_scats_vicmap_ooh_with_totals.csv,top100_scats_vicmap_ooh_with_totals.csv,97,0.1
+mapping / GIS analysis,top100_scats_vicmap_ooh_with_totals.csv,top100_scats_vicmap_ooh_with_totals.csv,97,0.1
+parcel / OOH opportunity intelligence,top100_scats_vicmap_ooh_with_totals.csv,top100_scats_vicmap_ooh_with_totals.csv,97,0.1
+traffic volume analytics,top_20_scats_map_data_audit.csv,top_20_scats_map_data_audit.csv,20,0.003
+SCATS site-level analytics,top_20_scats_map_data_audit.csv,top_20_scats_map_data_audit.csv,20,0.003
+mapping / GIS analysis,top_20_scats_map_data_audit.csv,top_20_scats_map_data_audit.csv,20,0.003
+SCATS site-level analytics,victorian_traffic_signals_all_SCATS_locations.csv,victorian_traffic_signals_all_SCATS_locations.csv,5001,0.284
+mapping / GIS analysis,victorian_traffic_signals_all_SCATS_locations.csv,victorian_traffic_signals_all_SCATS_locations.csv,5001,0.284
+traffic volume analytics,weekday_weekend_split.csv,weekday_weekend_split.csv,148,0.017
+day-of-week / weekday-weekend analytics,weekday_weekend_split.csv,weekday_weekend_split.csv,148,0.017
+monthly / seasonal analytics,weekday_weekend_split.csv,weekday_weekend_split.csv,148,0.017
+traffic volume analytics,weekly_day_time_pulse_from_csv\weekly_day_time_pulse_7day_observed.csv,weekly_day_time_pulse_7day_observed.csv,672,0.031
+15-minute / time-of-day analytics,weekly_day_time_pulse_from_csv\weekly_day_time_pulse_7day_observed.csv,weekly_day_time_pulse_7day_observed.csv,672,0.031
+day-of-week / weekday-weekend analytics,weekly_day_time_pulse_from_csv\weekly_day_time_pulse_7day_observed.csv,weekly_day_time_pulse_7day_observed.csv,672,0.031
+SCATS site-level analytics,weekly_day_time_pulse_from_csv\weekly_day_time_pulse_7day_observed.csv,weekly_day_time_pulse_7day_observed.csv,672,0.031
+weekly day-time pulse analysis,weekly_day_time_pulse_from_csv\weekly_day_time_pulse_7day_observed.csv,weekly_day_time_pulse_7day_observed.csv,672,0.031
+busiest/quietest recurring day-time windows,weekly_day_time_pulse_from_csv\weekly_day_time_pulse_7day_observed.csv,weekly_day_time_pulse_7day_observed.csv,672,0.031
+traffic volume analytics,weekly_day_time_pulse_from_csv\weekly_day_time_pulse_7day_ranked.csv,weekly_day_time_pulse_7day_ranked.csv,672,0.033
+15-minute / time-of-day analytics,weekly_day_time_pulse_from_csv\weekly_day_time_pulse_7day_ranked.csv,weekly_day_time_pulse_7day_ranked.csv,672,0.033
+day-of-week / weekday-weekend analytics,weekly_day_time_pulse_from_csv\weekly_day_time_pulse_7day_ranked.csv,weekly_day_time_pulse_7day_ranked.csv,672,0.033
+SCATS site-level analytics,weekly_day_time_pulse_from_csv\weekly_day_time_pulse_7day_ranked.csv,weekly_day_time_pulse_7day_ranked.csv,672,0.033
+weekly day-time pulse analysis,weekly_day_time_pulse_from_csv\weekly_day_time_pulse_7day_ranked.csv,weekly_day_time_pulse_7day_ranked.csv,672,0.033
+busiest/quietest recurring day-time windows,weekly_day_time_pulse_from_csv\weekly_day_time_pulse_7day_ranked.csv,weekly_day_time_pulse_7day_ranked.csv,672,0.033
+traffic volume analytics,weekly_day_time_pulse_inspection\csv_weekly_pulse_inspection_summary.csv,csv_weekly_pulse_inspection_summary.csv,107,0.031
+traffic volume analytics,weekly_day_time_pulse_inspection\top_candidate_csv_files.csv,top_candidate_csv_files.csv,20,0.007

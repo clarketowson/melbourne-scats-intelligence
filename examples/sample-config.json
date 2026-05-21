@@ -1,0 +1,10 @@
+﻿{
+  "project_root": "A:/TrafficAnalytics",
+  "data_root": "A:/TrafficAnalytics/DATA",
+  "reports_root": "A:/TrafficAnalytics/PROJECTS/reports",
+  "duckdb_temp_directory": "A:/TrafficAnalytics/DuckDBTemp",
+  "memory_limit": "40GB",
+  "threads": 10,
+  "city": "Melbourne",
+  "interval_minutes": 15
+}

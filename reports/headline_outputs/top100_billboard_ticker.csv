@@ -1,0 +1,101 @@
+rank,scats_site,display_name,total_volume,latitude,longitude,google_maps_url,municipality,traffic_band
+1,4415,PRINCES near CANNING,13163960.0,-37.792825,144.973731,"https://www.google.com/maps/search/?api=1&query=-37.792825,144.973731",MBN,red
+2,2404,Princes Highway East / PARK,12383399.0,-37.833437,144.967764,"https://www.google.com/maps/search/?api=1&query=-37.833437,144.967764",PTP,red
+3,3380,EASTERN Freeway OFF RAMP / HODDLE,11334165.0,-37.795997,144.99397,"https://www.google.com/maps/search/?api=1&query=-37.795997,144.99397",YRA,red
+4,2487,Princes Highway East near IRVING (LANSDOWNE),11272288.0,-37.859989,145.007416,"https://www.google.com/maps/search/?api=1&query=-37.859989,145.007416",FRA,red
+5,3386,Hoddle / Albert / Elizabeth,11252935.0,-37.811248,144.991117,"https://www.google.com/maps/search/?api=1&query=-37.811248,144.991117",MBN,red
+6,3056,Bell / Nicholson / Elizabeth,11056163.0,-37.742572,144.978066,"https://www.google.com/maps/search/?api=1&query=-37.742572,144.978066",MRD,red
+7,2425,Princes Highway East / WARRIGAL,10986426.0,-37.893093,145.088202,"https://www.google.com/maps/search/?api=1&query=-37.893093,145.088202",STO,red
+8,416,SPRINGVALE near LAUGHLIN AVE,10872534.0,-37.82145,145.17544,"https://www.google.com/maps/search/?api=1&query=-37.82145,145.17544",WTH,red
+9,2405,Princes Highway East / ALBERT,10567398.0,-37.83513,144.971089,"https://www.google.com/maps/search/?api=1&query=-37.83513,144.971089",PTP,red
+10,3519,MT ALEXANDER near LINCOLN,10513308.0,-37.744751,144.910236,"https://www.google.com/maps/search/?api=1&query=-37.744751,144.910236",MNV,red
+11,1359,Warrigal / Links Estate Access,10398068.0,-37.922492,145.082756,"https://www.google.com/maps/search/?api=1&query=-37.922492,145.082756",MSH,red
+12,2403,Princes Highway East / STURT,10319375.0,-37.830784,144.965153,"https://www.google.com/maps/search/?api=1&query=-37.830784,144.965153",PTP,red
+13,3060,Bell / High,10095985.0,-37.745172,145.002817,"https://www.google.com/maps/search/?api=1&query=-37.745172,145.002817",BOR,red
+14,2326,Nepean / Bay / Karen,10010589.0,-37.957435,145.051922,"https://www.google.com/maps/search/?api=1&query=-37.957435,145.051922",KIN,red
+15,855,Canterbury / Heathmont,9977749.0,-37.829799,145.244803,"https://www.google.com/maps/search/?api=1&query=-37.829799,145.244803",MRH,red
+16,415,SPRINGVALE near WALKERS / SILVER,9969270.0,-37.819786,145.175764,"https://www.google.com/maps/search/?api=1&query=-37.819786,145.175764",WTH,red
+17,414,SPRINGVALE near TUNSTALL,9891106.0,-37.815046,145.176542,"https://www.google.com/maps/search/?api=1&query=-37.815046,145.176542",WTH,red
+18,2333,NEPEAN near CENTREWAY,9842127.0,-38.006934,145.086912,"https://www.google.com/maps/search/?api=1&query=-38.006934,145.086912",KIN,orange
+19,2438,Princes Highway East near THE AVENUE,9787531.0,-37.858271,144.996902,"https://www.google.com/maps/search/?api=1&query=-37.858271,144.996902",FRA,red
+20,2929,King Street / Flinders Street,9764731.0,-37.820364,144.957558,"https://www.google.com/maps/search/?api=1&query=-37.820364,144.957558",MBN,red
+21,2101,EASTERN Highway / QUEENS / BRUNSWICK,9492542.0,-37.793121,144.979346,"https://www.google.com/maps/search/?api=1&query=-37.793121,144.979346",YRA,red
+22,3385,Hoddle / Victoria,9450681.0,-37.809908,144.99132,"https://www.google.com/maps/search/?api=1&query=-37.809908,144.99132",YRA,red
+23,4562,Swanston / Flinders,9422095.0,-37.817453,144.967438,"https://www.google.com/maps/search/?api=1&query=-37.817453,144.967438",MBN,red
+24,3516,BULLA near HOLYROOD,9396865.0,-37.738597,144.906609,"https://www.google.com/maps/search/?api=1&query=-37.738597,144.906609",MNV,red
+25,2315,Nepean / Martin / Gardenvale,9316212.0,-37.897608,145.005663,"https://www.google.com/maps/search/?api=1&query=-37.897608,145.005663",BAY,red
+26,3381,Hoddle / Truro,9274612.0,-37.797937,144.993283,"https://www.google.com/maps/search/?api=1&query=-37.797937,144.993283",YRA,red
+27,725,Fitzsimons Lane / Porter Street / Williamsons Road,9093237.0,-37.752557,145.135019,"https://www.google.com/maps/search/?api=1&query=-37.752557,145.135019",MAN,red
+28,538,BURWOOD Highway / STANLEY / FORTESCUE,9085373.0,-37.855474,145.175184,"https://www.google.com/maps/search/?api=1&query=-37.855474,145.175184",WTH,red
+29,3357,MRR / GREENSBOROUGH Highway,9032843.0,-37.695056,145.092566,"https://www.google.com/maps/search/?api=1&query=-37.695056,145.092566",BAN,red
+30,3382,Hoddle / Johnston,9025603.0,-37.799845,144.992987,"https://www.google.com/maps/search/?api=1&query=-37.799845,144.992987",YRA,red
+31,2985,Princes Highway East near CLOSEBURN,8907235.0,-37.859189,145.003684,"https://www.google.com/maps/search/?api=1&query=-37.859189,145.003684",STO,red
+32,3052,Bell / Melville / Turner,8889603.0,-37.739195,144.945711,"https://www.google.com/maps/search/?api=1&query=-37.739195,144.945711",MRD,red
+33,849,Canterbury / Mitcham / Boronia,8849286.0,-37.836096,145.195312,"https://www.google.com/maps/search/?api=1&query=-37.836096,145.195312",WTH,red
+34,2316,Nepean / North,8793733.0,-37.899837,145.006459,"https://www.google.com/maps/search/?api=1&query=-37.899837,145.006459",BAY,red
+35,3059,Bell / Street Georges,8665963.0,-37.744603,144.997452,"https://www.google.com/maps/search/?api=1&query=-37.744603,144.997452",BOR,red
+36,2816,DIAMOND CREEK RD / GREENSBOROUGH Highway / CIVIC,8568585.0,-37.68909,145.11328,"https://www.google.com/maps/search/?api=1&query=-37.68909,145.11328",,red
+37,2100,Eastern / Nicholson / Princes,8534645.0,-37.793047,144.975715,"https://www.google.com/maps/search/?api=1&query=-37.793047,144.975715",YRA,red
+38,4381,Rathdowne / Princes,8525748.0,-37.792589,144.971354,"https://www.google.com/maps/search/?api=1&query=-37.792589,144.971354",MBN,red
+39,2329,Nepean / Warrigal / Balcombe,8524644.0,-37.982174,145.071351,"https://www.google.com/maps/search/?api=1&query=-37.982174,145.071351",KIN,red
+40,4030,Burke / Doncaster / Kilby / High,8505574.0,-37.793497,145.063932,"https://www.google.com/maps/search/?api=1&query=-37.793497,145.063932",BOR,yellow
+41,5296,Phw / Federation Trail,8376112.0,-37.819275,144.840111,"https://www.google.com/maps/search/?api=1&query=-37.819275,144.840111",WYN,red
+42,431,Springvale / Magid,8357924.0,-37.906398,145.160899,"https://www.google.com/maps/search/?api=1&query=-37.906398,145.160899",MSH,red
+43,3151,Springvale / Keylana,8347328.0,-38.003114,145.142277,"https://www.google.com/maps/search/?api=1&query=-38.003114,145.142277",KIN,red
+44,2827,Eastern Freeway / Bulleen / Thompsons,8341358.0,-37.779531,145.078645,"https://www.google.com/maps/search/?api=1&query=-37.779531,145.078645",BOR,red
+45,3384,Hoddle / Langridge,8324559.0,-37.807161,144.991773,"https://www.google.com/maps/search/?api=1&query=-37.807161,144.991773",YRA,red
+46,4155,HIGH near WALKER,8307406.0,-37.78381,144.996148,"https://www.google.com/maps/search/?api=1&query=-37.78381,144.996148",DAR,red
+47,4744,TOORAK near SURREY,8283548.0,-37.839857,144.998594,"https://www.google.com/maps/search/?api=1&query=-37.839857,144.998594",FRA,red
+48,3360,Banksia / Lwr Heidelberg,8226267.0,-37.75973,145.069047,"https://www.google.com/maps/search/?api=1&query=-37.75973,145.069047",BAN,red
+49,948,Princes Highway East / SPRINGVALE BYPASS / Westall,8156406.0,-37.924655,145.143566,"https://www.google.com/maps/search/?api=1&query=-37.924655,145.143566",MSH,red
+50,2498,PHW near WALES,8138127.0,-37.805355,144.880191,"https://www.google.com/maps/search/?api=1&query=-37.805355,144.880191",MRG,red
+51,3383,Hoddle / Gipps,8129388.0,-37.804991,144.99213,"https://www.google.com/maps/search/?api=1&query=-37.804991,144.99213",YRA,red
+52,3735,Plenty / Grimshaw,8102576.0,-37.700033,145.05837,"https://www.google.com/maps/search/?api=1&query=-37.700033,145.05837",BAN,red
+53,2103,EASTERN Highway / SMITH,8078930.0,-37.794078,144.985112,"https://www.google.com/maps/search/?api=1&query=-37.794078,144.985112",YRA,red
+54,3361,Banksia / Dora,8077850.0,-37.760037,145.071534,"https://www.google.com/maps/search/?api=1&query=-37.760037,145.071534",BAN,red
+55,3393,Punt / Swan,8041003.0,-37.824602,144.988855,"https://www.google.com/maps/search/?api=1&query=-37.824602,144.988855",MBN,red
+56,3390,Punt / Bridge / Hoddle / Wellington,8024362.0,-37.817555,144.990013,"https://www.google.com/maps/search/?api=1&query=-37.817555,144.990013",MBN,red
+57,2337,Nepean / Cummins / Patterson,8021161.0,-37.924902,145.026256,"https://www.google.com/maps/search/?api=1&query=-37.924902,145.026256",GLE,red
+58,2701,MELTON Highway / SUNSHINE,7999815.0,-37.701628,144.800222,"https://www.google.com/maps/search/?api=1&query=-37.701628,144.800222",BRM,red
+59,4677,HIGH near MANSFIELD,7969080.0,-37.756396,145.000966,"https://www.google.com/maps/search/?api=1&query=-37.756396,145.000966",BOR,yellow
+60,2880,Westgate Freeway / Williamstown,7954608.0,-37.825989,144.88096,"https://www.google.com/maps/search/?api=1&query=-37.825989,144.88096",HOB,red
+61,4461,Flemington / Racecourse / Elliot,7934566.0,-37.789404,144.942166,"https://www.google.com/maps/search/?api=1&query=-37.789404,144.942166",MBN,red
+62,3022,Ormond Esp / Street Kilda / Head,7902744.0,-37.891737,144.990672,"https://www.google.com/maps/search/?api=1&query=-37.891737,144.990672",PTP,red
+63,2406,Princes Highway East / QUEENS,7889673.0,-37.836233,144.973047,"https://www.google.com/maps/search/?api=1&query=-37.836233,144.973047",PTP,red
+64,4742,TOORAK near OSBORNE,7877809.0,-37.839045,144.992039,"https://www.google.com/maps/search/?api=1&query=-37.839045,144.992039",FRA,red
+65,2020,BURWOOD Highway near MILPERA,7857661.0,-37.863825,145.219784,"https://www.google.com/maps/search/?api=1&query=-37.863825,145.219784",KNO,red
+66,3671,Street Georges / Merri / Charles,7839334.0,-37.776519,144.98974,"https://www.google.com/maps/search/?api=1&query=-37.776519,144.98974",DAR,red
+67,1156,SOUTH GIPPSLAND Highway between STATION / LOCH,7828139.0,-38.100842,145.282694,"https://www.google.com/maps/search/?api=1&query=-38.100842,145.282694",CAS,red
+68,2416,Princes Highway East / NORMANBY / STATION,7825717.0,-37.868478,145.031261,"https://www.google.com/maps/search/?api=1&query=-37.868478,145.031261",GLE,red
+69,2104,EASTERN Highway / WELLINGTON,7814693.0,-37.794388,144.988164,"https://www.google.com/maps/search/?api=1&query=-37.794388,144.988164",YRA,red
+70,117,Maroondah / Springvale,7763172.0,-37.818459,145.175999,"https://www.google.com/maps/search/?api=1&query=-37.818459,145.175999",WTH,red
+71,3681,Monash / Warrigal,7748175.0,-37.883239,145.090011,"https://www.google.com/maps/search/?api=1&query=-37.883239,145.090011",FRA,red
+72,999,CANTERBURY near GREEN HILL,7743932.0,-37.830471,145.263797,"https://www.google.com/maps/search/?api=1&query=-37.830471,145.263797",MRH,red
+73,3541,Montague / Normanby / Munro,7740778.0,-37.828959,144.948439,"https://www.google.com/maps/search/?api=1&query=-37.828959,144.948439",PTP,red
+74,2613,WESTERN Highway / MCINTYRE / ANDERSON,7715158.0,-37.777059,144.82872,"https://www.google.com/maps/search/?api=1&query=-37.777059,144.82872",BRM,red
+75,429,Springvale / Ferntree Gully,7699818.0,-37.903537,145.161405,"https://www.google.com/maps/search/?api=1&query=-37.903537,145.161405",MSH,red
+76,2302,Nepean / Fitzroy / Wellington,7672901.0,-37.856393,144.983185,"https://www.google.com/maps/search/?api=1&query=-37.856393,144.983185",PTP,red
+77,814,MT DANDENONG near LILYDALE-MON,7666309.0,-37.810355,145.343284,"https://www.google.com/maps/search/?api=1&query=-37.810355,145.343284",YRG,red
+78,2420,Princes Highway East / GRANGE,7628749.0,-37.881163,145.049558,"https://www.google.com/maps/search/?api=1&query=-37.881163,145.049558",GLE,red
+79,1144,BORONIA near AMESBURY & ROXBURGH,7619617.0,-37.851476,145.239713,"https://www.google.com/maps/search/?api=1&query=-37.851476,145.239713",KNO,red
+80,2407,Princes Highway East / LORNE (X LAKESIDE),7617830.0,-37.850738,144.978351,"https://www.google.com/maps/search/?api=1&query=-37.850738,144.978351",PTP,red
+81,2173,Sydney / Wrr,7575002.0,-37.692181,144.95865,"https://www.google.com/maps/search/?api=1&query=-37.692181,144.95865",MRD,red
+82,202,STUD near OSWALD,7571554.0,-37.975957,145.222548,"https://www.google.com/maps/search/?api=1&query=-37.975957,145.222548",DAN,red
+83,3198,Centre / Clayton,7565858.0,-37.928527,145.119061,"https://www.google.com/maps/search/?api=1&query=-37.928527,145.119061",MSH,red
+84,2918,Victoria / Latrobe,7562049.0,-37.807491,144.970696,"https://www.google.com/maps/search/?api=1&query=-37.807491,144.970696",MBN,red
+85,4975,Airport / Centre,7542422.0,-37.673016,144.852094,"https://www.google.com/maps/search/?api=1&query=-37.673016,144.852094",HUM,red
+86,3706,Warrigal / Middle,7523994.0,-37.886996,145.089382,"https://www.google.com/maps/search/?api=1&query=-37.886996,145.089382",STO,red
+87,2312,Nepean / Glenhuntly / Hotham,7512084.0,-37.883745,144.996828,"https://www.google.com/maps/search/?api=1&query=-37.883745,144.996828",BAY,red
+88,3389,Hoddle / Freeman,7473651.0,-37.815331,144.990367,"https://www.google.com/maps/search/?api=1&query=-37.815331,144.990367",YRA,red
+89,195,Princes Highway East (LONSDALE) / WALKER,7447987.0,-37.988178,145.214399,"https://www.google.com/maps/search/?api=1&query=-37.988178,145.214399",DAN,red
+90,126,Maroondah / Mt Dandenong,7446985.0,-37.811072,145.237417,"https://www.google.com/maps/search/?api=1&query=-37.811072,145.237417",MRH,red
+91,291,Streeth Gipps'D Freeway / Pound,7426611.0,-38.025978,145.248173,"https://www.google.com/maps/search/?api=1&query=-38.025978,145.248173",CAS,orange
+92,2409,Princes Highway East / CHAPEL,7416712.0,-37.85779,144.992239,"https://www.google.com/maps/search/?api=1&query=-37.85779,144.992239",PTP,red
+93,4741,TOORAK near MYRTLE,7416256.0,-37.838719,144.989535,"https://www.google.com/maps/search/?api=1&query=-37.838719,144.989535",FRA,orange
+94,2414,Princes Highway East / GLENFERRIE / HAWTHORN,7412430.0,-37.866462,145.02766,"https://www.google.com/maps/search/?api=1&query=-37.866462,145.02766",FRA,red
+95,3232,High / Manns Crossing,7406237.0,-37.672626,145.015563,"https://www.google.com/maps/search/?api=1&query=-37.672626,145.015563",WHI,orange
+96,2336,Nepean / Dendy,7375544.0,-37.922877,145.024464,"https://www.google.com/maps/search/?api=1&query=-37.922877,145.024464",BAY,red
+97,4902,Montague / Lorimer,7365670.0,-37.825204,144.947548,"https://www.google.com/maps/search/?api=1&query=-37.825204,144.947548",MBN,red
+98,3392,Punt / Brunton,7338129.0,-37.823047,144.989105,"https://www.google.com/maps/search/?api=1&query=-37.823047,144.989105",MBN,red
+99,3075,BELL near ALICE,7288270.0,-37.740389,144.957143,"https://www.google.com/maps/search/?api=1&query=-37.740389,144.957143",MRD,red
+100,4711,Swanston / Cemetery East / College,7256737.0,-37.793413,144.965161,"https://www.google.com/maps/search/?api=1&query=-37.793413,144.965161",MBN,red

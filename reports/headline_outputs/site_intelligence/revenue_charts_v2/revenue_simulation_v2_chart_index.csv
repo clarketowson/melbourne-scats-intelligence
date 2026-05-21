@@ -1,0 +1,9 @@
+filename,description
+01_revenue_by_cpm_scenario.png,Revenue by portfolio size across CPM scenarios
+02_profit_by_cpm_scenario.png,Profit by portfolio size across CPM scenarios
+03_profit_by_utilisation_at_8_cpm.png,Profit by utilisation at $8 CPM
+04_roi_by_utilisation_at_8_cpm.png,ROI by utilisation at $8 CPM
+05_break_even_cpm_by_portfolio.png,Break-even CPM required by portfolio size
+06_revenue_per_site_by_cpm.png,Revenue per site across CPM scenarios
+07_roi_heatmap_1000_site_portfolio.png,"ROI heatmap for a 1,000-site portfolio"
+08_tier_based_revenue_model.png,Revenue by traffic tier using tiered CPM assumptions

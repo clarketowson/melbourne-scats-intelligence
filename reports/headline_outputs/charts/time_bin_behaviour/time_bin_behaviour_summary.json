@@ -1,0 +1,173 @@
+{
+  "metric_name": "time_bin_behaviour_analytics",
+  "source_csv": "A:\\TrafficAnalytics\\PROJECTS\\reports\\deduped\\time_bin_profile.csv",
+  "source_json": "A:\\TrafficAnalytics\\PROJECTS\\reports\\deduped\\time_bin_profile_final.json",
+  "output_directory": "A:\\TrafficAnalytics\\PROJECTS\\reports\\deduped\\charts\\time_bin_behaviour",
+  "base_run": {
+    "date_range_start": "2014-01-01",
+    "date_range_end": "2026-04-07",
+    "months_total": 148,
+    "months_completed": 148,
+    "is_complete": true,
+    "total_days_loaded": 4437,
+    "zero_row_months": [
+      "2018-12"
+    ]
+  },
+  "summary": {
+    "peak_time_bin": "17:15",
+    "quietest_time_bin": "03:00",
+    "peak_avg_daily_volume": 2283898.46382691,
+    "quietest_avg_daily_volume": 151357.80437232365,
+    "peak_to_quiet_ratio": 15.089400069577977,
+    "cumulative_share_by_time": {
+      "09:00": 0.21560536256291582,
+      "12:00": 0.394816076010584,
+      "17:00": 0.7377075283409574,
+      "19:00": 0.8632301434386225
+    },
+    "time_when_25_percent_reached": "09:45",
+    "time_when_50_percent_reached": "13:45",
+    "time_when_75_percent_reached": "17:15",
+    "morning_ramp_08_vs_05_ratio": 5.318018816116846,
+    "evening_decay_peak_vs_21_ratio": 2.315739551769242,
+    "afternoon_vs_morning_peak_ratio": 1.1827997050185048
+  },
+  "window_metrics": [
+    {
+      "window": "Morning Peak Window 07:00\u201309:30",
+      "start": "07:00",
+      "end": "09:30",
+      "bins": 10,
+      "total_volume": 75661752166.0,
+      "avg_daily_volume_sum": 17052457.10299752,
+      "share_of_daily_volume": 0.14036891482787708,
+      "strongest_bin": "08:45",
+      "strongest_bin_avg_daily_volume": 1930925.7976109984
+    },
+    {
+      "window": "Midday Plateau 10:00\u201315:00",
+      "start": "10:00",
+      "end": "15:00",
+      "bins": 20,
+      "total_volume": 169660862420.0,
+      "avg_daily_volume_sum": 38237742.26279017,
+      "share_of_daily_volume": 0.31475759501851597,
+      "strongest_bin": "14:45",
+      "strongest_bin_avg_daily_volume": 2076134.6700473293
+    },
+    {
+      "window": "Afternoon Peak Window 16:00\u201318:30",
+      "start": "16:00",
+      "end": "18:30",
+      "bins": 10,
+      "total_volume": 95990077687.0,
+      "avg_daily_volume_sum": 21634004.437006988,
+      "share_of_daily_volume": 0.17808235539676817,
+      "strongest_bin": "17:15",
+      "strongest_bin_avg_daily_volume": 2283898.46382691
+    },
+    {
+      "window": "Overnight Baseline 00:00\u201305:00",
+      "start": "00:00",
+      "end": "05:00",
+      "bins": 20,
+      "total_volume": 19204962951.0,
+      "avg_daily_volume_sum": 4328366.67816092,
+      "share_of_daily_volume": 0.0356293600342083,
+      "strongest_bin": "00:00",
+      "strongest_bin_avg_daily_volume": 382163.84561640746
+    }
+  ],
+  "plateau_metrics": {
+    "plateau_thresholds": [
+      {
+        "threshold": 0.7,
+        "bins": 45,
+        "hours": 11.25,
+        "start": "07:30",
+        "end": "18:30"
+      },
+      {
+        "threshold": 0.8,
+        "bins": 32,
+        "hours": 8.0,
+        "start": "08:15",
+        "end": "18:15"
+      },
+      {
+        "threshold": 0.9,
+        "bins": 13,
+        "hours": 3.25,
+        "start": "14:45",
+        "end": "17:45"
+      }
+    ]
+  },
+  "cluster_metrics": {
+    "top10_cluster_start": "15:15",
+    "top10_cluster_end": "17:30",
+    "top10_cluster_span_hours": 2.25,
+    "top10_bins": [
+      {
+        "time_bin": "15:15",
+        "total_volume": 9750750621.0,
+        "avg_daily_volume": 2197599.8695064234
+      },
+      {
+        "time_bin": "15:30",
+        "total_volume": 9905230284.0,
+        "avg_daily_volume": 2232416.1108857337
+      },
+      {
+        "time_bin": "15:45",
+        "total_volume": 9828534732.0,
+        "avg_daily_volume": 2215130.6585530764
+      },
+      {
+        "time_bin": "16:00",
+        "total_volume": 9855576406.0,
+        "avg_daily_volume": 2221225.2436330854
+      },
+      {
+        "time_bin": "16:15",
+        "total_volume": 9859910707.0,
+        "avg_daily_volume": 2222202.097588461
+      },
+      {
+        "time_bin": "16:30",
+        "total_volume": 9869364726.0,
+        "avg_daily_volume": 2224332.8208248815
+      },
+      {
+        "time_bin": "16:45",
+        "total_volume": 9849659432.0,
+        "avg_daily_volume": 2219891.69078206
+      },
+      {
+        "time_bin": "17:00",
+        "total_volume": 10082970210.0,
+        "avg_daily_volume": 2272474.6923597027
+      },
+      {
+        "time_bin": "17:15",
+        "total_volume": 10133657484.0,
+        "avg_daily_volume": 2283898.46382691
+      },
+      {
+        "time_bin": "17:30",
+        "total_volume": 9778795188.0,
+        "avg_daily_volume": 2203920.4841108858
+      }
+    ]
+  },
+  "charts": [
+    "A:\\TrafficAnalytics\\PROJECTS\\reports\\deduped\\charts\\time_bin_behaviour\\time_bin_peak_window_share.png",
+    "A:\\TrafficAnalytics\\PROJECTS\\reports\\deduped\\charts\\time_bin_behaviour\\time_bin_cumulative_daily_curve.png",
+    "A:\\TrafficAnalytics\\PROJECTS\\reports\\deduped\\charts\\time_bin_behaviour\\time_bin_morning_vs_afternoon_profile.png",
+    "A:\\TrafficAnalytics\\PROJECTS\\reports\\deduped\\charts\\time_bin_behaviour\\time_bin_ramp_decay_curve.png",
+    "A:\\TrafficAnalytics\\PROJECTS\\reports\\deduped\\charts\\time_bin_behaviour\\time_bin_plateau_threshold_analysis.png",
+    "A:\\TrafficAnalytics\\PROJECTS\\reports\\deduped\\charts\\time_bin_behaviour\\time_bin_top_bins_cluster.png"
+  ],
+  "metrics_csv": "A:\\TrafficAnalytics\\PROJECTS\\reports\\deduped\\charts\\time_bin_behaviour\\time_bin_behaviour_metrics.csv"
+}

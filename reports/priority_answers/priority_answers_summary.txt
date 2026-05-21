@@ -1,0 +1,250 @@
+Run timestamp: 2026-04-12T13:40:24.033054
+Database: A:\TrafficAnalytics\DATA\SCATS\scats.duckdb
+View created: scats_clean (volume_15m >= 0)
+Focus: highest-value priority answers from SCATS question set
+
+=== 01_dataset_summary ===
+Saved: A:\TrafficAnalytics\PROJECTS\reports\scats_priority_answers\01_dataset_summary.csv
+Columns: cleaned_rows, distinct_sites, min_date, max_date, cleaned_total_volume
+(18688727129, 4276, datetime.date(2014, 1, 1), datetime.date(2021, 7, 11), 295222264839)
+
+=== 02_busiest_intersections_top_100 ===
+Saved: A:\TrafficAnalytics\PROJECTS\reports\scats_priority_answers\02_busiest_intersections_top_100.csv
+Columns: scats_site, total_volume
+(4415, 384574564)
+(2404, 333518405)
+(3380, 330246268)
+(2487, 317622238)
+(3386, 316564578)
+(1359, 309553990)
+(849, 304789079)
+(3519, 302839785)
+(2405, 300114116)
+(855, 298298601)
+
+=== 03_quietest_intersections_bottom_100 ===
+Saved: A:\TrafficAnalytics\PROJECTS\reports\scats_priority_answers\03_quietest_intersections_bottom_100.csv
+Columns: scats_site, total_volume
+(4860, 0)
+(9263, 0)
+(688, 0)
+(1996, 0)
+(6978, 0)
+(772, 0)
+(470, 0)
+(625, 0)
+(4195, 0)
+(2233, 0)
+
+=== 04_busiest_time_of_day_network ===
+Saved: A:\TrafficAnalytics\PROJECTS\reports\scats_priority_answers\04_busiest_time_of_day_network.csv
+Columns: time_bin, total_volume
+('17:15', 5572504954)
+('17:00', 5531362970)
+('16:30', 5405683320)
+('15:30', 5403212587)
+('16:15', 5396280264)
+('17:30', 5390847515)
+('16:45', 5390562551)
+('16:00', 5389926875)
+('15:45', 5367965843)
+('15:15', 5306461693)
+
+=== 05_quietest_time_of_day_network ===
+Saved: A:\TrafficAnalytics\PROJECTS\reports\scats_priority_answers\05_quietest_time_of_day_network.csv
+Columns: time_bin, total_volume
+('03:00', 378224228)
+('02:45', 384492982)
+('03:15', 385974787)
+('03:30', 398483107)
+('02:30', 401209348)
+('03:45', 401822232)
+('04:00', 418337946)
+('02:15', 419255216)
+('02:00', 443313383)
+('01:45', 469288827)
+
+=== 06_busiest_days_top_100 ===
+Saved: A:\TrafficAnalytics\PROJECTS\reports\scats_priority_answers\06_busiest_days_top_100.csv
+Columns: count_date, total_volume
+(datetime.date(2019, 12, 13), 151916062)
+(datetime.date(2019, 11, 29), 151706950)
+(datetime.date(2019, 12, 19), 151646758)
+(datetime.date(2021, 2, 12), 151500359)
+(datetime.date(2019, 12, 6), 151430915)
+(datetime.date(2019, 11, 22), 151248598)
+(datetime.date(2021, 4, 1), 148831647)
+(datetime.date(2020, 12, 18), 148658715)
+(datetime.date(2019, 11, 15), 148301692)
+(datetime.date(2019, 12, 5), 147265752)
+
+=== 07_quietest_days_bottom_100 ===
+Saved: A:\TrafficAnalytics\PROJECTS\reports\scats_priority_answers\07_quietest_days_bottom_100.csv
+Columns: count_date, total_volume
+(datetime.date(2015, 12, 19), 10343465)
+(datetime.date(2015, 12, 31), 32595269)
+(datetime.date(2020, 8, 9), 37292786)
+(datetime.date(2020, 8, 16), 39706127)
+(datetime.date(2020, 4, 10), 40210106)
+(datetime.date(2020, 8, 23), 41090426)
+(datetime.date(2020, 4, 12), 41621250)
+(datetime.date(2020, 8, 30), 43273397)
+(datetime.date(2021, 2, 14), 45418017)
+(datetime.date(2020, 8, 8), 45858809)
+
+=== 08_weekday_vs_weekend_network ===
+Saved: A:\TrafficAnalytics\PROJECTS\reports\scats_priority_answers\08_weekday_vs_weekend_network.csv
+Columns: day_type, avg_daily_volume
+('Weekday', 121292032.38819027)
+('Weekend', 99160996.75810811)
+
+=== 09_monday_vs_friday_network ===
+Saved: A:\TrafficAnalytics\PROJECTS\reports\scats_priority_answers\09_monday_vs_friday_network.csv
+Columns: day_name, avg_daily_volume
+('Friday', 126368819.8956044)
+('Monday', 113187051.64109589)
+
+=== 10_peak_15min_period_each_site_top_100_by_peak ===
+Saved: A:\TrafficAnalytics\PROJECTS\reports\scats_priority_answers\10_peak_15min_period_each_site_top_100_by_peak.csv
+Columns: scats_site, peak_time_bin, avg_peak_15m_volume
+(2790, '16:45', 165.67909033480734)
+(2482, '15:15', 161.10913461538462)
+(2530, '17:15', 154.37972824091077)
+(3368, '17:15', 130.4405487804878)
+(3516, '17:15', 118.94622785512743)
+(1803, '16:00', 116.49749163879599)
+(2834, '17:15', 110.66185311029795)
+(6142, '15:30', 109.37983706720978)
+(2167, '15:00', 108.28840970350404)
+(2172, '17:15', 107.55992602047462)
+
+=== 11_quietest_15min_period_each_site_bottom_100_by_quiet ===
+Saved: A:\TrafficAnalytics\PROJECTS\reports\scats_priority_answers\11_quietest_15min_period_each_site_bottom_100_by_quiet.csv
+Columns: scats_site, quiet_time_bin, avg_quiet_15m_volume
+(4714, '00:00', 0.0)
+(5337, '21:00', 0.0)
+(6703, '22:15', 0.0)
+(625, '00:00', 0.0)
+(6266, '00:00', 0.0)
+(688, '00:00', 0.0)
+(485, '00:00', 0.0)
+(4157, '01:15', 0.0)
+(4194, '00:00', 0.0)
+(797, '00:00', 0.0)
+
+=== 12_typical_daily_pattern_top_50_sites ===
+Saved: A:\TrafficAnalytics\PROJECTS\reports\scats_priority_answers\12_typical_daily_pattern_top_50_sites.csv
+Columns: scats_site, time_bin, avg_15m_volume
+(117, '00:00', 12.707725899658524)
+(117, '00:15', 11.728395264445576)
+(117, '00:30', 10.202116662564608)
+(117, '00:45', 9.21656061401207)
+(117, '01:00', 8.227959883787731)
+(117, '01:15', 7.6379539306500535)
+(117, '01:30', 7.069786118167664)
+(117, '01:45', 6.511002003349864)
+(117, '02:00', 6.251952707480308)
+(117, '02:15', 5.875655763316724)
+
+=== 13_highest_volume_ever_recorded_each_site_top_100 ===
+Saved: A:\TrafficAnalytics\PROJECTS\reports\scats_priority_answers\13_highest_volume_ever_recorded_each_site_top_100.csv
+Columns: scats_site, max_15m_volume
+(4677, 1265)
+(3668, 1265)
+(1139, 1216)
+(2824, 1145)
+(2822, 1137)
+(607, 1016)
+(3034, 1016)
+(4112, 1016)
+(5284, 1016)
+(641, 1016)
+
+=== 14_lowest_nonzero_volume_ever_recorded_each_site_bottom_100 ===
+Saved: A:\TrafficAnalytics\PROJECTS\reports\scats_priority_answers\14_lowest_nonzero_volume_ever_recorded_each_site_bottom_100.csv
+Columns: scats_site, min_nonzero_15m_volume
+(125, 1)
+(126, 1)
+(129, 1)
+(297, 1)
+(414, 1)
+(888, 1)
+(915, 1)
+(2210, 1)
+(3135, 1)
+(3916, 1)
+
+=== 15_long_term_growth_by_site ===
+Saved: A:\TrafficAnalytics\PROJECTS\reports\scats_priority_answers\15_long_term_growth_by_site.csv
+Columns: scats_site, first_year, first_year_volume, last_year, last_year_volume, absolute_change, pct_change
+(3705, 2015, 0, 2021, 34628451, 34628451, None)
+(3253, 2015, 393820, 2021, 11989570, 11595750, 2944.43)
+(3535, 2015, 1225299, 2021, 12420606, 11195307, 913.68)
+(5154, 2014, 0, 2021, 10787247, 10787247, None)
+(1426, 2018, 0, 2021, 10544330, 10544330, None)
+(2063, 2017, 531329, 2021, 10378595, 9847266, 1853.33)
+(1415, 2017, 1351015, 2021, 10558177, 9207162, 681.5)
+(2393, 2019, 802645, 2021, 10003559, 9200914, 1146.32)
+(3252, 2014, 1683702, 2021, 10824997, 9141295, 542.93)
+(3658, 2014, 926937, 2021, 9540457, 8613520, 929.25)
+
+=== 16_fastest_growth_sites_top_100 ===
+Saved: A:\TrafficAnalytics\PROJECTS\reports\scats_priority_answers\16_fastest_growth_sites_top_100.csv
+Columns: scats_site, first_year, first_year_volume, last_year, last_year_volume, absolute_change, pct_change
+(3705, 2015, 0, 2021, 34628451, 34628451, None)
+(3253, 2015, 393820, 2021, 11989570, 11595750, 2944.43)
+(3535, 2015, 1225299, 2021, 12420606, 11195307, 913.68)
+(5154, 2014, 0, 2021, 10787247, 10787247, None)
+(1426, 2018, 0, 2021, 10544330, 10544330, None)
+(2063, 2017, 531329, 2021, 10378595, 9847266, 1853.33)
+(1415, 2017, 1351015, 2021, 10558177, 9207162, 681.5)
+(2393, 2019, 802645, 2021, 10003559, 9200914, 1146.32)
+(3252, 2014, 1683702, 2021, 10824997, 9141295, 542.93)
+(3658, 2014, 926937, 2021, 9540457, 8613520, 929.25)
+
+=== 17_biggest_decline_sites_bottom_100 ===
+Saved: A:\TrafficAnalytics\PROJECTS\reports\scats_priority_answers\17_biggest_decline_sites_bottom_100.csv
+Columns: scats_site, first_year, first_year_volume, last_year, last_year_volume, absolute_change, pct_change
+(3056, 2014, 43865307, 2021, 14138432, -29726875, -67.77)
+(4677, 2014, 33660550, 2021, 4745661, -28914889, -85.9)
+(4902, 2014, 39083065, 2021, 10775214, -28307851, -72.43)
+(2404, 2014, 51426137, 2021, 23624725, -27801412, -54.06)
+(4562, 2014, 38525864, 2021, 12526714, -25999150, -67.48)
+(2420, 2014, 41360157, 2021, 15608668, -25751489, -62.26)
+(4975, 2014, 31104638, 2021, 5742257, -25362381, -81.54)
+(4415, 2014, 53215213, 2021, 28302244, -24912969, -46.82)
+(416, 2014, 44528564, 2021, 20822689, -23705875, -53.24)
+(2487, 2014, 45858217, 2021, 22399472, -23458745, -51.15)
+
+=== 18_most_predictable_sites_top_100 ===
+Saved: A:\TrafficAnalytics\PROJECTS\reports\scats_priority_answers\18_most_predictable_sites_top_100.csv
+Columns: scats_site, mean_daily_volume, sd_daily_volume, cv
+(3375, 66253.02708058125, 6198.256505698681, 0.0936)
+(1202, 43321.4086482275, 4376.969357284732, 0.101)
+(4746, 50141.69497467861, 5261.975932259456, 0.1049)
+(1339, 23714.76040658277, 2602.947351275378, 0.1098)
+(2985, 95893.73354109855, 10562.115240544246, 0.1101)
+(3060, 109627.84417608102, 12369.611956133142, 0.1128)
+(3524, 64186.62991819244, 7443.658473241478, 0.116)
+(3075, 76430.78379431243, 8905.650650840247, 0.1165)
+(4037, 57983.36969224776, 6854.087426192727, 0.1182)
+(5808, 16251.91507596416, 1936.7934443955378, 0.1192)
+
+=== 19_most_variable_sites_top_100 ===
+Saved: A:\TrafficAnalytics\PROJECTS\reports\scats_priority_answers\19_most_variable_sites_top_100.csv
+Columns: scats_site, mean_daily_volume, sd_daily_volume, cv
+(3031, 0.07611241217798595, 3.67809338923573, 48.3245)
+(350, 0.0008628127696289905, 0.04154064923972639, 48.1456)
+(3100, 0.007791195948578107, 0.32548553340445713, 41.7761)
+(452, 0.001557632398753894, 0.06239527875121757, 40.0578)
+(4056, 0.2625, 9.908573547331473, 37.7469)
+(475, 0.002334267040149393, 0.07788759630096985, 33.367)
+(684, 0.2603273577552611, 8.508637998795663, 32.6844)
+(485, 0.005580357142857143, 0.16703827619526526, 29.9333)
+(3512, 0.02796420581655481, 0.8361250776133138, 29.8998)
+(3140, 0.0022471910112359553, 0.06704015231539909, 29.8329)
+
+=== 20_peak_offpeak_overnight_shares_network ===
+Saved: A:\TrafficAnalytics\PROJECTS\reports\scats_priority_answers\20_peak_offpeak_overnight_shares_network.csv
+Columns: total_volume, am_peak, pm_peak, overnight, before_9am, after_6pm, am_peak_pct, pm_peak_pct, overnight_pct, before_9am_pct, after_6pm_pct
+(295222264839, 50015714775, 60928956409, 15789026278, 59597012792, 61713866099, 16.94, 20.64, 5.35, 20.19, 20.9)

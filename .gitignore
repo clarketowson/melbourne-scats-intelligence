@@ -1,33 +1,58 @@
-# Python
-__pycache__/
-*.pyc
-
-# Virtual environments
-env/
-venv/
-
-# DuckDB
+﻿# Large databases
 *.duckdb
-*.wal
-
-# SQLite
 *.sqlite
 *.db
-
-# CSV / data outputs
-*.csv
 *.parquet
 
-# Logs
-*.log
+# Raw datasets and local data
+DATA/
+data/raw/
+data/databases/
+*.csv.gz
+*.tar.gz
+*.zip
+*.7z
+*.rar
 
-# Temp
+# Video/audio/generated media
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.mp3
+*.wav
+*.aiff
+*.aifc
+
+# Python/cache/env
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# Logs/temp/backups
+*.tmp
+*.bak
+DuckDBTemp/
+TEMP/
 tmp/
-temp/
+old/
+backup/
+backups/
 
-# IDE
-.vscode/
+# Local audit/copy planning
+scats_repo_audit/
+scats_repo_copy_plan/
+scats_repo_copy_plan*/
 
-# OS
+# Windows
 Thumbs.db
-.DS_Store
+desktop.ini
+
+# Windows upgrade / system folders
+$WINDOWS.~BT/
+$WINDOWS.~WS/
+$RECYCLE.BIN/
+System Volume Information/

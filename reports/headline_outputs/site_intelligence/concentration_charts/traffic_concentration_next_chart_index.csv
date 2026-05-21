@@ -1,0 +1,9 @@
+filename,description
+01_top_100_vs_remaining_network.png,Top 100 sites compared with the remaining network
+02_top500_next500_remaining.png,"Top 500, next 500, and remaining sites"
+03_city_level_concentration_curve.png,Site share versus traffic share concentration curve
+04_sites_needed_for_traffic_thresholds.png,Number of sites required to reach traffic thresholds
+05_remaining_traffic_after_selection.png,Remaining traffic after selecting top-ranked sites
+06_avg_volume_per_site_group.png,Average traffic volume per site group
+07_traffic_share_by_rank_group.png,Traffic share by rank group
+08_commercial_portfolio_ladder.png,Commercial portfolio ladder by traffic captured
